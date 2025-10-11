@@ -18,8 +18,8 @@
   <meta property="og:description" content="Malbat Pack kalite politikası: Müşteri memnuniyetini ön planda tutan, sürekli iyileştirme odaklı kalite anlayışımız. ISO standartlarına uygun üretim." />
   <meta property="og:image" content="https://malbatpack.com/img/icon.png" />
   <meta name="robots" content="index, follow" />
-  <link rel="stylesheet" href="/src/css.css?v=hd24q" />
-  <link rel="shortcut icon" href="/img/icon.png?v=hd24q" type="image/png" />
+  <link rel="stylesheet" href="/src/css.css?v=aebkz" />
+  <link rel="shortcut icon" href="/img/icon.png?v=aebkz" type="image/png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
@@ -29,66 +29,72 @@
   <script src="/src/swiper-bundle.min.js"></script>
   
 
-  <script type="text/javascript" src="/src/firebase.js?v=hd24q"></script>
-<link rel="stylesheet" href="style.css?v=hd24q">
+  <script type="text/javascript" src="/src/firebase.js?v=aebkz"></script>
+<link rel="stylesheet" href="style.css?v=aebkz">
 </head>
 
 <body>
-  <div id="header"><div class="l80ub">
-  <div class="l80ubtitle">
-    <div class="l80ubtitlebody">
-      <div class="l80ubtitlebodytitle">
-        Malbat Pack
+  <div id="header"><div class="n9hyf">
+  <div class="n9hyftitle">
+    <div class="n9hyftitlebody">
+      <div class="n9hyftitlebodytitle">
+        Malbat Pack Web Sitemize Hoşgeldiniz
       </div>
-      <div class="l80ubtitlebodylang">
+      <div class="n9hyftitlebodylang">
         <ul>
           <li><a href="/tr/"><img height="25" src="/src/lang/tr.png"  alt="tr"></a></li><li><a href="/en/"><img height="25" src="/src/lang/en.png"  alt="en"></a></li><li><a href="/ar/"><img height="25" src="/src/lang/ar.png"  alt="ar"></a></li>
         </ul>
       </div>
     </div>
   </div>
-  <div class="l80ubbody">
-    <a href="/tr/"
-      ><img
-        src="/img/logo.svg?v=hd24q"
-        alt="Malbat Pack Logo"
-        class="l80ubbodylogo"
-    /></a>
-  </div>
-  <div class="l80ubmenubody">
-    <div class="l80ubmenu">
-      <div class="l80ubmenulistbody">
-        <div class="l80ubmenulist">
-          <ul>
-            <a href="/tr/">Anasayfa </a><a href="/tr/hakkimizda/">Kurumsal</a><a href="/tr/hizmetlerimiz/">Kutu ve Ambalajlar</a><a href="/tr/oluklu-kagit/">Kağıtlarımız</a><a href="/tr/referaslarimiz/">Referaslarımız</a><a href="/tr/iletisim/">İletişim</a>
-          </ul>
-        </div>
-      </div>
+  <div class="n9hyfChildren">
+    <div class="n9hyfbody">
+      <a href="/tr/"><img src="/img/logo.svg?v=aebkz" class="n9hyfbodylogo" alt="Malbat Pack Logo" /></a>
     </div>
-  </div>
-</div>
-
-</div>
-  <div id="content"><div class="wqonu-title f36">
-  <span>Kalite Politikamız</span>
-</div>
-<div class="wqonu">
-  <div class="wqonu-menu-btn">
-    <span>Menü</span>
-    <i class="fas fa-bars"></i>
-  </div>
-  <div class="wqonu-menu"><a   href="/tr/hakkimizda" >Hakkımızda</a><a   href="/tr/misyon" >Misyon</a><a   href="/tr/vizyon" >Vizyon</a><a class="active"  href="/tr/kalite-politikamiz" >Kalite Politikamız</a><a   href="/tr/gizlilik-politikasi" >Gizlilik Politikası</a><a   href="/tr/kisisel-veriler" >Kişisel Veriler</a><a   href="/tr/kullanici-haklari" >Kullanıcı Hakları</a><a   href="/tr/yasal-uyari" >Yasal Uyarı</a></div>
-  <div class="wqonu-desc">
-    
-    <div class="wqonu-body"><p><h2 style="font-size: 24px;">Kalite Politikamız</h2><p style=" font-size: 16px;">Kalite politikamız, müşteri memnuniyetini en üst seviyede tutmayı ve sürekli iyileştirmeyi hedefleyen bir yaklaşıma dayanır. Her projede, en iyi kalite standartlarını sağlamak için çalışıyor ve tüm süreçlerimizi bu doğrultuda sürekli gözden geçiriyoruz.</p></p></div>
+    <div class="n9hyfmenumobil">
+      <div class="material-symbols-outlined">menu</div>
+    </div>
+    <div class="n9hyfmenulist">
+      <ul>
+        <a href="/tr/" class="n9hyfmenuitem">Anasayfa </a><a href="/tr/hakkimizda/" class="n9hyfmenuitem">Kurumsal</a><a href="/tr/hizmetlerimiz/" class="n9hyfmenuitem">Kutu ve Ambalajlar</a><a href="/tr/oluklu-kagit/" class="n9hyfmenuitem">Kağıtlarımız</a><a href="/tr/referaslarimiz/" class="n9hyfmenuitem">Referaslarımız</a><a href="/tr/iletisim/" class="n9hyfmenuitem">İletişim</a>
+      </ul>
+    </div>
   </div>
 </div>
 
 <script>
   document
-    .querySelector(".wqonu-menu-btn")
+    .querySelector(".n9hyfmenumobil")
     .addEventListener("click", function () {
-      document.querySelector(".wqonu-menu").classList.toggle("active");
+      const menu = document.querySelector(".n9hyfmenulist");
+      if (menu.style.display === "flex") {
+        menu.style.display = "none";
+      } else {
+        menu.style.display = "flex";
+      }
+    });
+</script>
+</div>
+  <div id="content"><div class="c248p-title f36">
+  <span>Kalite Politikamız</span>
+</div>
+<div class="c248p">
+  <div class="c248p-menu-btn">
+    <span>Menü</span>
+    <i class="fas fa-bars"></i>
+  </div>
+  <div class="c248p-menu"><a   href="/tr/hakkimizda" >Hakkımızda</a><a   href="/tr/misyon" >Misyon</a><a   href="/tr/vizyon" >Vizyon</a><a class="active"  href="/tr/kalite-politikamiz" >Kalite Politikamız</a><a   href="/tr/gizlilik-politikasi" >Gizlilik Politikası</a><a   href="/tr/kisisel-veriler" >Kişisel Veriler</a><a   href="/tr/kullanici-haklari" >Kullanıcı Hakları</a><a   href="/tr/yasal-uyari" >Yasal Uyarı</a></div>
+  <div class="c248p-desc">
+    
+    <div class="c248p-body"><p><h2 style="font-size: 24px;">Kalite Politikamız</h2><p style=" font-size: 16px;">Kalite politikamız, müşteri memnuniyetini en üst seviyede tutmayı ve sürekli iyileştirmeyi hedefleyen bir yaklaşıma dayanır. Her projede, en iyi kalite standartlarını sağlamak için çalışıyor ve tüm süreçlerimizi bu doğrultuda sürekli gözden geçiriyoruz.</p></p></div>
+  </div>
+</div>
+
+<script>
+  document
+    .querySelector(".c248p-menu-btn")
+    .addEventListener("click", function () {
+      document.querySelector(".c248p-menu").classList.toggle("active");
       const icon = this.querySelector("i");
       icon.classList.toggle("fa-bars");
       icon.classList.toggle("fa-times");
@@ -154,7 +160,7 @@
 
 
 
-<script type="text/javascript" src="/src/js.js?v=hd24q"></script>
-<script src="/src/cookie.js?v=hd24q"></script>
+<script type="text/javascript" src="/src/js.js?v=aebkz"></script>
+<script src="/src/cookie.js?v=aebkz"></script>
 
 </html>

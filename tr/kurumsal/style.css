@@ -1,13 +1,26 @@
 
-  .iy4kz {
+  .crpc2menumobil {
+    display: none;
+    cursor: pointer;
+  }
+
+  .crpc2Children {
+    display: flex;
+    width: var(--max);
+    gap: 15px;
+    align-items: end;
+  }
+
+  .crpc2 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: #e9e9e9;
   }
 
-  .iy4kztitle {
+  .crpc2title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +28,7 @@
     justify-content: center;
   }
 
-  .iy4kztitlebody {
+  .crpc2titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,55 +36,48 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .iy4kztitlebodytitle {
+  .crpc2titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .iy4kztitlebodylang {
+  .crpc2titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .iy4kztitlebodylang ul {
+  .crpc2titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .iy4kzbody {
-    width: var(--max);
+  .crpc2body {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .iy4kzmenu {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    width: var(--max);
-  }
-
-  .iy4kzmenulist {
-    width: calc(100% - 20px);
-    background-color: #e31524;
+  .crpc2menulist {
+    display: block;
+    background-color: #ce0e2d;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
   }
 
-  .iy4kzmenubody {
+  .crpc2menubody {
     width: 100%;
-    background-color: #e31524;
+    background-color: #ce0e2d;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .iy4kzmenulist ul {
+  .crpc2menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,10 +87,11 @@
     overflow-x: auto;
   }
 
-  .iy4kzmenulist ul a {
-    padding: 10px;
+  .crpc2menulist ul a {
+    padding: 8px;
     font-size: 16px;
     color: #fff;
+    border-bottom: 1px solid #999;
     width: 100%;
     text-align: center;
     text-decoration: none;
@@ -92,50 +99,100 @@
     white-space: nowrap;
   }
 
-  .iy4kzmenulist ul a:hover {
-    background-color: #fff;
+  .crpc2menulist ul a:hover {
+    background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .iy4kz-menu-list-active {
-    background-color: #fff;
-    border-radius: 5px;
-      color: #000 !important;
-    cursor: pointer;
+  .crpc2menuitem {
+    padding: 8px;
+    font-size: 16px;
+    color: #fff;
+    border-bottom: 1px solid #999;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    white-space: nowrap;
   }
 
-  .iy4kzmenulistbody {
-    width: 100%;
+  .crpc2menuactive {
+    background-color: #e0e0e0 !important;
+    border-radius: 5px;
+    color: #000 !important;
+    font-weight: bold;
+  }
+
+  .crpc2bodylogo {
+    height: 100px;
+    max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .iy4kzbodylogo {
-      height: 100px;
-      max-width: 90vw;
-      max-height: 100px;
+    .crpc2menumobil {
+      display: none !important;
+    }
+
+    .crpc2menulist {
+      display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .iy4kzmenu {
+    .crpc2menumobil {
+      display: flex;
+      align-items: center;
+      justify-content: end;
+      background-color: #ce0e2d;
+      width: 100%;
+    }
+
+    .crpc2menumobil div {
+      font-size: 32px;
+      color: #fff;
+      padding: 5px;
+    }
+
+    .crpc2menulist {
+      display: none;
+    }
+
+    .crpc2body {
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .crpc2Children {
+      width: 100%;
+      gap: 0px;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .crpc2menulist ul a {
+      padding: 10px 0px 10px 0px;
+    }
+
+    .crpc2menu {
       overflow-x: auto;
     }
 
-    .iy4kzmenulist ul {
-      flex-direction: row;
+    .crpc2menulist ul {
+      flex-direction: column;
     }
 
-    .iy4kzbodylogo {
-      width: 50vw;
+    .crpc2bodylogo {
+      max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .iy4kzmenulist ul a {
+    .crpc2menulist ul a {
       font-size: 14px;
     }
   }

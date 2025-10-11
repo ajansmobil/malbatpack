@@ -3,18 +3,54 @@
     {
       "index": 0,
       "name": "Menü ",
-      "path": "menu-2-b",
+      "path": "menu-4",
       "local": "header",
       "category": "menu",
       "desing": {
-        "color": "#fff",
-        "page": "page",
-        "bgcolor": "#e31524",
-        "colorhover": "#000",
-        "bgcolorhover": "#fff"
+        "color": "#ce0e2d",
+        "logo": "logo.svg",
+        "height": "100px",
+        "background-color": "#e9e9e9"
       },
       "id": "if9ixc",
-      "description": "Responsive web sitesi navigasyon menüsü. Logo, sayfa linkleri ve mobil uyumlu hamburger menü içerir.  web sitelerinde 1 projede kullanılır."
+      "description": "Responsive web sitesi navigasyon menüsü. Logo, sayfa linkleri ve mobil uyumlu hamburger menü içerir.  web sitelerinde 1 projede kullanılır.",
+      "version": "1.0.0",
+      "icon": "menu",
+      "data": [
+        {
+          "name": {
+            "tr": "Bizi hemen arayın"
+          },
+          "spot": "+90 342 221 00 02",
+          "icon": "phone",
+          "externalUrl": "",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        },
+        {
+          "name": {
+            "tr": "Bize yazın"
+          },
+          "spot": "info@{{domain}}",
+          "icon": "mail",
+          "url": "info@{{domain}}",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        },
+        {
+          "name": {
+            "tr": "İncilipınar Mah. Şehit Yusuf Erin Cad."
+          },
+          "spot": "Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep",
+          "icon": "location_on",
+          "externalUrl": "",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        }
+      ]
     },
     {
       "index": 1,
@@ -82,8 +118,8 @@
         },
         {
           "icon": "email",
-          "text": "mustafa@mepambalaj.org",
-          "url": "email:mustafa@mepambalaj.org"
+          "text": "info@malbatpack.com",
+          "url": "email:info@malbatpack.com"
         },
         {
           "icon": "map",
@@ -125,8 +161,8 @@
         "height": "100",
         "opacity": "0.5",
         "font-size": "32",
-        "backgroundcolor": "#000",
-        "menu-active": "#000"
+        "backgroundcolor": "#ce0e2d",
+        "menu-active": "#ce0e2d"
       },
       "id": "mfki0h",
       "description": "Kompakt sayfa başlık ve hero banner modülü. Küçük font boyutu ile modern minimalist tasarım sunar. 7 farklı projede kullanılır: ajans, mobil uygulamalar, kargo, kurumsal, ambalaj, inşaat ve sağlık sektörlerinde. Kurumsal sayfalara özel kategori sistemi, aktif menü renklendirme ve responsive header yapısı içerir.",
@@ -286,6 +322,55 @@
       "description": "Kare görsel grid liste modülü. Sayfa içeriklerini 4 sütunlu responsive grid düzeninde gösterir. 8 farklı projede kullanılır: üretim, lojistik, kurumsal, ambalaj, profesyonel hizmet ve inşaat sektörlerinde. 1:1 aspect ratio kare görsel formatı, kategori filtreleme ve hover efektleri içerir.",
       "version": "1.0.0",
       "icon": "grid_view"
+    },
+    {
+      "index": 11,
+      "name": "Tanıtım Modülü",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "id": "m8lnpg",
+      "desing": {
+        "name": {
+          "tr": "Malbat Pack'i Tanıyın",
+          "en": "Get to Know Malbat Pack",
+          "ar": "تعرف على مالبات باك"
+        },
+        "spot": {
+          "tr": "20 yılı aşkın deneyim ile Irak'ın en büyük kutu ve ambalaj üreticisi olarak, ileri teknoloji ve modern üretim tesislerimizle her ihtiyaca özel ambalaj çözümleri sunuyoruz. Gıda, kozmetik, ilaç ve sanayi sektörlerine yönelik geniş ürün yelpazemiz, yüksek kalite standartları ve müşteri memnuniyeti odaklı yaklaşımımızla sektörün öncü firması konumundayız. Üretim kapasitemiz, deneyimli ekibimiz ve AR-GE çalışmalarımızla müşterilerimize en iyi hizmeti sunmayı taahhüt ediyoruz.",
+          "en": "With over 20 years of experience as Iraq's largest box and packaging manufacturer, we offer customized packaging solutions for every need through our advanced technology and modern production facilities. With our wide product range for food, cosmetics, pharmaceutical and industrial sectors, high quality standards and customer satisfaction-oriented approach, we are the leading company in the sector. We are committed to providing the best service to our customers with our production capacity, experienced team and R&D studies.",
+          "ar": "بخبرة تزيد عن 20 عامًا كأكبر مصنع للصناديق والتعبئة في العراق، نقدم حلول تعبئة مخصصة لكل احتياج من خلال تقنيتنا المتقدمة ومرافق الإنتاج الحديثة. مع مجموعة منتجاتنا الواسعة لقطاعات الأغذية ومستحضرات التجميل والأدوية والصناعة، ومعايير الجودة العالية ونهجنا الموجه نحو رضا العملاء، نحن الشركة الرائدة في القطاع. نحن ملتزمون بتقديم أفضل خدمة لعملائنا بقدرتنا الإنتاجية وفريقنا ذي الخبرة ودراسات البحث والتطوير."
+        },
+        "name2": {
+          "tr": "Vizyonumuz",
+          "en": "Our Vision",
+          "ar": "رؤيتنا"
+        },
+        "spot2": {
+          "tr": "Ambalaj sektöründe Ortadoğu'nun en güvenilir ve tercih edilen markası olmak, sürdürülebilir üretim ve inovatif çözümlerle küresel pazarda lider konuma ulaşmak.",
+          "en": "To be the most reliable and preferred brand in the Middle East in the packaging sector, and to reach a leading position in the global market with sustainable production and innovative solutions.",
+          "ar": "أن نكون العلامة التجارية الأكثر موثوقية وتفضيلاً في الشرق الأوسط في قطاع التعبئة والتغليف، وأن نصل إلى مكانة قيادية في السوق العالمية من خلال الإنتاج المستدام والحلول المبتكرة."
+        },
+        "icon2": "visibility",
+        "name3": {
+          "tr": "Misyonumuz",
+          "en": "Our Mission",
+          "ar": "مهمتنا"
+        },
+        "spot3": {
+          "tr": "Müşterilerimize yüksek kaliteli, çevre dostu ve ekonomik ambalaj çözümleri sunarak, modern teknoloji ve uzman kadromuzla sektöre değer katmak, sürekli gelişim ve müşteri memnuniyetini ön planda tutmak.",
+          "en": "To add value to the sector with modern technology and our expert staff by providing high quality, environmentally friendly and economical packaging solutions to our customers, to prioritize continuous improvement and customer satisfaction.",
+          "ar": "إضافة قيمة للقطاع بالتكنولوجيا الحديثة وموظفينا الخبراء من خلال تقديم حلول تعبئة عالية الجودة وصديقة للبيئة واقتصادية لعملائنا، وإعطاء الأولوية للتحسين المستمر ورضا العملاء."
+        },
+        "icon3": "home",
+        "img": "index.png",
+        "bgcolor": "#000",
+        "fontcolor": "#fff",
+        "margintop": "20",
+        "marginbotton": "20"
+      },
+      "version": "1.0.0",
+      "icon": "business"
     }
   ]
 }

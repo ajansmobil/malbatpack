@@ -1,13 +1,26 @@
 
-  .g8r7r {
+  .tm90umenumobil {
+    display: none;
+    cursor: pointer;
+  }
+
+  .tm90uChildren {
+    display: flex;
+    width: var(--max);
+    gap: 15px;
+    align-items: end;
+  }
+
+  .tm90u {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: #e9e9e9;
   }
 
-  .g8r7rtitle {
+  .tm90utitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +28,7 @@
     justify-content: center;
   }
 
-  .g8r7rtitlebody {
+  .tm90utitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,55 +36,48 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .g8r7rtitlebodytitle {
+  .tm90utitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .g8r7rtitlebodylang {
+  .tm90utitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .g8r7rtitlebodylang ul {
+  .tm90utitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .g8r7rbody {
-    width: var(--max);
+  .tm90ubody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .g8r7rmenu {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    width: var(--max);
-  }
-
-  .g8r7rmenulist {
-    width: calc(100% - 20px);
-    background-color: #e31524;
+  .tm90umenulist {
+    display: block;
+    background-color: #ce0e2d;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
   }
 
-  .g8r7rmenubody {
+  .tm90umenubody {
     width: 100%;
-    background-color: #e31524;
+    background-color: #ce0e2d;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .g8r7rmenulist ul {
+  .tm90umenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,10 +87,11 @@
     overflow-x: auto;
   }
 
-  .g8r7rmenulist ul a {
-    padding: 10px;
+  .tm90umenulist ul a {
+    padding: 8px;
     font-size: 16px;
     color: #fff;
+    border-bottom: 1px solid #999;
     width: 100%;
     text-align: center;
     text-decoration: none;
@@ -92,50 +99,100 @@
     white-space: nowrap;
   }
 
-  .g8r7rmenulist ul a:hover {
-    background-color: #fff;
+  .tm90umenulist ul a:hover {
+    background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .g8r7r-menu-list-active {
-    background-color: #fff;
-    border-radius: 5px;
-      color: #000 !important;
-    cursor: pointer;
+  .tm90umenuitem {
+    padding: 8px;
+    font-size: 16px;
+    color: #fff;
+    border-bottom: 1px solid #999;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    white-space: nowrap;
   }
 
-  .g8r7rmenulistbody {
-    width: 100%;
+  .tm90umenuactive {
+    background-color: #e0e0e0 !important;
+    border-radius: 5px;
+    color: #000 !important;
+    font-weight: bold;
+  }
+
+  .tm90ubodylogo {
+    height: 100px;
+    max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .g8r7rbodylogo {
-      height: 100px;
-      max-width: 90vw;
-      max-height: 100px;
+    .tm90umenumobil {
+      display: none !important;
+    }
+
+    .tm90umenulist {
+      display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .g8r7rmenu {
+    .tm90umenumobil {
+      display: flex;
+      align-items: center;
+      justify-content: end;
+      background-color: #ce0e2d;
+      width: 100%;
+    }
+
+    .tm90umenumobil div {
+      font-size: 32px;
+      color: #fff;
+      padding: 5px;
+    }
+
+    .tm90umenulist {
+      display: none;
+    }
+
+    .tm90ubody {
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .tm90uChildren {
+      width: 100%;
+      gap: 0px;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .tm90umenulist ul a {
+      padding: 10px 0px 10px 0px;
+    }
+
+    .tm90umenu {
       overflow-x: auto;
     }
 
-    .g8r7rmenulist ul {
-      flex-direction: row;
+    .tm90umenulist ul {
+      flex-direction: column;
     }
 
-    .g8r7rbodylogo {
-      width: 50vw;
+    .tm90ubodylogo {
+      max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .g8r7rmenulist ul a {
+    .tm90umenulist ul a {
       font-size: 14px;
     }
   }

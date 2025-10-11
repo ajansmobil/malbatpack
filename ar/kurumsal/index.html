@@ -18,8 +18,8 @@
   <meta property="og:description" content="صفحة الشركة Malbat Pack: معلومات مفصلة عن شركتنا ورؤيتنا ورسالتنا وقيمنا. حلول تعبئة وتغليف موثوقة." />
   <meta property="og:image" content="https://malbatpack.com/img/icon.png" />
   <meta name="robots" content="index, follow" />
-  <link rel="stylesheet" href="/src/css.css?v=vd6wr" />
-  <link rel="shortcut icon" href="/img/icon.png?v=vd6wr" type="image/png" />
+  <link rel="stylesheet" href="/src/css.css?v=u8cx0" />
+  <link rel="shortcut icon" href="/img/icon.png?v=u8cx0" type="image/png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
@@ -29,45 +29,51 @@
   <script src="/src/swiper-bundle.min.js"></script>
   
 
-  <script type="text/javascript" src="/src/firebase.js?v=vd6wr"></script>
-<link rel="stylesheet" href="style.css?v=vd6wr">
+  <script type="text/javascript" src="/src/firebase.js?v=u8cx0"></script>
+<link rel="stylesheet" href="style.css?v=u8cx0">
 </head>
 
 <body>
-  <div id="header"><div class="g8r7r">
-  <div class="g8r7rtitle">
-    <div class="g8r7rtitlebody">
-      <div class="g8r7rtitlebodytitle">
-        Malbat Pack
+  <div id="header"><div class="tm90u">
+  <div class="tm90utitle">
+    <div class="tm90utitlebody">
+      <div class="tm90utitlebodytitle">
+        Malbat Pack Web Sitemize Hoşgeldiniz
       </div>
-      <div class="g8r7rtitlebodylang">
+      <div class="tm90utitlebodylang">
         <ul>
           <li><a href="/tr/"><img height="25" src="/src/lang/tr.png"  alt="tr"></a></li><li><a href="/en/"><img height="25" src="/src/lang/en.png"  alt="en"></a></li><li><a href="/ar/"><img height="25" src="/src/lang/ar.png"  alt="ar"></a></li>
         </ul>
       </div>
     </div>
   </div>
-  <div class="g8r7rbody">
-    <a href="/ar/"
-      ><img
-        src="/img/logo.svg?v=vd6wr"
-        alt="Malbat Pack Logo"
-        class="g8r7rbodylogo"
-    /></a>
-  </div>
-  <div class="g8r7rmenubody">
-    <div class="g8r7rmenu">
-      <div class="g8r7rmenulistbody">
-        <div class="g8r7rmenulist">
-          <ul>
-            <a href="/ar/">الصفحة الرئيسية </a><a class="g8r7r-menu-list-active" href="/ar/kurumsal/">الشركة</a><a href="/ar/hizmetlerimiz/">خدماتنا</a><a href="/ar/oluklu-kagit/">أوراقنا</a><a href="/ar/referaslarimiz/">مراجعنا</a><a href="/ar/iletisim/">اتصل بنا</a>
-          </ul>
-        </div>
-      </div>
+  <div class="tm90uChildren">
+    <div class="tm90ubody">
+      <a href="/ar/"><img src="/img/logo.svg?v=u8cx0" class="tm90ubodylogo" alt="Malbat Pack Logo" /></a>
+    </div>
+    <div class="tm90umenumobil">
+      <div class="material-symbols-outlined">menu</div>
+    </div>
+    <div class="tm90umenulist">
+      <ul>
+        <a href="/ar/" class="tm90umenuitem">الصفحة الرئيسية </a><a href="/ar/hakkimizda/" class="tm90umenuitem tm90umenuactive">الشركة</a><a href="/ar/hizmetlerimiz/" class="tm90umenuitem">خدماتنا</a><a href="/ar/oluklu-kagit/" class="tm90umenuitem">أوراقنا</a><a href="/ar/referaslarimiz/" class="tm90umenuitem">مراجعنا</a><a href="/ar/iletisim/" class="tm90umenuitem">اتصل بنا</a>
+      </ul>
     </div>
   </div>
 </div>
 
+<script>
+  document
+    .querySelector(".tm90umenumobil")
+    .addEventListener("click", function () {
+      const menu = document.querySelector(".tm90umenulist");
+      if (menu.style.display === "flex") {
+        menu.style.display = "none";
+      } else {
+        menu.style.display = "flex";
+      }
+    });
+</script>
 </div>
   <div id="content"></div>
   <div id="footer"><footer class="footer">
@@ -122,7 +128,7 @@
 
 
 
-<script type="text/javascript" src="/src/js.js?v=vd6wr"></script>
-<script src="/src/cookie.js?v=vd6wr"></script>
+<script type="text/javascript" src="/src/js.js?v=u8cx0"></script>
+<script src="/src/cookie.js?v=u8cx0"></script>
 
 </html>

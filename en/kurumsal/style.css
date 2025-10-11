@@ -1,13 +1,26 @@
 
-  .hhfxa {
+  .gcyrnmenumobil {
+    display: none;
+    cursor: pointer;
+  }
+
+  .gcyrnChildren {
+    display: flex;
+    width: var(--max);
+    gap: 15px;
+    align-items: end;
+  }
+
+  .gcyrn {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: #e9e9e9;
   }
 
-  .hhfxatitle {
+  .gcyrntitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +28,7 @@
     justify-content: center;
   }
 
-  .hhfxatitlebody {
+  .gcyrntitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,55 +36,48 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .hhfxatitlebodytitle {
+  .gcyrntitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .hhfxatitlebodylang {
+  .gcyrntitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .hhfxatitlebodylang ul {
+  .gcyrntitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .hhfxabody {
-    width: var(--max);
+  .gcyrnbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .hhfxamenu {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    width: var(--max);
-  }
-
-  .hhfxamenulist {
-    width: calc(100% - 20px);
-    background-color: #e31524;
+  .gcyrnmenulist {
+    display: block;
+    background-color: #ce0e2d;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
   }
 
-  .hhfxamenubody {
+  .gcyrnmenubody {
     width: 100%;
-    background-color: #e31524;
+    background-color: #ce0e2d;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .hhfxamenulist ul {
+  .gcyrnmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,10 +87,11 @@
     overflow-x: auto;
   }
 
-  .hhfxamenulist ul a {
-    padding: 10px;
+  .gcyrnmenulist ul a {
+    padding: 8px;
     font-size: 16px;
     color: #fff;
+    border-bottom: 1px solid #999;
     width: 100%;
     text-align: center;
     text-decoration: none;
@@ -92,50 +99,100 @@
     white-space: nowrap;
   }
 
-  .hhfxamenulist ul a:hover {
-    background-color: #fff;
+  .gcyrnmenulist ul a:hover {
+    background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .hhfxa-menu-list-active {
-    background-color: #fff;
-    border-radius: 5px;
-      color: #000 !important;
-    cursor: pointer;
+  .gcyrnmenuitem {
+    padding: 8px;
+    font-size: 16px;
+    color: #fff;
+    border-bottom: 1px solid #999;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    white-space: nowrap;
   }
 
-  .hhfxamenulistbody {
-    width: 100%;
+  .gcyrnmenuactive {
+    background-color: #e0e0e0 !important;
+    border-radius: 5px;
+    color: #000 !important;
+    font-weight: bold;
+  }
+
+  .gcyrnbodylogo {
+    height: 100px;
+    max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .hhfxabodylogo {
-      height: 100px;
-      max-width: 90vw;
-      max-height: 100px;
+    .gcyrnmenumobil {
+      display: none !important;
+    }
+
+    .gcyrnmenulist {
+      display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .hhfxamenu {
+    .gcyrnmenumobil {
+      display: flex;
+      align-items: center;
+      justify-content: end;
+      background-color: #ce0e2d;
+      width: 100%;
+    }
+
+    .gcyrnmenumobil div {
+      font-size: 32px;
+      color: #fff;
+      padding: 5px;
+    }
+
+    .gcyrnmenulist {
+      display: none;
+    }
+
+    .gcyrnbody {
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .gcyrnChildren {
+      width: 100%;
+      gap: 0px;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .gcyrnmenulist ul a {
+      padding: 10px 0px 10px 0px;
+    }
+
+    .gcyrnmenu {
       overflow-x: auto;
     }
 
-    .hhfxamenulist ul {
-      flex-direction: row;
+    .gcyrnmenulist ul {
+      flex-direction: column;
     }
 
-    .hhfxabodylogo {
-      width: 50vw;
+    .gcyrnbodylogo {
+      max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .hhfxamenulist ul a {
+    .gcyrnmenulist ul a {
       font-size: 14px;
     }
   }
