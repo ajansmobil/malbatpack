@@ -1,17 +1,17 @@
 
-  .weusqmenumobil {
+  .ynap0menumobil {
     display: none;
     cursor: pointer;
   }
 
-  .weusqChildren {
+  .ynap0Children {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .weusq {
+  .ynap0 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .weusqtitle {
+  .ynap0title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .weusqtitlebody {
+  .ynap0titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .weusqtitlebodytitle {
+  .ynap0titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .weusqtitlebodylang {
+  .ynap0titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .weusqtitlebodylang ul {
+  .ynap0titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .weusqbody {
+  .ynap0body {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .weusqmenulist {
+  .ynap0menulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .weusqmenubody {
+  .ynap0menubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .weusqmenulist ul {
+  .ynap0menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .weusqmenulist ul a {
+  .ynap0menulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .weusqmenulist ul a:hover {
+  .ynap0menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .weusqmenuitem {
+  .ynap0menuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .weusqmenuactive {
+  .ynap0menuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .weusqbodylogo {
+  .ynap0bodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .weusqmenumobil {
+    .ynap0menumobil {
       display: none !important;
     }
 
-    .weusqmenulist {
+    .ynap0menulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .weusqmenumobil {
+    .ynap0menumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .weusqmenumobil div {
+    .ynap0menumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .weusqmenulist {
+    .ynap0menulist {
       display: none;
     }
 
-    .weusqbody {
+    .ynap0body {
       flex-direction: column;
       gap: 20px;
     }
 
-    .weusqChildren {
+    .ynap0Children {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .weusqmenulist ul a {
+    .ynap0menulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .weusqmenu {
+    .ynap0menu {
       overflow-x: auto;
     }
 
-    .weusqmenulist ul {
+    .ynap0menulist ul {
       flex-direction: column;
     }
 
-    .weusqbodylogo {
+    .ynap0bodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,24 +192,24 @@
   }
 
   @media screen and (max-width: 768px) {
-    .weusqmenulist ul a {
+    .ynap0menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .auk9x {
+  .gnd2w {
     width: 100%;
     margin: 15px 0;
   }
 
-  .auk9xbody {
+  .gnd2wbody {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 15px;
   }
 
-  .auk9xbodyitem {
+  .gnd2wbodyitem {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -220,7 +220,7 @@
     position: relative;
   }
 
-  .auk9xbodyitemlink {
+  .gnd2wbodyitemlink {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -229,7 +229,7 @@
     gap: 10px;
   }
 
-  .auk9xbodyitemimg {
+  .gnd2wbodyitemimg {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -240,18 +240,18 @@
     transition: all 0.3s ease;
   }
 
-  .auk9xbodyitemimg:hover {
+  .gnd2wbodyitemimg:hover {
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
     transform: translateY(-5px);
   }
 
-  .auk9xbodyitemimg img {
+  .gnd2wbodyitemimg img {
     max-height: 200px;
     max-width: calc(200px * 2);
     border-radius: 10px;
   }
 
-  .auk9xbodyitemtitle {
+  .gnd2wbodyitemtitle {
     padding: 5px;
     display: flex;
     height: calc(18px * 2);
@@ -262,7 +262,7 @@
     color: #fff;
   }
 
-  .auk9xbodybg {
+  .gnd2wbodybg {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -273,7 +273,7 @@
     opacity: 0.5;
   }
 
-  .auk9xbodyitems {
+  .gnd2wbodyitems {
     padding: 5px;
     display: flex;
     flex-direction: column;
@@ -284,25 +284,25 @@
     position: relative;
   }
 
-  .auk9xbodyitems.left {
+  .gnd2wbodyitems.left {
     align-self: flex-start;
     border-radius: 0px 10px 10px 0px;
     transform: translateY(60px);
     animation: slideInLeft 1s forwards;
   }
 
-  .auk9xbodyitems.right {
+  .gnd2wbodyitems.right {
     align-self: flex-end;
     border-radius: 10px 0px 0px 10px;
     transform: translateY(60px);
     animation: slideInRight 1s forwards;
   }
 
-  .auk9xbodyitem.lefts {
+  .gnd2wbodyitem.lefts {
     align-self: flex-end;
   }
 
-  .auk9xbodyitem.rights {
+  .gnd2wbodyitem.rights {
     align-self: flex-start;
   }
 
@@ -330,18 +330,18 @@
     }
   }
 
-  .auk9xbodyitems {
+  .gnd2wbodyitems {
     animation-delay: 0.3s;
   }
 
  
 
   @media screen and (max-width: 1024px) {
-    .auk9xbodyitem {
+    .gnd2wbodyitem {
       width: 100%;
     }
 
-    .auk9xbody {
+    .gnd2wbody {
       display: flex;
       flex-direction: column;
       gap: 15px;

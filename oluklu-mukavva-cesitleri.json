@@ -1,0 +1,211 @@
+{
+  "name": "Oluklu Mukavva Çeşitleri",
+  "path": "oluklu-mukavva-cesitleri",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "E Dalga Mukavva (Mikro Dalga)",
+        "en": "E Flute Corrugated (Micro Flute)",
+        "ar": "الكرتون المموج E (الموجة الدقيقة)"
+      },
+      "status": "play",
+      "category": "",
+      "id": "seg7lewdh0",
+      "url": "",
+      "path": "e-dalga-mukavva-mikro-dalga",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "E Dalga mikro mukavva, ince ve hafif yapısıyla küçük ürünlerin ambalajlanması için ideal çözüm sunar. Yüksek baskı kalitesi ve detaylı tasarımlar için en uygun mukavva türüdür.",
+        "en": "E Flute micro corrugated offers an ideal solution for packaging small products with its thin and lightweight structure. It is the most suitable cardboard type for high print quality and detailed designs.",
+        "ar": "يوفر الكرتون المموج الدقيق E حلاً مثالياً لتعبئة المنتجات الصغيرة بهيكله الرقيق والخفيف. إنه النوع الأنسب من الكرتون للحصول على جودة طباعة عالية وتصميمات مفصلة."
+      },
+      "spot": {
+        "tr": "İnce ve hafif yapı, mükemmel baskı kalitesi, küçük ürünler için ideal",
+        "en": "Thin and lightweight structure, excellent print quality, ideal for small products",
+        "ar": "هيكل رقيق وخفيف، جودة طباعة ممتازة، مثالي للمنتجات الصغيرة"
+      },
+      "icon": "home",
+      "img": "ukgj4.jpg",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "B Dalga Mukavva (İnce Dalga)",
+        "en": "B Flute Corrugated (Fine Flute)",
+        "ar": "الكرتون المموج B (الموجة الرقيقة)"
+      },
+      "status": "play",
+      "category": "",
+      "id": "hcxfk4nf2b",
+      "url": "",
+      "path": "b-dalga-mukavva-ince-dalga",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "B Dalga mukavva, orta boy ürünlerin ambalajlanmasında kullanılan dayanıklı ve çok yönlü bir mukavva türüdür. İyi baskı kalitesi ve yastıklama özelliği ile öne çıkar.",
+        "en": "B Flute corrugated is a durable and versatile cardboard type used in packaging medium-sized products. It stands out with good print quality and cushioning properties.",
+        "ar": "الكرتون المموج B هو نوع من الكرتون المتين والمتعدد الاستخدامات المستخدم في تغليف المنتجات متوسطة الحجم. يتميز بجودة طباعة جيدة وخصائص توسيد."
+      },
+      "spot": {
+        "tr": "Orta kalınlık, iyi yastıklama, çok yönlü kullanım",
+        "en": "Medium thickness, good cushioning, versatile use",
+        "ar": "سمك متوسط، توسيد جيد، استخدام متعدد الأغراض"
+      },
+      "img": "k0ie0.jpg",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "C Dalga Mukavva (İri Dalga)",
+        "en": "C Flute Corrugated (Large Flute)",
+        "ar": "الكرتون المموج C (الموجة الكبيرة)"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ewuvwdjfvc",
+      "url": "",
+      "path": "c-dalga-mukavva-iri-dalga",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "C Dalga mukavva, yüksek dayanıklılık ve üstün darbe emme özelliği ile ağır ve hassas ürünlerin taşınmasında kullanılan en yaygın mukavva türüdür. Mükemmel yastıklama sağlar.",
+        "en": "C Flute corrugated is the most common cardboard type used for transporting heavy and delicate products with high durability and superior shock absorption. It provides excellent cushioning.",
+        "ar": "الكرتون المموج C هو النوع الأكثر شيوعاً من الكرتون المستخدم في نقل المنتجات الثقيلة والحساسة مع متانة عالية وامتصاص صدمات فائق. يوفر توسيداً ممتازاً."
+      },
+      "spot": {
+        "tr": "Yüksek dayanıklılık, mükemmel yastıklama, ağır yükler için ideal",
+        "en": "High durability, excellent cushioning, ideal for heavy loads",
+        "ar": "متانة عالية، توسيد ممتاز، مثالي للأحمال الثقيلة"
+      },
+      "img": "jfxbb.jpg",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "B+C Dalga Mukavva (Dopel)",
+        "en": "B+C Flute Corrugated (Double Wall)",
+        "ar": "الكرتون المموج B+C (الجدار المزدوج)"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ponn0nc416",
+      "url": "",
+      "path": "bc-dalga-mukavva-dopel",
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "B+C Dalga dopel mukavva, çift katmanlı yapısı ile maksimum dayanıklılık sağlar. Çok ağır ve hassas ürünlerin güvenli taşınması için üretilmiş premium mukavva türüdür.",
+        "en": "B+C Flute double wall corrugated provides maximum durability with its double-layered structure. It is a premium cardboard type produced for safe transportation of very heavy and delicate products.",
+        "ar": "يوفر الكرتون المموج B+C ذو الجدار المزدوج أقصى متانة بهيكله ذي الطبقتين. إنه نوع من الكرتون المتميز المنتج للنقل الآمن للمنتجات الثقيلة جداً والحساسة."
+      },
+      "spot": {
+        "tr": "Çift katmanlı yapı, ekstra dayanıklılık, çok ağır yükler için",
+        "en": "Double-layered structure, extra durability, for very heavy loads",
+        "ar": "هيكل ذو طبقتين، متانة إضافية، للأحمال الثقيلة جداً"
+      },
+      "img": "i5sv6.jpg",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "E+B Dalga Mukavva (Mikro Dopel)",
+        "en": "E+B Flute Corrugated (Micro Double Wall)",
+        "ar": "الكرتون المموج E+B (الجدار المزدوج الصغير)"
+      },
+      "status": "play",
+      "category": "",
+      "id": "odiga1bhkv",
+      "url": "",
+      "path": "eb-dalga-mukavva-mikro-dopel",
+      "index": 4,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "E+B Dalga mikro dopel mukavva, ince ama dayanıklı yapısı ile hassas ürünlerin korunmasında kullanılır. Mükemmel baskı kalitesi ve ekstra koruma bir arada sunar.",
+        "en": "E+B Flute micro double wall corrugated is used in protecting delicate products with its thin but durable structure. It offers excellent print quality and extra protection together.",
+        "ar": "يستخدم الكرتون المموج E+B ذو الجدار المزدوج الصغير في حماية المنتجات الحساسة بهيكله الرقيق لكن المتين. يوفر جودة طباعة ممتازة وحماية إضافية معاً."
+      },
+      "spot": {
+        "tr": "İnce ve dayanıklı, mükemmel baskı, hassas ürünler için",
+        "en": "Thin and durable, excellent printing, for delicate products",
+        "ar": "رقيق ومتين، طباعة ممتازة، للمنتجات الحساسة"
+      },
+      "img": "t5z6j.jpg",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "BCA Tripleks Mukavva",
+        "en": "BCA Triple Wall Corrugated",
+        "ar": "الكرتون المموج BCA ثلاثي الجدران"
+      },
+      "status": "play",
+      "category": "",
+      "id": "epzqdgtdec",
+      "url": "",
+      "path": "bca-tripleks-mukavva",
+      "index": 5,
+      "icon": "home",
+      "img": "q796z.jpg",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "BCA Tripleks mukavva, üç katmanlı yapısı ile en yüksek dayanıklılığı sunan premium mukavva türüdür. Ekstra ağır yükler ve özel koruma gerektiren ürünler için ideal çözümdür.",
+        "en": "BCA Triple wall corrugated is a premium cardboard type offering the highest durability with its three-layered structure. It is the ideal solution for extra heavy loads and products requiring special protection.",
+        "ar": "الكرتون المموج BCA ثلاثي الجدران هو نوع من الكرتون المتميز الذي يوفر أعلى متانة بهيكله ذي الثلاث طبقات. إنه الحل الأمثل للأحمال الثقيلة جداً والمنتجات التي تتطلب حماية خاصة."
+      },
+      "spot": {
+        "tr": "Üç katmanlı yapı, maksimum dayanıklılık, ekstra ağır yükler için",
+        "en": "Three-layered structure, maximum durability, for extra heavy loads",
+        "ar": "هيكل ثلاثي الطبقات، أقصى متانة، للأحمال الثقيلة جداً"
+      },
+      "desc": {}
+    }
+  ],
+  "index": 4,
+  "desing": {
+    "header": [],
+    "body": [
+      "mfki0h"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "detail": true
+  }
+}

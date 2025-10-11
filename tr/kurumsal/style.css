@@ -1,17 +1,17 @@
 
-  .crpc2menumobil {
+  .h19tumenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .crpc2Children {
+  .h19tuChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .crpc2 {
+  .h19tu {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .crpc2title {
+  .h19tutitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .crpc2titlebody {
+  .h19tutitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .crpc2titlebodytitle {
+  .h19tutitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .crpc2titlebodylang {
+  .h19tutitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .crpc2titlebodylang ul {
+  .h19tutitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .crpc2body {
+  .h19tubody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .crpc2menulist {
+  .h19tumenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .crpc2menubody {
+  .h19tumenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .crpc2menulist ul {
+  .h19tumenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .crpc2menulist ul a {
+  .h19tumenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .crpc2menulist ul a:hover {
+  .h19tumenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .crpc2menuitem {
+  .h19tumenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .crpc2menuactive {
+  .h19tumenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .crpc2bodylogo {
+  .h19tubodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .crpc2menumobil {
+    .h19tumenumobil {
       display: none !important;
     }
 
-    .crpc2menulist {
+    .h19tumenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .crpc2menumobil {
+    .h19tumenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .crpc2menumobil div {
+    .h19tumenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .crpc2menulist {
+    .h19tumenulist {
       display: none;
     }
 
-    .crpc2body {
+    .h19tubody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .crpc2Children {
+    .h19tuChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .crpc2menulist ul a {
+    .h19tumenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .crpc2menu {
+    .h19tumenu {
       overflow-x: auto;
     }
 
-    .crpc2menulist ul {
+    .h19tumenulist ul {
       flex-direction: column;
     }
 
-    .crpc2bodylogo {
+    .h19tubodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,7 +192,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .crpc2menulist ul a {
+    .h19tumenulist ul a {
       font-size: 14px;
     }
   }

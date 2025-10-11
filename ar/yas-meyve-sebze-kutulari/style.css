@@ -1,17 +1,17 @@
 
-  .dutngmenumobil {
+  .sl7ommenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .dutngChildren {
+  .sl7omChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .dutng {
+  .sl7om {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .dutngtitle {
+  .sl7omtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .dutngtitlebody {
+  .sl7omtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .dutngtitlebodytitle {
+  .sl7omtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .dutngtitlebodylang {
+  .sl7omtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .dutngtitlebodylang ul {
+  .sl7omtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .dutngbody {
+  .sl7ombody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .dutngmenulist {
+  .sl7ommenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .dutngmenubody {
+  .sl7ommenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .dutngmenulist ul {
+  .sl7ommenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .dutngmenulist ul a {
+  .sl7ommenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .dutngmenulist ul a:hover {
+  .sl7ommenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .dutngmenuitem {
+  .sl7ommenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .dutngmenuactive {
+  .sl7ommenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .dutngbodylogo {
+  .sl7ombodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .dutngmenumobil {
+    .sl7ommenumobil {
       display: none !important;
     }
 
-    .dutngmenulist {
+    .sl7ommenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .dutngmenumobil {
+    .sl7ommenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .dutngmenumobil div {
+    .sl7ommenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .dutngmenulist {
+    .sl7ommenulist {
       display: none;
     }
 
-    .dutngbody {
+    .sl7ombody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .dutngChildren {
+    .sl7omChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .dutngmenulist ul a {
+    .sl7ommenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .dutngmenu {
+    .sl7ommenu {
       overflow-x: auto;
     }
 
-    .dutngmenulist ul {
+    .sl7ommenulist ul {
       flex-direction: column;
     }
 
-    .dutngbodylogo {
+    .sl7ombodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,7 +192,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .dutngmenulist ul a {
+    .sl7ommenulist ul a {
       font-size: 14px;
     }
   }
@@ -202,7 +202,7 @@
     justify-content: start;
   }
 
-  .q838d {
+  .kwuoa {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -210,7 +210,7 @@
     position: relative;
   }
 
-  .q838d-menu-btn {
+  .kwuoa-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -222,11 +222,11 @@
     align-items: center;
   }
 
-  .q838d-menu-btn i {
+  .kwuoa-menu-btn i {
     font-size: 20px;
   }
 
-  .q838d-menu {
+  .kwuoa-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -237,28 +237,28 @@
     float: left;
   }
 
-  .q838d-desc {
+  .kwuoa-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .q838d-menu > a {
+  .kwuoa-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .q838d-menu > .active,
-  .q838d-menu > a:hover {
+  .kwuoa-menu > .active,
+  .kwuoa-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .q838d-desc-menu {
+  .kwuoa-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -266,19 +266,19 @@
     border-radius: 5px;
   }
 
-  .q838d-desc-menu > div {
+  .kwuoa-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .q838d-desc-body {
+  .kwuoa-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .q838d-title {
+  .kwuoa-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -291,7 +291,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .q838d-title::before {
+  .kwuoa-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -306,44 +306,44 @@
     z-index: 1;
   }
 
-  .q838d-title span {
+  .kwuoa-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .q838d-body {
+  .kwuoa-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .q838d-img {
+  .kwuoa-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .q838d-img img {
+  .kwuoa-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .q838d-desc {
+    .kwuoa-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .q838d-menu-btn {
+    .kwuoa-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .q838d {
+    .kwuoa {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -352,17 +352,17 @@
       margin-top: 0px;
     }
 
-    .q838d-img {
+    .kwuoa-img {
       width: 100%;
     }
 
-    .q838d-body {
+    .kwuoa-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .q838d-menu {
+    .kwuoa-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -370,11 +370,11 @@
       display: none;
     }
 
-    .q838d-menu.active {
+    .kwuoa-menu.active {
       display: flex;
     }
 
-    .q838d-desc {
+    .kwuoa-desc {
       width: 100% !important;
       order: 2;
     }

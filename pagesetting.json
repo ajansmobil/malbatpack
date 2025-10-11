@@ -68,6 +68,24 @@
         "img": false,
         "detail": true
       }
+    },
+    {
+      "name": "Oluklu Mukavva Çeşitleri",
+      "path": "oluklu-mukavva-cesitleri",
+      "desc": [],
+      "data": [],
+      "index": 4,
+      "desing": {
+        "header": [],
+        "body": [
+          "mfki0h"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true,
+        "detail": true
+      }
     }
   ]
 }

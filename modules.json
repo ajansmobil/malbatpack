@@ -260,6 +260,30 @@
     },
     {
       "index": 8,
+      "name": "Oluklu Mukavva Çeşitleri",
+      "path": "page-slider-5",
+      "local": "body",
+      "category": "page slider",
+      "desing": {
+        "page": "oluklu-mukavva-cesitleri",
+        "name": {
+          "tr": "Oluklu Mukavva Çeşitleri",
+          "en": "",
+          "ar": ""
+        },
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "3 / 2",
+        "margin": "0px 0px 0px 0px",
+        "max": 8,
+        "color": "#e31524",
+        "delay": 4000
+      },
+      "id": "vhi6fj2",
+      "description": "Sayfa içeriklerini slider formatında gösteren modül.  ürünler için dinamik sunum."
+    },
+    {
+      "index": 9,
       "name": "Kutu ve Ambalaj",
       "path": "page-slider-5",
       "local": "body",
@@ -283,7 +307,7 @@
       "description": "Sayfa içeriklerini slider formatında gösteren modül.  ürünler için dinamik sunum."
     },
     {
-      "index": 9,
+      "index": 10,
       "name": "Kağıtlarımız",
       "path": "page-slider-6",
       "local": "body",
@@ -307,7 +331,7 @@
       "description": "Sayfa içeriklerini slider formatında gösteren modül.  ürünler için dinamik sunum."
     },
     {
-      "index": 10,
+      "index": 11,
       "name": "Sayfa Listesi Kare",
       "path": "page-list",
       "local": "body",
@@ -324,7 +348,7 @@
       "icon": "grid_view"
     },
     {
-      "index": 11,
+      "index": 12,
       "name": "Tanıtım Modülü",
       "path": "module-1",
       "local": "body",
@@ -370,7 +394,8 @@
         "marginbotton": "20"
       },
       "version": "1.0.0",
-      "icon": "business"
+      "icon": "business",
+      "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. 15 farklı projede kullanılır: lojistik, üretim, sağlık, kurumsal, restoran, ajans ve inşaat sektörlerinde. İki kolonlu responsive tasarım ve icon desteği içerir."
     }
   ]
 }
