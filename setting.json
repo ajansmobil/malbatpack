@@ -1,0 +1,33 @@
+{
+  "order": true,
+  "user": true,
+  "description": {
+    "tr": "Malbat Pack - 2007'den beri profesyonel ambalaj çözümleri. Pizza kutuları, gıda ambalajları, özel kesim kutular ve sektörel danışmanlık hizmetleri. Doğa dostu ve yenilikçi ambalaj çözümleri.",
+    "en": "Malbat Pack - Professional packaging solutions since 2007. Pizza boxes, food packaging, custom cut boxes and industry consulting services. Eco-friendly and innovative packaging solutions.",
+    "ar": "Malbat Pack - حلول التعبئة والتغليف المهنية منذ 2007. صناديق البيتزا وتعبئة الأغذية وصناديق القطع المخصصة وخدمات الاستشارات الصناعية. حلول التعبئة والتغليف الصديقة للبيئة والمبتكرة."
+  },
+  "keyword": {
+    "tr": "ambalaj, pizza kutusu, gıda ambalajı, oluklu mukavva, özel kesim kutu, sektörel danışmanlık, sürdürülebilir ambalaj, Malbat Pack",
+    "en": "packaging, pizza box, food packaging, corrugated cardboard, custom cut box, industry consulting, sustainable packaging, Malbat Pack",
+    "ar": "التعبئة والتغليف، صندوق البيتزا، تعبئة الأغذية، الكرتون المضلع، صندوق قطع مخصص، استشارات صناعية، تعبئة مستدامة، Malbat Pack"
+  },
+  "category": "Kurumsal",
+  "name": "Malbat Pack",
+  "domain": "malbatpack.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.svg",
+  "multi": false
+}

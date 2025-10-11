@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Otomotiv Kutuları",
+    "en": "Automotive Boxes",
+    "ar": "صناديق السيارات"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "otomotiv_kutu_012",
+  "url": "",
+  "path": "otomotiv-kutulari",
+  "desc": {},
+  "index": 11,
+  "icon": "home",
+  "img": "d4llo.png",
+  "description": {
+    "tr": "Malbat Pack otomotiv kutuları: Otomotiv sektörü için özel tasarım ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri.",
+    "en": "Malbat Pack automotive boxes: Special design packaging solutions for automotive industry. Durable material, safe transportation, custom design solutions.",
+    "ar": "صناديق السيارات Malbat Pack: حلول التعبئة والتغليف بتصميم خاص لصناعة السيارات. مادة متينة، نقل آمن، حلول تصميم مخصصة."
+  },
+  "keyword": {
+    "tr": "otomotiv kutusu, araç parçası ambalajı, otomotiv ambalajı, dayanıklı otomotiv kutusu, güvenli taşıma",
+    "en": "automotive box, vehicle parts packaging, automotive packaging, durable automotive box, safe transportation",
+    "ar": "صندوق سيارات، تغليف قطع غيار، تغليف سيارات، صندوق سيارات متين، نقل آمن"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Otomotiv Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak otomotiv sektörü için özel tasarım ambalaj çözümleri üretiyoruz. Araç parçaları ve otomotiv ürünleri için dayanıklı malzeme kullanarak güvenli taşıma sağlayan ambalajlarımızla ürünlerinizin korunmasını garanti ediyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz. Sürdürülebilir malzeme kullanımıyla çevre dostu ambalaj çözümleri sunuyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Automotive Boxes</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design packaging solutions for the automotive industry. We guarantee the protection of your products with our packaging that ensures safe transportation using durable materials for vehicle parts and automotive products.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We produce solutions suitable for your brand's needs in different sizes and special design options. We offer environmentally friendly packaging solutions with sustainable material use.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">صناديق السيارات</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج حلول التعبئة والتغليف بتصميم خاص لصناعة السيارات. نضمن حماية منتجاتك مع عبواتنا التي تضمن النقل الآمن باستخدام مواد متينة لقطع غيار السيارات ومنتجات السيارات.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة. نقدم حلول التعبئة والتغليف الصديقة للبيئة مع استخدام مواد مستدامة.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.477Z",
+  "date": "2025-10-02T03:54:07.028Z"
+}

@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Modül Kutuları",
+    "en": "Module Boxes",
+    "ar": "صناديق الوحدات"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "modul_kutu_016",
+  "url": "",
+  "path": "modul-kutulari",
+  "desc": {},
+  "index": 15,
+  "icon": "home",
+  "img": "mozu1.png",
+  "description": {
+    "tr": "Malbat Pack modül kutuları: Modüler ambalaj çözümleri için özel tasarım kutular. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri.",
+    "en": "Malbat Pack module boxes: Special design boxes for modular packaging solutions. Durable material, safe transportation, custom design solutions.",
+    "ar": "صناديق الوحدات Malbat Pack: صناديق بتصميم خاص لحلول التعبئة والتغليف المعيارية. مادة متينة، نقل آمن، حلول تصميم مخصصة."
+  },
+  "keyword": {
+    "tr": "modül kutusu, modüler ambalaj, dayanıklı modül kutusu, güvenli taşıma, özel tasarım modül",
+    "en": "module box, modular packaging, durable module box, safe transportation, custom design module",
+    "ar": "صندوق وحدة، تغليف معياري، صندوق وحدة متين، نقل آمن، وحدة تصميم مخصص"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Modül Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak modüler ambalaj çözümleri için özel tasarım kutular üretiyoruz. Modül kutularımızla ürünlerinizin güvenli taşınmasını sağlayan ambalajlarımızla ürünlerinizin korunmasını garanti ediyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Dayanıklı malzeme kullanarak sürdürülebilir ambalaj çözümleri sunuyoruz. Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Çevre dostu malzeme kullanımıyla sürdürülebilir ambalaj çözümleri sunuyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Module Boxes</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design boxes for modular packaging solutions. With our module boxes, we guarantee the protection of your products with our packaging that ensures safe transportation of your products.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer sustainable packaging solutions using durable materials. We produce solutions suitable for your brand's needs in different sizes and special design options.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer sustainable packaging solutions with environmentally friendly material use.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">صناديق الوحدات</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج صناديق بتصميم خاص لحلول التعبئة والتغليف المعيارية. مع صناديق الوحدات الخاصة بنا، نضمن حماية منتجاتك مع عبواتنا التي تضمن النقل الآمن لمنتجاتك.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول التعبئة والتغليف المستدامة باستخدام مواد متينة. ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول التعبئة والتغليف المستدامة مع استخدام مواد صديقة للبيئة.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.489Z",
+  "date": "2025-10-02T03:54:07.037Z"
+}

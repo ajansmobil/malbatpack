@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Yaş Meyve ve Sebze Kutuları",
+    "en": "Fresh Fruit and Vegetable Boxes",
+    "ar": "صناديق الفواكه والخضروات الطازجة"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "meyve_sebze_006",
+  "url": "",
+  "path": "yas-meyve-sebze-kutulari",
+  "desc": {},
+  "index": 5,
+  "icon": "home",
+  "img": "ilaa4.png",
+  "description": {
+    "tr": "Malbat Pack yaş meyve ve sebze kutuları: Gözenekli yapı, mikroorganizma koruması, raf ömrü uzatma. Hijyenik üretim, sürdürülebilir malzeme.",
+    "en": "Malbat Pack fresh fruit and vegetable boxes: Porous structure, microorganism protection, shelf life extension. Hygienic production, sustainable material.",
+    "ar": "صناديق الفواكه والخضروات الطازجة Malbat Pack: هيكل مسامي، حماية من الكائنات الدقيقة، إطالة العمر الافتراضي. إنتاج صحي، مادة مستدامة."
+  },
+  "keyword": {
+    "tr": "meyve sebze kutusu, yaş meyve ambalajı, gözenekli kutu, mikroorganizma koruması, raf ömrü uzatma",
+    "en": "fruit vegetable box, fresh fruit packaging, porous box, microorganism protection, shelf life extension",
+    "ar": "صندوق فواكه وخضروات، تغليف فواكه طازجة، صندوق مسامي، حماية من الكائنات الدقيقة، إطالة العمر الافتراضي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Yaş Meyve ve Sebze Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak yaş meyve ve sebze ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Gözenekli yapısı sayesinde mikroorganizmaların tüm yüzey faaliyetini absorbe eden ambalajlarımızla ürünlerinizin raf ömrünü uzatıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hijyenik üretim koşullarında sürdürülebilir malzeme kullanarak çevre dostu ambalaj çözümleri sunuyoruz. Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Ürünlerinizin tazeliğini ve kalitesini koruyan ambalaj teknolojileri kullanıyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Fresh Fruit and Vegetable Boxes</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design packaging solutions for fresh fruit and vegetable products. With our packaging that absorbs all surface activity of microorganisms thanks to its porous structure, we extend the shelf life of your products.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer environmentally friendly packaging solutions using sustainable materials under hygienic production conditions. We produce solutions suitable for your brand's needs in different sizes and special design options.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We use packaging technologies that preserve the freshness and quality of your products.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">صناديق الفواكه والخضروات الطازجة</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج حلول التعبئة والتغليف بتصميم خاص لمنتجات الفواكه والخضروات الطازجة. مع عبواتنا التي تمتص جميع النشاطات السطحية للكائنات الدقيقة بفضل هيكلها المسامي، نمدد العمر الافتراضي لمنتجاتك.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول التعبئة والتغليف الصديقة للبيئة باستخدام مواد مستدامة في ظل ظروف إنتاج صحية. ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نستخدم تقنيات التعبئة والتغليف التي تحافظ على نضارة وجودة منتجاتك.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.463Z",
+  "date": "2025-10-02T03:54:07.013Z"
+}

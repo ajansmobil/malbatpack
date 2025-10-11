@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Cips & Dondurma Kutuları",
+    "en": "Chips & Ice Cream Boxes",
+    "ar": "صناديق الرقائق والآيس كريم"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "cips_dondurma_003",
+  "url": "",
+  "path": "cips-dondurma-kutulari",
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "img": "nq665.png",
+  "description": {
+    "tr": "Malbat Pack cips ve dondurma kutuları: Soğuk zincir koruma, nem bariyeri, özel tasarım ambalaj çözümleri. Gıda güvenliği standartlarına uygun üretim.",
+    "en": "Malbat Pack chips and ice cream boxes: Cold chain protection, moisture barrier, special design packaging solutions. Production according to food safety standards.",
+    "ar": "صناديق الرقائق والآيس كريم Malbat Pack: حماية السلسلة الباردة، حاجز الرطوبة، حلول التعبئة والتغليف بتصميم خاص. إنتاج وفق معايير سلامة الغذاء."
+  },
+  "keyword": {
+    "tr": "cips kutusu, dondurma kutusu, soğuk zincir ambalajı, nem bariyeri, gıda güvenliği ambalajı",
+    "en": "chips box, ice cream box, cold chain packaging, moisture barrier, food safety packaging",
+    "ar": "صندوق رقائق، صندوق آيس كريم، تغليف سلسلة باردة، حاجز رطوبة، تغليف سلامة الغذاء"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Cips & Dondurma Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak cips ve dondurma ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Soğuk zincir koruma özellikli ambalajlarımızla ürünlerinizin tazeliğini ve kalitesini koruyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Nem bariyeri teknolojisi kullanarak ürünlerinizin raf ömrünü uzatıyoruz. Gıda güvenliği standartlarına uygun üretim koşullarında hijyenik ambalaj çözümleri sunuyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Chips & Ice Cream Boxes</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design packaging solutions for chips and ice cream products. With our cold chain protection packaging, we preserve the freshness and quality of your products.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We extend the shelf life of your products using moisture barrier technology. We offer hygienic packaging solutions under production conditions that comply with food safety standards.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We produce solutions suitable for your brand's needs in different sizes and special design options.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">صناديق الرقائق والآيس كريم</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج حلول التعبئة والتغليف بتصميم خاص لمنتجات الرقائق والآيس كريم. مع عبواتنا المحمية بسلسلة باردة، نحافظ على نضارة وجودة منتجاتك.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نمدد العمر الافتراضي لمنتجاتك باستخدام تقنية حاجز الرطوبة. نقدم حلول التعبئة والتغليف الصحية في ظل ظروف إنتاج متوافقة مع معايير سلامة الغذاء.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.461Z",
+  "date": "2025-10-02T03:54:07.006Z",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": ""
+}

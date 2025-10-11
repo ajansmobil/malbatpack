@@ -1,0 +1,42 @@
+{
+  "name": {
+    "tr": "Kurumsal",
+    "en": "Corporate",
+    "ar": "الشركة"
+  },
+  "status": "play",
+  "category": "",
+  "id": "dbapsz7v7q",
+  "url": "",
+  "path": "kurumsal",
+  "desc": {},
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "hakkimizda",
+  "description": {
+    "tr": "Malbat Pack kurumsal sayfası: Firmamız hakkında detaylı bilgiler, vizyonumuz, misyonumuz ve değerlerimiz. Güvenilir ambalaj çözümleri.",
+    "en": "Malbat Pack corporate page: Detailed information about our company, our vision, mission and values. Reliable packaging solutions.",
+    "ar": "صفحة الشركة Malbat Pack: معلومات مفصلة عن شركتنا ورؤيتنا ورسالتنا وقيمنا. حلول تعبئة وتغليف موثوقة."
+  },
+  "keyword": {
+    "tr": "Malbat Pack kurumsal, ambalaj firması, güvenilir ambalaj, kaliteli ambalaj çözümleri, profesyonel ambalaj hizmetleri",
+    "en": "Malbat Pack corporate, packaging company, reliable packaging, quality packaging solutions, professional packaging services",
+    "ar": "الشركة Malbat Pack، شركة تعبئة وتغليف، تعبئة وتغليف موثوقة، حلول تعبئة وتغليف عالية الجودة، خدمات تعبئة وتغليف مهنية"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kurumsal</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak sektörde yılların verdiği deneyim ve uzman kadromuzla kaliteli ambalaj çözümleri sunmaktayız. Müşteri memnuniyetini her zaman ön planda tutarak, yenilikçi ve sürdürülebilir çözümler üretmekteyiz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Firmamız, gıda güvenliği standartlarına uygun üretim koşullarında hijyenik ambalaj çözümleri sunmaktadır. Çevre dostu malzeme kullanımıyla sürdürülebilir ambalaj çözümleri üretmekteyiz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kalite, güvenilirlik ve müşteri memnuniyeti değerlerimizle sektörde öncü konumumuzu sürdürmekteyiz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Corporate</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we offer quality packaging solutions with years of experience in the industry and our expert staff. We always prioritize customer satisfaction and produce innovative and sustainable solutions.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our company offers hygienic packaging solutions under production conditions that comply with food safety standards. We produce sustainable packaging solutions with environmentally friendly material use.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We maintain our leading position in the industry with our values of quality, reliability and customer satisfaction.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">الشركة</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، نقدم حلول التعبئة والتغليف عالية الجودة مع سنوات من الخبرة في الصناعة وفريق الخبراء لدينا. نعطي دائماً الأولوية لرضا العملاء وننتج حلول مبتكرة ومستدامة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        شركتنا تقدم حلول التعبئة والتغليف الصحية في ظل ظروف إنتاج متوافقة مع معايير سلامة الغذاء. ننتج حلول التعبئة والتغليف المستدامة مع استخدام مواد صديقة للبيئة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نحافظ على موقعنا الرائد في الصناعة بقيمنا في الجودة والموثوقية ورضا العملاء.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.444Z",
+  "date": "2025-10-01T08:33:22.910Z"
+}

@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "İçecek Kutuları",
+    "en": "Beverage Boxes",
+    "ar": "صناديق المشروبات"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "icecek_kutu_008",
+  "url": "",
+  "path": "icecek-kutulari",
+  "desc": {},
+  "index": 7,
+  "icon": "home",
+  "img": "ft8cf.png",
+  "description": {
+    "tr": "Malbat Pack içecek kutuları: Geniş içecek yelpazesi için özel tasarım ambalaj çözümleri. Sızdırmaz yapı, dayanıklı malzeme, hijyenik üretim.",
+    "en": "Malbat Pack beverage boxes: Special design packaging solutions for wide beverage range. Leak-proof structure, durable material, hygienic production.",
+    "ar": "صناديق المشروبات Malbat Pack: حلول التعبئة والتغليف بتصميم خاص لمجموعة واسعة من المشروبات. هيكل محكم، مادة متينة، إنتاج صحي."
+  },
+  "keyword": {
+    "tr": "içecek kutusu, sıvı ambalajı, sızdırmaz içecek kutusu, dayanıklı içecek ambalajı, hijyenik içecek kutusu",
+    "en": "beverage box, liquid packaging, leak-proof beverage box, durable beverage packaging, hygienic beverage box",
+    "ar": "صندوق مشروبات، تغليف سائل، صندوق مشروبات محكم، تغليف مشروبات متين، صندوق مشروبات صحي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">İçecek Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak geniş içecek yelpazesi için özel tasarım ambalaj çözümleri üretiyoruz. Sızdırmaz yapısıyla içeceklerinizin güvenli taşınmasını sağlayan ambalajlarımızla ürünlerinizin kalitesini koruyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Dayanıklı malzeme kullanarak hijyenik üretim koşullarında ambalaj çözümleri sunuyoruz. Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir malzeme kullanımıyla çevre dostu ambalaj çözümleri sunuyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Beverage Boxes</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design packaging solutions for a wide range of beverages. With our leak-proof packaging that ensures safe transportation of your beverages, we preserve the quality of your products.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer packaging solutions using durable materials under hygienic production conditions. We produce solutions suitable for your brand's needs in different sizes and special design options.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer environmentally friendly packaging solutions with sustainable material use.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">صناديق المشروبات</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج حلول التعبئة والتغليف بتصميم خاص لمجموعة واسعة من المشروبات. مع عبواتنا المحكمة التي تضمن النقل الآمن لمشروباتك، نحافظ على جودة منتجاتك.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول التعبئة والتغليف باستخدام مواد متينة في ظل ظروف إنتاج صحية. ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول التعبئة والتغليف الصديقة للبيئة مع استخدام مواد مستدامة.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.468Z",
+  "date": "2025-10-02T03:54:07.018Z"
+}

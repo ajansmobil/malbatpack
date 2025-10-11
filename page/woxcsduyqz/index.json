@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "İletişim",
+    "en": "Contact",
+    "ar": "اتصل بنا"
+  },
+  "status": "play",
+  "category": "",
+  "id": "woxcsduyqz",
+  "url": "",
+  "path": "iletisim",
+  "desc": {},
+  "index": 4,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "rnqtrn",
+      "fd388u"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Malbat Pack iletişim: İletişim bilgilerimiz, adres ve telefon numaralarımız. Müşteri hizmetleri ve destek için iletişime geçin.",
+    "en": "Malbat Pack contact: Our contact information, address and phone numbers. Contact us for customer service and support.",
+    "ar": "اتصل بنا Malbat Pack: معلومات الاتصال الخاصة بنا والعنوان وأرقام الهواتف. اتصل بنا للحصول على خدمة العملاء والدعم."
+  },
+  "keyword": {
+    "tr": "iletişim, adres, telefon, müşteri hizmetleri, destek, Malbat Pack iletişim",
+    "en": "contact, address, phone, customer service, support, Malbat Pack contact",
+    "ar": "اتصال، عنوان، هاتف، خدمة العملاء، دعم، اتصال Malbat Pack"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">İletişim</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack ile iletişime geçmek için aşağıdaki iletişim bilgilerini kullanabilirsiniz. Müşteri hizmetlerimiz ve teknik destek ekibimiz size en iyi hizmeti sunmak için 7/24 hizmetinizdedir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sorularınız, talepleriniz ve önerileriniz için bizimle iletişime geçebilirsiniz. Uzman ekibimiz size en uygun çözümleri sunmak için hazırdır.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Müşteri memnuniyeti bizim önceliğimizdir. Size en iyi hizmeti sunmak için buradayız.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Contact</h2>\n    <p style=\"font-size: 16px;\">\n        You can use the contact information below to contact Malbat Pack. Our customer service and technical support team is at your service 7/24 to provide you with the best service.\n    </p>\n    <p style=\"font-size: 16px;\">\n        You can contact us for your questions, requests and suggestions. Our expert team is ready to offer you the most suitable solutions.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Customer satisfaction is our priority. We are here to provide you with the best service.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">اتصل بنا</h2>\n    <p style=\"font-size: 16px;\">\n        يمكنك استخدام معلومات الاتصال أدناه للتواصل مع Malbat Pack. فريق خدمة العملاء والدعم التقني لدينا في خدمتك على مدار الساعة لتقديم أفضل خدمة لك.\n    </p>\n    <p style=\"font-size: 16px;\">\n        يمكنك التواصل معنا لأسئلتك وطلباتك واقتراحاتك. فريق الخبراء لدينا جاهز لتقديم الحلول الأنسب لك.\n    </p>\n    <p style=\"font-size: 16px;\">\n        رضا العملاء أولويتنا. نحن هنا لتقديم أفضل خدمة لك.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.456Z",
+  "date": "2025-10-01T08:34:10.519Z"
+}

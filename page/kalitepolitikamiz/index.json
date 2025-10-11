@@ -1,0 +1,41 @@
+{
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Our Quality Policy",
+    "ar": "سياسة الجودة الخاصة بنا"
+  },
+  "status": "play",
+  "id": "kalitepolitikamiz",
+  "path": "kalite-politikamiz",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kalite Politikamız</h2><p style=\" font-size: 16px;\">Kalite politikamız, müşteri memnuniyetini en üst seviyede tutmayı ve sürekli iyileştirmeyi hedefleyen bir yaklaşıma dayanır. Her projede, en iyi kalite standartlarını sağlamak için çalışıyor ve tüm süreçlerimizi bu doğrultuda sürekli gözden geçiriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Our Quality Policy</h2><p style=\" font-size: 16px;\">Our quality policy is based on an approach that aims to keep customer satisfaction at the highest level and continuous improvement. In every project, we work to ensure the best quality standards and continuously review all our processes in this direction.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">سياسة الجودة الخاصة بنا</h2><p style=\" font-size: 16px;\">سياسة الجودة الخاصة بنا مبنية على نهج يهدف إلى الحفاظ على رضا العملاء في أعلى مستوى والتحسين المستمر. في كل مشروع، نعمل على ضمان أفضل معايير الجودة ونراجع باستمرار جميع عملياتنا في هذا الاتجاه.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 3,
+  "icon": "home",
+  "description": {
+    "tr": "Malbat Pack kalite politikası: Müşteri memnuniyetini ön planda tutan, sürekli iyileştirme odaklı kalite anlayışımız. ISO standartlarına uygun üretim.",
+    "en": "Malbat Pack quality policy: Our quality approach that prioritizes customer satisfaction and focuses on continuous improvement. ISO standard compliant production.",
+    "ar": "سياسة الجودة Malbat Pack: نهجنا في الجودة الذي يعطي الأولوية لرضا العملاء ويركز على التحسين المستمر. إنتاج متوافق مع معايير ISO."
+  },
+  "keyword": {
+    "tr": "kalite politikası, müşteri memnuniyeti, sürekli iyileştirme, ISO standartları, kalite yönetimi, Malbat Pack kalite",
+    "en": "quality policy, customer satisfaction, continuous improvement, ISO standards, quality management, Malbat Pack quality",
+    "ar": "سياسة الجودة، رضا العملاء، التحسين المستمر، معايير ISO، إدارة الجودة، جودة Malbat Pack"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.504Z",
+  "date": "2025-10-02T03:54:07.053Z"
+}

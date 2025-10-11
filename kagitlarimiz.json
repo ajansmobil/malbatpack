@@ -1,0 +1,253 @@
+{
+  "name": "Kağıtlarımız",
+  "path": "kagitlarimiz",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Oluklu Kağıt",
+        "en": "Fluting",
+        "ar": "ورق مضلع"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "oluklu_kagit_001",
+      "url": "",
+      "path": "oluklu-kagit",
+      "index": 0,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Oluklu kağıt: Ambalaj sektörü için özel tasarım, dayanıklı yapı, yüksek kalite. Kutu ve ambalaj üretimi için.",
+        "en": "Fluting: Special design for packaging industry, durable structure, high quality. For box and packaging production.",
+        "ar": "ورق مضلع: تصميم خاص لصناعة التعبئة والتغليف، هيكل متين، جودة عالية. لإنتاج الصناديق والتعبئة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "NSSC Kağıdı",
+        "en": "NSSC Paper",
+        "ar": "ورق NSSC"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "nssc_kagidi_002",
+      "url": "",
+      "path": "nssc-kagidi",
+      "index": 1,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "NSSC kağıdı: Yarı kimyasal sülfat kağıdı, yüksek dayanıklılık, ambalaj uygulamaları için özel tasarım.",
+        "en": "NSSC paper: Semi-chemical sulfate paper, high durability, special design for packaging applications.",
+        "ar": "ورق NSSC: ورق كبريتات شبه كيميائي، متانة عالية، تصميم خاص لتطبيقات التعبئة والتغليف."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Testliner Kağıdı",
+        "en": "Testliner Paper",
+        "ar": "ورق Testliner"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "testliner_kagidi_003",
+      "url": "",
+      "path": "testliner-kagidi",
+      "index": 2,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Testliner kağıdı: Ambalaj sektörü için yüksek kaliteli kağıt, dayanıklı yapı, çok amaçlı kullanım.",
+        "en": "Testliner paper: High quality paper for packaging industry, durable structure, versatile use.",
+        "ar": "ورق Testliner: ورق عالي الجودة لصناعة التعبئة والتغليف، هيكل متين، استخدام متعدد الأغراض."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Beyaz Testliner",
+        "en": "White Testliner",
+        "ar": "Testliner أبيض"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "beyaz_testliner_004",
+      "url": "",
+      "path": "beyaz-testliner",
+      "index": 3,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Beyaz testliner: Yüksek beyazlık, ambalaj sektörü için özel tasarım, dayanıklı yapı.",
+        "en": "White testliner: High whiteness, special design for packaging industry, durable structure.",
+        "ar": "Testliner أبيض: بياض عالي، تصميم خاص لصناعة التعبئة والتغليف، هيكل متين."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kaplamalı Beyaz Testliner",
+        "en": "Coated White Testliner",
+        "ar": "Testliner أبيض مطلي"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "kaplamali_beyaz_testliner_005",
+      "url": "",
+      "path": "kaplamali-beyaz-testliner",
+      "index": 4,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Kaplamalı beyaz testliner: Yüksek kalite, mükemmel baskı yüzeyi, ambalaj uygulamaları için özel tasarım.",
+        "en": "Coated white testliner: High quality, excellent print surface, special design for packaging applications.",
+        "ar": "Testliner أبيض مطلي: جودة عالية، سطح طباعة ممتاز، تصميم خاص لتطبيقات التعبئة والتغليف."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Çuval Kraft Kağıdı",
+        "en": "Sack Kraft",
+        "ar": "ورق كرافت الأكياس"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "caval_kraft_006",
+      "url": "",
+      "path": "caval-kraft-kagidi",
+      "index": 5,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Çuval kraft kağıdı: Yüksek dayanıklılık, çuval üretimi için özel tasarım, güçlü yapı.",
+        "en": "Sack kraft: High durability, special design for sack production, strong structure.",
+        "ar": "ورق كرافت الأكياس: متانة عالية، تصميم خاص لإنتاج الأكياس، هيكل قوي."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kraftliner Kağıdı",
+        "en": "Kraftliner Paper",
+        "ar": "ورق Kraftliner"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "kraftliner_kagidi_007",
+      "url": "",
+      "path": "kraftliner-kagidi",
+      "index": 6,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Kraftliner kağıdı: Ambalaj sektörü için yüksek kaliteli kraft kağıdı, dayanıklı yapı, çok amaçlı kullanım.",
+        "en": "Kraftliner paper: High quality kraft paper for packaging industry, durable structure, versatile use.",
+        "ar": "ورق Kraftliner: ورق كرافت عالي الجودة لصناعة التعبئة والتغليف، هيكل متين، استخدام متعدد الأغراض."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Beyaz Üst Kraftliner",
+        "en": "White Top Kraftliner",
+        "ar": "Kraftliner أبيض العلوي"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "beyaz_ust_kraftliner_008",
+      "url": "",
+      "path": "beyaz-ust-kraftliner",
+      "index": 7,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Beyaz üst kraftliner: Yüksek beyazlık, ambalaj sektörü için özel tasarım, dayanıklı yapı.",
+        "en": "White top kraftliner: High whiteness, special design for packaging industry, durable structure.",
+        "ar": "Kraftliner أبيض العلوي: بياض عالي، تصميم خاص لصناعة التعبئة والتغليف، هيكل متين."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kaplamalı Beyaz Üst Kraftliner",
+        "en": "Coated White Top Kraftliner",
+        "ar": "Kraftliner أبيض العلوي مطلي"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "kaplamali_beyaz_ust_kraftliner_009",
+      "url": "",
+      "path": "kaplamali-beyaz-ust-kraftliner",
+      "index": 8,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Kaplamalı beyaz üst kraftliner: Yüksek kalite, mükemmel baskı yüzeyi, ambalaj uygulamaları için özel tasarım.",
+        "en": "Coated white top kraftliner: High quality, excellent print surface, special design for packaging applications.",
+        "ar": "Kraftliner أبيض العلوي مطلي: جودة عالية، سطح طباعة ممتاز، تصميم خاص لتطبيقات التعبئة والتغليف."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    }
+  ],
+  "index": 3,
+  "desing": {
+    "header": [],
+    "body": [
+      "mfki0h"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": false,
+    "detail": true
+  }
+}

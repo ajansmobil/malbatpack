@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Oluklu Standlar",
+    "en": "Corrugated Displays",
+    "ar": "منصات العرض المضلعة"
+  },
+  "status": "play",
+  "category": "stand",
+  "id": "oluklu_stand_014",
+  "url": "",
+  "path": "oluklu-standlar",
+  "desc": {},
+  "index": 13,
+  "icon": "home",
+  "img": "fz7yt.png",
+  "description": {
+    "tr": "Malbat Pack oluklu standlar: Ürün sergileme ve teşhir için özel tasarım stand çözümleri. Dayanıklı malzeme, özel tasarım, sürdürülebilir çözümler.",
+    "en": "Malbat Pack corrugated displays: Special design display solutions for product exhibition and display. Durable material, custom design, sustainable solutions.",
+    "ar": "منصات العرض المضلعة Malbat Pack: حلول عرض بتصميم خاص لعرض المنتجات والمعرض. مادة متينة، تصميم مخصص، حلول مستدامة."
+  },
+  "keyword": {
+    "tr": "oluklu stand, ürün sergileme standı, teşhir standı, dayanıklı stand, sürdürülebilir stand",
+    "en": "corrugated display, product display stand, exhibition stand, durable display, sustainable display",
+    "ar": "عرض مضلع، منصة عرض منتجات، منصة معرض، عرض متين، عرض مستدام"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Oluklu Standlar</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak ürün sergileme ve teşhir için özel tasarım stand çözümleri üretiyoruz. Oluklu malzemeden üretilen standlarımızla ürünlerinizin etkili şekilde sergilenmesini sağlıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Dayanıklı malzeme kullanarak sürdürülebilir stand çözümleri sunuyoruz. Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Çevre dostu malzeme kullanımıyla sürdürülebilir stand çözümleri sunuyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Corrugated Displays</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design display solutions for product exhibition and display. With our displays made from corrugated material, we ensure that your products are displayed effectively.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer sustainable display solutions using durable materials. We produce solutions suitable for your brand's needs in different sizes and special design options.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer sustainable display solutions with environmentally friendly material use.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">منصات العرض المضلعة</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج حلول عرض بتصميم خاص لعرض المنتجات والمعرض. مع منصات العرض المصنوعة من مادة مضلعة، نضمن عرض منتجاتك بشكل فعال.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول عرض مستدامة باستخدام مواد متينة. ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول عرض مستدامة مع استخدام مواد صديقة للبيئة.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.481Z",
+  "date": "2025-10-02T03:54:07.032Z"
+}

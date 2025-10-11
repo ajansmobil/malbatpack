@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Oluklu Kağıt",
+    "en": "Fluting",
+    "ar": "ورق مضلع"
+  },
+  "status": "play",
+  "category": "corrugating",
+  "id": "oluklu_kagit_001",
+  "url": "",
+  "path": "oluklu-kagit",
+  "index": 0,
+  "icon": "home",
+  "img": "",
+  "description": {
+    "tr": "Oluklu kağıt: Ambalaj sektörü için özel tasarım, dayanıklı yapı, yüksek kalite. Kutu ve ambalaj üretimi için.",
+    "en": "Fluting: Special design for packaging industry, durable structure, high quality. For box and packaging production.",
+    "ar": "ورق مضلع: تصميم خاص لصناعة التعبئة والتغليف، هيكل متين، جودة عالية. لإنتاج الصناديق والتعبئة."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": "oluklu kağıt, fluting, ambalaj sektörü, dayanıklı yapı, yüksek kalite, kutu üretimi, Malbat Pack",
+    "en": "fluting paper, packaging industry, durable structure, high quality, box production, Malbat Pack",
+    "ar": "ورق مضلع، صناعة التعبئة والتغليف، هيكل متين، جودة عالية، إنتاج الصناديق، Malbat Pack"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Oluklu Kağıt</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack oluklu kağıt, ambalaj sektörü için özel tasarım edilmiş dayanıklı yapıya sahip bir kağıt türüdür. Yüksek kalite ve dayanıklı yapı özellikleri ile kutu ve ambalaj üretimi için ideal çözümler sunar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Oluklu kağıdımız, özel oluklu yapısı sayesinde mükemmel dayanıklılık sağlarken, yüksek kalitesi ile profesyonel sonuçlar verir. Bu özellikleri ile özellikle kutu, ambalaj ve dayanıklılık gerektiren uygulamalar için mükemmel sonuçlar verir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir üretim anlayışımızla, çevre dostu oluklu kağıt çözümleri sunarak, müşterilerimizin ambalaj ihtiyaçlarına en uygun ürünleri temin ediyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Fluting</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack fluting is a paper type with durable structure specially designed for the packaging industry. It offers ideal solutions for box and packaging production with its high quality and durable structure features.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our fluting paper provides excellent durability thanks to its special corrugated structure while delivering professional results with its high quality. With these features, it provides perfect results especially for boxes, packaging and applications requiring durability.\n    </p>\n    <p style=\"font-size: 16px;\">\n        With our sustainable production approach, we provide environmentally friendly fluting solutions and supply the most suitable products for our customers' packaging needs.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">ورق مضلع</h2>\n    <p style=\"font-size: 16px;\">\n        الورق المضلع من Malbat Pack هو نوع ورق لهيكل متين مصمم خصيصاً لصناعة التعبئة والتغليف. يقدم حلول مثالية لإنتاج الصناديق والتعبئة بجودته العالية وميزات الهيكل المتين.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ورقنا المضلع يوفر متانة ممتازة بفضل هيكله المضلع الخاص بينما يقدم نتائج مهنية بجودته العالية. بهذه الميزات، يوفر نتائج مثالية خاصة للصناديق والتعبئة والتطبيقات التي تتطلب متانة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        مع نهجنا في الإنتاج المستدام، نقدم حلول ورق مضلع صديقة للبيئة ونوفر المنتجات الأنسب لاحتياجات التعبئة والتغليف لعملائنا.\n    </p>"
+  },
+  "update": "2025-10-11T04:40:05.517Z",
+  "date": "2025-10-02T08:22:30.275Z"
+}

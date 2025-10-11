@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Temizlik ve Kimya Kutuları",
+    "en": "Cleaning & Chemical Boxes",
+    "ar": "صناديق التنظيف والكيمياء"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "temizlik_kimya_018",
+  "url": "",
+  "path": "temizlik-kimya-kutulari",
+  "desc": {},
+  "index": 17,
+  "icon": "home",
+  "img": "tuaj5.png",
+  "description": {
+    "tr": "Malbat Pack temizlik ve kimya kutuları: Temizlik ürünleri ve kimyasal maddeler için özel tasarım ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma.",
+    "en": "Malbat Pack cleaning and chemical boxes: Special design packaging solutions for cleaning products and chemicals. Durable material, safe transportation.",
+    "ar": "صناديق التنظيف والكيمياء Malbat Pack: حلول التعبئة والتغليف بتصميم خاص لمنتجات التنظيف والمواد الكيميائية. مادة متينة، نقل آمن."
+  },
+  "keyword": {
+    "tr": "temizlik kutusu, kimya kutusu, temizlik ürünü ambalajı, kimyasal madde ambalajı, dayanıklı temizlik kutusu",
+    "en": "cleaning box, chemical box, cleaning product packaging, chemical substance packaging, durable cleaning box",
+    "ar": "صندوق تنظيف، صندوق كيمياء، تغليف منتجات تنظيف، تغليف مواد كيميائية، صندوق تنظيف متين"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Temizlik ve Kimya Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak temizlik ürünleri ve kimyasal maddeler için özel tasarım ambalaj çözümleri üretiyoruz. Temizlik ve kimya kutularımızla ürünlerinizin güvenli taşınmasını sağlayan ambalajlarımızla ürünlerinizin korunmasını garanti ediyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Dayanıklı malzeme kullanarak sürdürülebilir ambalaj çözümleri sunuyoruz. Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Çevre dostu malzeme kullanımıyla sürdürülebilir ambalaj çözümleri sunuyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Cleaning & Chemical Boxes</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design packaging solutions for cleaning products and chemicals. With our cleaning and chemical boxes, we guarantee the protection of your products with our packaging that ensures safe transportation of your products.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer sustainable packaging solutions using durable materials. We produce solutions suitable for your brand's needs in different sizes and special design options.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer sustainable packaging solutions with environmentally friendly material use.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">صناديق التنظيف والكيمياء</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج حلول التعبئة والتغليف بتصميم خاص لمنتجات التنظيف والمواد الكيميائية. مع صناديق التنظيف والكيمياء الخاصة بنا، نضمن حماية منتجاتك مع عبواتنا التي تضمن النقل الآمن لمنتجاتك.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول التعبئة والتغليف المستدامة باستخدام مواد متينة. ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول التعبئة والتغليف المستدامة مع استخدام مواد صديقة للبيئة.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.494Z",
+  "date": "2025-10-02T03:54:07.041Z"
+}

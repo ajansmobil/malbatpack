@@ -1,0 +1,41 @@
+{
+  "name": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "الرؤية"
+  },
+  "status": "play",
+  "id": "vizyon",
+  "path": "vizyon",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Vizyonumuz</h2>\n    <p style=\" font-size: 16px;\">\n        Vizyonumuz, sektörümüzdeki en güvenilir ve tercih edilen firma olmaktır. Bunun için, iş süreçlerimizi sürekli gözden geçiriyor, iyileştiriyor ve geliştirmeye odaklanıyoruz. Müşterilerimizin geri bildirimlerini dikkate alarak, ihtiyaçlarına en uygun çözümleri sunmak için çaba gösteriyoruz. Müşteri odaklı bir yaklaşım benimsememiz, işimizi daha da büyütmemize yardımcı oluyor ve sektördeki konumumuzu güçlendiriyor. Bizimle çalışan her müşteri, kalite ve güven arayışında olduğu için, onlara her zaman en iyi deneyimi sunmayı amaçlıyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Our Vision</h2>\n    <p style=\" font-size: 16px;\">\n        Our vision is to be the most reliable and preferred company in our industry. For this, we continuously review, improve and focus on developing our business processes. We strive to offer the most suitable solutions for their needs by taking into account the feedback from our customers. Our customer-focused approach helps us grow our business even more and strengthens our position in the industry. Since every customer who works with us is looking for quality and trust, we aim to always offer them the best experience.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">رؤيتنا</h2>\n    <p style=\" font-size: 16px;\">\n        رؤيتنا هي أن نكون الشركة الأكثر موثوقية ومفضلة في صناعتنا. لهذا، نراجع باستمرار ونحسن ونتجه نحو تطوير عملياتنا التجارية. نسعى لتقديم الحلول الأنسب لاحتياجاتهم من خلال أخذ ملاحظات عملائنا في الاعتبار. نهجنا المرتكز على العملاء يساعدنا على توسيع أعمالنا أكثر ويقوي موقعنا في الصناعة. بما أن كل عميل يعمل معنا يبحث عن الجودة والثقة، فإننا نهدف إلى تقديم أفضل تجربة له دائماً.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 2,
+  "icon": "home",
+  "description": {
+    "tr": "Malbat Pack vizyon: Sektörde en güvenilir ve tercih edilen firma olma hedefi. Müşteri odaklı yaklaşım ve sürekli gelişim.",
+    "en": "Malbat Pack vision: The goal of being the most trusted and preferred company in the industry. Customer-focused approach and continuous development.",
+    "ar": "رؤية Malbat Pack: الهدف من أن تصبح الشركة الأكثر موثوقية ومفضلة في الصناعة. نهج يركز على العملاء والتطوير المستمر."
+  },
+  "keyword": {
+    "tr": "vizyon, güvenilir firma, tercih edilen firma, müşteri odaklı, sürekli gelişim, Malbat Pack vizyon",
+    "en": "vision, reliable company, preferred company, customer-focused, continuous development, Malbat Pack vision",
+    "ar": "رؤية، شركة موثوقة، شركة مفضلة، تركز على العملاء، تطوير مستمر، رؤية Malbat Pack"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.502Z",
+  "date": "2025-10-02T03:54:07.050Z"
+}

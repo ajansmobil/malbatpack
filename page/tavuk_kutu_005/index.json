@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Tavuk Kutuları",
+    "en": "Chicken Boxes",
+    "ar": "صناديق الدجاج"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "tavuk_kutu_005",
+  "url": "",
+  "path": "tavuk-kutulari",
+  "desc": {},
+  "index": 3,
+  "icon": "home",
+  "img": "cr7hl.png",
+  "description": {
+    "tr": "Malbat Pack tavuk kutuları: Tavuk ve kanatlı et ürünleri için özel tasarım ambalaj çözümleri. Soğuk zincir koruma, hijyenik üretim.",
+    "en": "Malbat Pack chicken boxes: Special design packaging solutions for chicken and poultry products. Cold chain protection, hygienic production.",
+    "ar": "صناديق الدجاج Malbat Pack: حلول التعبئة والتغليف بتصميم خاص للدجاج ومنتجات الدواجن. حماية السلسلة الباردة، إنتاج صحي."
+  },
+  "keyword": {
+    "tr": "tavuk kutusu, kanatlı et ambalajı, soğuk zincir tavuk kutusu, hijyenik tavuk ambalajı, gıda güvenliği",
+    "en": "chicken box, poultry packaging, cold chain chicken box, hygienic chicken packaging, food safety",
+    "ar": "صندوق دجاج، تغليف دواجن، صندوق دجاج سلسلة باردة، تغليف دجاج صحي، سلامة الغذاء"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Tavuk Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak tavuk ve kanatlı et ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Soğuk zincir koruma özellikli ambalajlarımızla tavuk ürünlerinizin tazeliğini ve kalitesini koruyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hijyenik üretim koşullarında gıda güvenliği standartlarına uygun ambalaj çözümleri sunuyoruz. Nem bariyeri teknolojisi kullanarak tavuk ürünlerinizin raf ömrünü uzatıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Chicken Boxes</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design packaging solutions for chicken and poultry products. With our cold chain protection packaging, we preserve the freshness and quality of your chicken products.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer packaging solutions that comply with food safety standards under hygienic production conditions. We extend the shelf life of your chicken products using moisture barrier technology.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We produce solutions suitable for your brand's needs in different sizes and special design options.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">صناديق الدجاج</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج حلول التعبئة والتغليف بتصميم خاص للدجاج ومنتجات الدواجن. مع عبواتنا المحمية بسلسلة باردة، نحافظ على نضارة وجودة منتجات الدجاج الخاصة بك.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول التعبئة والتغليف المتوافقة مع معايير سلامة الغذاء في ظل ظروف إنتاج صحية. نمدد العمر الافتراضي لمنتجات الدجاج الخاصة بك باستخدام تقنية حاجز الرطوبة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.466Z",
+  "date": "2025-10-02T03:54:07.011Z",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": ""
+}

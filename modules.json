@@ -1,0 +1,291 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menü ",
+      "path": "menu-2-b",
+      "local": "header",
+      "category": "menu",
+      "desing": {
+        "color": "#fff",
+        "page": "page",
+        "bgcolor": "#e31524",
+        "colorhover": "#000",
+        "bgcolorhover": "#fff"
+      },
+      "id": "if9ixc",
+      "description": "Responsive web sitesi navigasyon menüsü. Logo, sayfa linkleri ve mobil uyumlu hamburger menü içerir.  web sitelerinde 1 projede kullanılır."
+    },
+    {
+      "index": 1,
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "desing": {
+        "bgcolor": "#e31524",
+        "color": "#fff",
+        "img": "",
+        "imgwidth": "250px"
+      },
+      "data": [],
+      "id": "bc2o6m",
+      "description": "Evrensel alt bilgi (footer) bölüm modülü. Firma logosu, telif hakları metni, iletişim bilgileri ve sosyal medya ikonlarını responsive tasarımda sunar. 41 farklı projede kullanılır: tüm sektörlerden kurumsal, e-ticaret, restoran, sağlık, ajans, hizmet firmalarında. Tüm sayfa türlerinde standart footer yapısı sağlar.",
+      "version": "1.0.0",
+      "icon": "web_asset"
+    },
+    {
+      "index": 2,
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "desing": {
+        "delay": 3000
+      },
+      "data": [
+        {
+          "img": "1.png"
+        },
+        {
+          "img": "2.png"
+        },
+        {
+          "img": "3.png"
+        }
+      ],
+      "id": "x2phjr",
+      "description": "Ana sayfa hero slider modülü. Otomatik geçiş animasyonlu görsel slider sunar. 31 farklı projede kullanılır: kurumsal şirketler, e-ticaret siteleri, restoranlar, sağlık kuruluşları, üretim firmaları ve ajanslar. Swiper.js ile touch gesture desteği ve özelleştirilebilir geçiş süresi içerir.",
+      "version": "1.0.0",
+      "icon": "view_carousel"
+    },
+    {
+      "index": 3,
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "desing": {
+        "color": "#1e3046",
+        "name": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "تواصل معنا"
+        },
+        "margin": "30px 0px 30px 0px"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "+90 541 655 2727",
+          "url": "tel:00905416552727"
+        },
+        {
+          "icon": "email",
+          "text": "mustafa@mepambalaj.org",
+          "url": "email:mustafa@mepambalaj.org"
+        },
+        {
+          "icon": "map",
+          "text": "Mücahitler Mah. 52083 Nolu Sk. Yasem İş Mrk. No:42 K:3 D:307 Şehitkamil / Gaziantep / TÜRKİYE",
+          "url": "https://maps.app.goo.gl/xoLQtPL2MqfAMa5j8"
+        }
+      ],
+      "id": "rnqtrn",
+      "description": "İletişim bilgileri görüntüleme modülü. Telefon, email ve adres bilgilerini icon ile şık tasarımda sunar. 26 farklı projede kullanılır: kurumsal şirketler, restoranlar, e-ticaret siteleri, sağlık kuruluşları ve hizmet sektöründe. Responsive kart düzeni ve tıklanabilir telefon/email linkleri içerir.",
+      "version": "1.0.0",
+      "icon": "contact_mail"
+    },
+    {
+      "index": 4,
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#000",
+        "color": "#1e3046",
+        "img": "map.webp",
+        "externalUrl": ""
+      },
+      "id": "fd388u",
+      "description": "Google Maps konum gösterim modülü. Firmanın fiziksel konumunu interaktif harita ile sergiler. 20 farklı projede kullanılır: kurumsal şirketler, restoranlar, sağlık kuruluşları, üretim firmaları ve hizmet sektöründe. Yol tarifi ve harita üzerinde zoom özellikleri vardır.",
+      "version": "1.0.0",
+      "icon": "map"
+    },
+    {
+      "index": 5,
+      "name": "Page Desing",
+      "path": "page-desing-5",
+      "local": "body",
+      "category": "page",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "32",
+        "backgroundcolor": "#000",
+        "menu-active": "#000"
+      },
+      "id": "mfki0h",
+      "description": "Kompakt sayfa başlık ve hero banner modülü. Küçük font boyutu ile modern minimalist tasarım sunar. 7 farklı projede kullanılır: ajans, mobil uygulamalar, kargo, kurumsal, ambalaj, inşaat ve sağlık sektörlerinde. Kurumsal sayfalara özel kategori sistemi, aktif menü renklendirme ve responsive header yapısı içerir.",
+      "version": "1.0.0",
+      "icon": "web"
+    },
+    {
+      "index": 6,
+      "name": "Ürünlerimiz",
+      "path": "page-column",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "products",
+        "bgcolor": "#e31524",
+        "color": "#fff",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "id": "nzx31c"
+    },
+    {
+      "index": 7,
+      "name": "Referaslarımız",
+      "path": "module-list",
+      "local": "body",
+      "category": "Module list",
+      "desing": {
+        "size": 4
+      },
+      "data": [
+        {
+          "img": "1.png"
+        },
+        {
+          "img": "10.png"
+        },
+        {
+          "img": "11.png"
+        },
+        {
+          "img": "12.png"
+        },
+        {
+          "img": "13.png"
+        },
+        {
+          "img": "14.png"
+        },
+        {
+          "img": "15.png"
+        },
+        {
+          "img": "16.png"
+        },
+        {
+          "img": "17.png"
+        },
+        {
+          "img": "18.png"
+        },
+        {
+          "img": "19.png"
+        },
+        {
+          "img": "2.png"
+        },
+        {
+          "img": "3.png"
+        },
+        {
+          "img": "4.png"
+        },
+        {
+          "img": "5.png"
+        },
+        {
+          "img": "6.png"
+        },
+        {
+          "img": "8.png"
+        },
+        {
+          "img": "9.png"
+        }
+      ],
+      "id": "twgv9d",
+      "description": "Statik görsel grid liste modülü. Referans logoları, sertifikalar, tedarikçi görselleri ve partner firmaları kare düzende gösterir. 5 farklı projede kullanılır: kurumsal, eğitim, restoran ve ambalaj sektörlerinde. 4 sütunlu responsive grid layout, statik veri yapısı ve uniform görsel boyutlandırma içerir.",
+      "version": "1.0.0",
+      "icon": "apps"
+    },
+    {
+      "index": 8,
+      "name": "Kutu ve Ambalaj",
+      "path": "page-slider-5",
+      "local": "body",
+      "category": "page slider",
+      "desing": {
+        "page": "products",
+        "name": {
+          "tr": "Kutu ve Ambalajlar",
+          "en": "Boxes and Packaging",
+          "ar": "الصناديق والتعبئة"
+        },
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "3 / 2",
+        "margin": "0px 0px 0px 0px",
+        "max": 8,
+        "color": "#e31524",
+        "delay": 4000
+      },
+      "id": "vhi6fj",
+      "description": "Sayfa içeriklerini slider formatında gösteren modül.  ürünler için dinamik sunum."
+    },
+    {
+      "index": 9,
+      "name": "Kağıtlarımız",
+      "path": "page-slider-6",
+      "local": "body",
+      "category": "page slider",
+      "desing": {
+        "page": "kagitlarimiz",
+        "name": {
+          "tr": "Kağıtlarımız",
+          "en": "Our Papers",
+          "ar": "أوراقنا"
+        },
+        "aspect-ratio": "1/1",
+        "color": "#7f0a1e",
+        "size": 4,
+        "category": "",
+        "margin": "0px 0px 0px 0px",
+        "max": 8,
+        "delay": 4000
+      },
+      "id": "vhi6fj2",
+      "description": "Sayfa içeriklerini slider formatında gösteren modül.  ürünler için dinamik sunum."
+    },
+    {
+      "index": 10,
+      "name": "Sayfa Listesi Kare",
+      "path": "page-list",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "kagitlarimiz",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "3 / 2"
+      },
+      "id": "kcy6ud",
+      "description": "Kare görsel grid liste modülü. Sayfa içeriklerini 4 sütunlu responsive grid düzeninde gösterir. 8 farklı projede kullanılır: üretim, lojistik, kurumsal, ambalaj, profesyonel hizmet ve inşaat sektörlerinde. 1:1 aspect ratio kare görsel formatı, kategori filtreleme ve hover efektleri içerir.",
+      "version": "1.0.0",
+      "icon": "grid_view"
+    }
+  ]
+}

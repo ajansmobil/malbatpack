@@ -1,0 +1,247 @@
+{
+  "name": "Kurumsal",
+  "path": "kurumsal",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About Us",
+        "ar": "معلومات عنا"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 0,
+      "icon": "home",
+      "description": {
+        "tr": "Malbat Pack hakkımızda: Firmamızın tarihçesi, değerlerimiz, misyonumuz ve vizyonumuz. Kaliteli ambalaj çözümleri sunan güvenilir firma.",
+        "en": "About Malbat Pack: Our company's history, values, mission and vision. A reliable company providing quality packaging solutions.",
+        "ar": "معلومات عن Malbat Pack: تاريخ شركتنا وقيمنا ورسالتنا ورؤيتنا. شركة موثوقة تقدم حلول التعبئة والتغليف عالية الجودة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Misyon",
+        "en": "Mission",
+        "ar": "المهمة"
+      },
+      "status": "play",
+      "id": "misyon",
+      "path": "misyon",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1,
+      "icon": "home",
+      "description": {
+        "tr": "Malbat Pack misyon: Çevre dostu uygulamalarla sürdürülebilir gelecek için katkıda bulunma. Teknoloji ve yenilik odaklı yaklaşımımız.",
+        "en": "Malbat Pack mission: Contributing to a sustainable future with eco-friendly practices. Our technology and innovation focused approach.",
+        "ar": "مهمة Malbat Pack: المساهمة في مستقبل مستدام من خلال الممارسات الصديقة للبيئة. نهجنا المرتكز على التكنولوجيا والابتكار."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Vizyon",
+        "en": "Vision",
+        "ar": "الرؤية"
+      },
+      "status": "play",
+      "id": "vizyon",
+      "path": "vizyon",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2,
+      "icon": "home",
+      "description": {
+        "tr": "Malbat Pack vizyon: Sektörde en güvenilir ve tercih edilen firma olma hedefi. Müşteri odaklı yaklaşım ve sürekli gelişim.",
+        "en": "Malbat Pack vision: The goal of being the most trusted and preferred company in the industry. Customer-focused approach and continuous development.",
+        "ar": "رؤية Malbat Pack: الهدف من أن تصبح الشركة الأكثر موثوقية ومفضلة في الصناعة. نهج يركز على العملاء والتطوير المستمر."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız",
+        "en": "Our Quality Policy",
+        "ar": "سياسة الجودة الخاصة بنا"
+      },
+      "status": "play",
+      "id": "kalitepolitikamiz",
+      "path": "kalite-politikamiz",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3,
+      "icon": "home",
+      "description": {
+        "tr": "Malbat Pack kalite politikası: Müşteri memnuniyetini ön planda tutan, sürekli iyileştirme odaklı kalite anlayışımız. ISO standartlarına uygun üretim.",
+        "en": "Malbat Pack quality policy: Our quality approach that prioritizes customer satisfaction and focuses on continuous improvement. ISO standard compliant production.",
+        "ar": "سياسة الجودة Malbat Pack: نهجنا في الجودة الذي يعطي الأولوية لرضا العملاء ويركز على التحسين المستمر. إنتاج متوافق مع معايير ISO."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Gizlilik Politikası",
+        "en": "Privacy Policy",
+        "ar": "سياسة الخصوصية"
+      },
+      "status": "play",
+      "id": "gizlilikpolitikasi",
+      "path": "gizlilik-politikasi",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 4,
+      "icon": "home",
+      "description": {
+        "tr": "Malbat Pack gizlilik politikası: Kişisel verilerin korunması, çerez politikası ve kullanıcı hakları. KVKK uyumlu veri güvenliği.",
+        "en": "Malbat Pack privacy policy: Protection of personal data, cookie policy and user rights. KVKK compliant data security.",
+        "ar": "سياسة الخصوصية Malbat Pack: حماية البيانات الشخصية وسياسة ملفات تعريف الارتباط وحقوق المستخدمين. أمان البيانات المتوافق مع KVKK."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "ar": "البيانات الشخصية"
+      },
+      "status": "play",
+      "id": "kisiselveriler",
+      "path": "kisisel-veriler",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 5,
+      "icon": "home",
+      "description": {
+        "tr": "Malbat Pack kişisel veriler koruma: KVKK uyumlu veri güvenliği, kişisel veri işleme politikaları ve kullanıcı hakları. Güvenli veri yönetimi.",
+        "en": "Malbat Pack personal data protection: KVKK compliant data security, personal data processing policies and user rights. Secure data management.",
+        "ar": "حماية البيانات الشخصية Malbat Pack: أمان البيانات المتوافق مع KVKK وسياسات معالجة البيانات الشخصية وحقوق المستخدمين. إدارة آمنة للبيانات."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kullanıcı Hakları",
+        "en": "User Rights",
+        "ar": "حقوق المستخدمين"
+      },
+      "status": "play",
+      "id": "kullanicahaklari",
+      "path": "kullanici-haklari",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 6,
+      "icon": "home",
+      "description": {
+        "tr": "Malbat Pack kullanıcı hakları: KVKK kapsamında kişisel veri hakları, veri işleme süreçleri ve kullanıcı talepleri. Şeffaf veri yönetimi.",
+        "en": "Malbat Pack user rights: Personal data rights under KVKK, data processing procedures and user requests. Transparent data management.",
+        "ar": "حقوق المستخدمين Malbat Pack: حقوق البيانات الشخصية بموجب KVKK وإجراءات معالجة البيانات وطلبات المستخدمين. إدارة شفافة للبيانات."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı",
+        "en": "Legal Notice",
+        "ar": "إشعار قانوني"
+      },
+      "status": "play",
+      "id": "yasaluyari",
+      "path": "yasal-uyari",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 7,
+      "icon": "home",
+      "description": {
+        "tr": "Malbat Pack yasal uyarı: Telif hakları, fikri mülkiyet koruması ve yasal sorumluluklar. İçerik kullanım kuralları ve yasal bilgilendirme.",
+        "en": "Malbat Pack legal notice: Copyright, intellectual property protection and legal responsibilities. Content usage rules and legal information.",
+        "ar": "الإشعار القانوني Malbat Pack: حقوق الطبع والنشر وحماية الملكية الفكرية والمسؤوليات القانونية. قواعد استخدام المحتوى والمعلومات القانونية."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    }
+  ],
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "mfki0h"
+    ],
+    "footer": []
+  }
+}

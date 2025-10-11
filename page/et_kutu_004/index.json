@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Et Kutuları",
+    "en": "Meat Boxes",
+    "ar": "صناديق اللحوم"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "et_kutu_004",
+  "url": "",
+  "path": "et-kutulari",
+  "desc": {},
+  "index": 3,
+  "icon": "home",
+  "img": "aq23x.png",
+  "description": {
+    "tr": "Malbat Pack et kutuları: Et ve et ürünleri için özel tasarım ambalaj çözümleri. Soğuk zincir koruma, hijyenik üretim, gıda güvenliği standartları.",
+    "en": "Malbat Pack meat boxes: Special design packaging solutions for meat and meat products. Cold chain protection, hygienic production, food safety standards.",
+    "ar": "صناديق اللحوم Malbat Pack: حلول التعبئة والتغليف بتصميم خاص للحوم ومنتجات اللحوم. حماية السلسلة الباردة، إنتاج صحي، معايير سلامة الغذاء."
+  },
+  "keyword": {
+    "tr": "et kutusu, et ambalajı, soğuk zincir et kutusu, hijyenik et ambalajı, gıda güvenliği kutusu",
+    "en": "meat box, meat packaging, cold chain meat box, hygienic meat packaging, food safety box",
+    "ar": "صندوق لحوم، تغليف لحوم، صندوق لحوم سلسلة باردة، تغليف لحوم صحي، صندوق سلامة الغذاء"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Et Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak et ve et ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Soğuk zincir koruma özellikli ambalajlarımızla et ürünlerinizin tazeliğini ve kalitesini koruyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hijyenik üretim koşullarında gıda güvenliği standartlarına uygun ambalaj çözümleri sunuyoruz. Nem bariyeri teknolojisi kullanarak et ürünlerinizin raf ömrünü uzatıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Meat Boxes</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design packaging solutions for meat and meat products. With our cold chain protection packaging, we preserve the freshness and quality of your meat products.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer packaging solutions that comply with food safety standards under hygienic production conditions. We extend the shelf life of your meat products using moisture barrier technology.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We produce solutions suitable for your brand's needs in different sizes and special design options.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">صناديق اللحوم</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج حلول التعبئة والتغليف بتصميم خاص للحوم ومنتجات اللحوم. مع عبواتنا المحمية بسلسلة باردة، نحافظ على نضارة وجودة منتجات اللحوم الخاصة بك.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول التعبئة والتغليف المتوافقة مع معايير سلامة الغذاء في ظل ظروف إنتاج صحية. نمدد العمر الافتراضي لمنتجات اللحوم الخاصة بك باستخدام تقنية حاجز الرطوبة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.458Z",
+  "date": "2025-10-02T03:54:07.008Z"
+}

@@ -1,0 +1,428 @@
+{
+  "name": "Ürünler",
+  "path": "products",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Et Kutuları",
+        "en": "Meat Boxes",
+        "ar": "صناديق اللحوم"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "et_kutu_004",
+      "url": "",
+      "path": "et-kutulari",
+      "index": 0,
+      "icon": "home",
+      "img": "aq23x.png",
+      "description": {
+        "tr": "Malbat Pack et kutuları: Et ve et ürünleri için özel tasarım ambalaj çözümleri. Soğuk zincir koruma, hijyenik üretim, gıda güvenliği standartları.",
+        "en": "Malbat Pack meat boxes: Special design packaging solutions for meat and meat products. Cold chain protection, hygienic production, food safety standards.",
+        "ar": "صناديق اللحوم Malbat Pack: حلول التعبئة والتغليف بتصميم خاص للحوم ومنتجات اللحوم. حماية السلسلة الباردة، إنتاج صحي، معايير سلامة الغذاء."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Cips & Dondurma Kutuları",
+        "en": "Chips & Ice Cream Boxes",
+        "ar": "صناديق الرقائق والآيس كريم"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "cips_dondurma_003",
+      "url": "",
+      "path": "cips-dondurma-kutulari",
+      "index": 1,
+      "icon": "home",
+      "img": "nq665.png",
+      "description": {
+        "tr": "Malbat Pack cips ve dondurma kutuları: Soğuk zincir koruma, nem bariyeri, özel tasarım ambalaj çözümleri. Gıda güvenliği standartlarına uygun üretim.",
+        "en": "Malbat Pack chips and ice cream boxes: Cold chain protection, moisture barrier, special design packaging solutions. Production according to food safety standards.",
+        "ar": "صناديق الرقائق والآيس كريم Malbat Pack: حماية السلسلة الباردة، حاجز الرطوبة، حلول التعبئة والتغليف بتصميم خاص. إنتاج وفق معايير سلامة الغذاء."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Yaş Meyve ve Sebze Kutuları",
+        "en": "Fresh Fruit and Vegetable Boxes",
+        "ar": "صناديق الفواكه والخضروات الطازجة"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "meyve_sebze_006",
+      "url": "",
+      "path": "yas-meyve-sebze-kutulari",
+      "index": 2,
+      "icon": "home",
+      "img": "ilaa4.png",
+      "description": {
+        "tr": "Malbat Pack yaş meyve ve sebze kutuları: Gözenekli yapı, mikroorganizma koruması, raf ömrü uzatma. Hijyenik üretim, sürdürülebilir malzeme.",
+        "en": "Malbat Pack fresh fruit and vegetable boxes: Porous structure, microorganism protection, shelf life extension. Hygienic production, sustainable material.",
+        "ar": "صناديق الفواكه والخضروات الطازجة Malbat Pack: هيكل مسامي، حماية من الكائنات الدقيقة، إطالة العمر الافتراضي. إنتاج صحي، مادة مستدامة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Tavuk Kutuları",
+        "en": "Chicken Boxes",
+        "ar": "صناديق الدجاج"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "tavuk_kutu_005",
+      "url": "",
+      "path": "tavuk-kutulari",
+      "index": 3,
+      "icon": "home",
+      "img": "cr7hl.png",
+      "description": {
+        "tr": "Malbat Pack tavuk kutuları: Tavuk ve kanatlı et ürünleri için özel tasarım ambalaj çözümleri. Soğuk zincir koruma, hijyenik üretim.",
+        "en": "Malbat Pack chicken boxes: Special design packaging solutions for chicken and poultry products. Cold chain protection, hygienic production.",
+        "ar": "صناديق الدجاج Malbat Pack: حلول التعبئة والتغليف بتصميم خاص للدجاج ومنتجات الدواجن. حماية السلسلة الباردة، إنتاج صحي."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "İçecek Kutuları",
+        "en": "Beverage Boxes",
+        "ar": "صناديق المشروبات"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "icecek_kutu_008",
+      "url": "",
+      "path": "icecek-kutulari",
+      "index": 4,
+      "icon": "home",
+      "img": "ft8cf.png",
+      "description": {
+        "tr": "Malbat Pack içecek kutuları: Geniş içecek yelpazesi için özel tasarım ambalaj çözümleri. Sızdırmaz yapı, dayanıklı malzeme, hijyenik üretim.",
+        "en": "Malbat Pack beverage boxes: Special design packaging solutions for wide beverage range. Leak-proof structure, durable material, hygienic production.",
+        "ar": "صناديق المشروبات Malbat Pack: حلول التعبئة والتغليف بتصميم خاص لمجموعة واسعة من المشروبات. هيكل محكم، مادة متينة، إنتاج صحي."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Dijital Baskı",
+        "en": "Digital Printing",
+        "ar": "الطباعة الرقمية"
+      },
+      "status": "play",
+      "category": "baski",
+      "id": "dijital_baski_010",
+      "url": "",
+      "path": "dijital-baski",
+      "index": 5,
+      "icon": "home",
+      "img": "llfas.png",
+      "description": {
+        "tr": "Malbat Pack dijital baskı hizmetleri: Yüksek kaliteli dijital baskı, özel tasarım çözümleri, hızlı teslimat. Profesyonel baskı teknolojileri.",
+        "en": "Malbat Pack digital printing services: High quality digital printing, custom design solutions, fast delivery. Professional printing technologies.",
+        "ar": "خدمات الطباعة الرقمية Malbat Pack: طباعة رقمية عالية الجودة، حلول تصميم مخصصة، تسليم سريع. تقنيات طباعة مهنية."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Beyaz Eşya Kutuları",
+        "en": "Home Appliance Boxes",
+        "ar": "صناديق الأجهزة المنزلية"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "beyaz_esya_011",
+      "url": "",
+      "path": "beyaz-esya-kutulari",
+      "index": 6,
+      "icon": "home",
+      "img": "d5n6z.png",
+      "description": {
+        "tr": "Malbat Pack beyaz eşya kutuları: Buzdolabı, çamaşır makinesi, bulaşık makinesi için özel tasarım ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma.",
+        "en": "Malbat Pack home appliance boxes: Special design packaging solutions for refrigerator, washing machine, dishwasher. Durable material, safe transportation.",
+        "ar": "صناديق الأجهزة المنزلية Malbat Pack: حلول التعبئة والتغليف بتصميم خاص للثلاجة وغسالة الملابس وغسالة الأطباق. مادة متينة، نقل آمن."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Süt / Yoğurt / Ayran / Yumurta Kutuları",
+        "en": "Milk / Yogurt / Ayran / Egg Boxes",
+        "ar": "صناديق الحليب / الزبادي / العيران / البيض"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "sut_yogurt_009",
+      "url": "",
+      "path": "sut-yogurt-ayran-yumurta-kutulari",
+      "index": 7,
+      "icon": "home",
+      "img": "cqccp.png",
+      "description": {
+        "tr": "Malbat Pack süt ürünleri kutuları: Süt, yoğurt, ayran, yumurta için özel tasarım ambalaj çözümleri. Soğuk zincir koruma, hijyenik üretim.",
+        "en": "Malbat Pack dairy product boxes: Special design packaging solutions for milk, yogurt, ayran, eggs. Cold chain protection, hygienic production.",
+        "ar": "صناديق منتجات الألبان Malbat Pack: حلول التعبئة والتغليف بتصميم خاص للحليب والزبادي والعيران والبيض. حماية السلسلة الباردة، إنتاج صحي."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Otomotiv Kutuları",
+        "en": "Automotive Boxes",
+        "ar": "صناديق السيارات"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "otomotiv_kutu_012",
+      "url": "",
+      "path": "otomotiv-kutulari",
+      "index": 8,
+      "icon": "home",
+      "img": "d4llo.png",
+      "description": {
+        "tr": "Malbat Pack otomotiv kutuları: Otomotiv sektörü için özel tasarım ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri.",
+        "en": "Malbat Pack automotive boxes: Special design packaging solutions for automotive industry. Durable material, safe transportation, custom design solutions.",
+        "ar": "صناديق السيارات Malbat Pack: حلول التعبئة والتغليف بتصميم خاص لصناعة السيارات. مادة متينة، نقل آمن، حلول تصميم مخصصة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Seramik & Vitrifiye Kutuları",
+        "en": "Ceramic & Vitrified Boxes",
+        "ar": "صناديق السيراميك والزجاج المطلي"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "seramik_vitrifiye_013",
+      "url": "",
+      "path": "seramik-vitrifiye-kutulari",
+      "index": 9,
+      "icon": "home",
+      "img": "rpq6t.png",
+      "description": {
+        "tr": "Malbat Pack seramik ve vitrifiye kutuları: Kırılgan ürünler için özel tasarım ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri.",
+        "en": "Malbat Pack ceramic and vitrified boxes: Special design packaging solutions for fragile products. Durable material, safe transportation, custom design solutions.",
+        "ar": "صناديق السيراميك والزجاج المطلي Malbat Pack: حلول التعبئة والتغليف بتصميم خاص للمنتجات الهشة. مادة متينة، نقل آمن، حلول تصميم مخصصة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Oluklu Standlar",
+        "en": "Corrugated Displays",
+        "ar": "منصات العرض المضلعة"
+      },
+      "status": "play",
+      "category": "stand",
+      "id": "oluklu_stand_014",
+      "url": "",
+      "path": "oluklu-standlar",
+      "index": 10,
+      "icon": "home",
+      "img": "fz7yt.png",
+      "description": {
+        "tr": "Malbat Pack oluklu standlar: Ürün sergileme ve teşhir için özel tasarım stand çözümleri. Dayanıklı malzeme, özel tasarım, sürdürülebilir çözümler.",
+        "en": "Malbat Pack corrugated displays: Special design display solutions for product exhibition and display. Durable material, custom design, sustainable solutions.",
+        "ar": "منصات العرض المضلعة Malbat Pack: حلول عرض بتصميم خاص لعرض المنتجات والمعرض. مادة متينة، تصميم مخصص، حلول مستدامة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Oktabin Kutuları",
+        "en": "Octabin Boxes",
+        "ar": "صناديق الأوكتابين"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "oktabin_kutu_015",
+      "url": "",
+      "path": "oktabin-kutulari",
+      "index": 11,
+      "icon": "home",
+      "img": "is3ej.png",
+      "description": {
+        "tr": "Malbat Pack oktabin kutuları: Özel tasarım oktabin ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri. Sürdürülebilir ambalaj.",
+        "en": "Malbat Pack octabin boxes: Special design octabin packaging solutions. Durable material, safe transportation, custom design solutions. Sustainable packaging.",
+        "ar": "صناديق الأوكتابين Malbat Pack: حلول التعبئة والتغليف أوكتابين بتصميم خاص. مادة متينة، نقل آمن، حلول تصميم مخصصة. تعبئة وتغليف مستدامة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Modül Kutuları",
+        "en": "Module Boxes",
+        "ar": "صناديق الوحدات"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "modul_kutu_016",
+      "url": "",
+      "path": "modul-kutulari",
+      "index": 12,
+      "icon": "home",
+      "img": "mozu1.png",
+      "description": {
+        "tr": "Malbat Pack modül kutuları: Modüler ambalaj çözümleri için özel tasarım kutular. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri.",
+        "en": "Malbat Pack module boxes: Special design boxes for modular packaging solutions. Durable material, safe transportation, custom design solutions.",
+        "ar": "صناديق الوحدات Malbat Pack: صناديق بتصميم خاص لحلول التعبئة والتغليف المعيارية. مادة متينة، نقل آمن، حلول تصميم مخصصة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "E-Ticaret Kutuları",
+        "en": "E-Commerce Boxes",
+        "ar": "صناديق التجارة الإلكترونية"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "eticaret_kutu_017",
+      "url": "",
+      "path": "e-ticaret-kutulari",
+      "index": 13,
+      "icon": "home",
+      "img": "cfu1n.png",
+      "description": {
+        "tr": "Malbat Pack e-ticaret kutuları: Online satış için özel tasarım ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri.",
+        "en": "Malbat Pack e-commerce boxes: Special design packaging solutions for online sales. Durable material, safe transportation, custom design solutions.",
+        "ar": "صناديق التجارة الإلكترونية Malbat Pack: حلول التعبئة والتغليف بتصميم خاص للمبيعات عبر الإنترنت. مادة متينة، نقل آمن، حلول تصميم مخصصة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Temizlik ve Kimya Kutuları",
+        "en": "Cleaning & Chemical Boxes",
+        "ar": "صناديق التنظيف والكيمياء"
+      },
+      "status": "play",
+      "category": "ambalaj",
+      "id": "temizlik_kimya_018",
+      "url": "",
+      "path": "temizlik-kimya-kutulari",
+      "index": 14,
+      "icon": "home",
+      "img": "tuaj5.png",
+      "description": {
+        "tr": "Malbat Pack temizlik ve kimya kutuları: Temizlik ürünleri ve kimyasal maddeler için özel tasarım ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma.",
+        "en": "Malbat Pack cleaning and chemical boxes: Special design packaging solutions for cleaning products and chemicals. Durable material, safe transportation.",
+        "ar": "صناديق التنظيف والكيمياء Malbat Pack: حلول التعبئة والتغليف بتصميم خاص لمنتجات التنظيف والمواد الكيميائية. مادة متينة، نقل آمن."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    }
+  ],
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [
+      "mfki0h"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": true,
+    "detail": true
+  }
+}

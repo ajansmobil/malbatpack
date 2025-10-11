@@ -1,0 +1,41 @@
+{
+  "name": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "ar": "البيانات الشخصية"
+  },
+  "status": "play",
+  "id": "kisiselveriler",
+  "path": "kisisel-veriler",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kişisel Veriler</h2>\n    <p style=\"font-size: 16px;\">\n        Kişisel verileriniz, yalnızca yasal gereklilikleri karşılamak, taleplerinizi yerine getirmek ve size daha iyi hizmet sunmak amacıyla toplanmaktadır. Kişisel verilerinizin güvenliği bizim için önceliklidir ve bu verilerin korunması için 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) başta olmak üzere, ilgili tüm mevzuat çerçevesinde gerekli teknik ve idari tedbirleri almaktayız.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Toplanan kişisel veriler, yalnızca yetkili kişiler tarafından erişilebilir olup, izniniz dışında üçüncü taraflarla paylaşılmamaktadır. Kişisel verilerinizin hangi amaçlarla işlendiğini, nasıl saklandığını, kimlerle paylaşıldığını öğrenme hakkına sahipsiniz. Ayrıca, verilerinize erişim talep edebilir, düzeltilmesini, silinmesini veya anonim hale getirilmesini isteyebilirsiniz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kişisel verilerinizle ilgili herhangi bir sorunuz veya talebiniz olduğunda, Gizlilik Politikamızda belirtilen iletişim kanallarımız üzerinden bizimle iletişime geçebilirsiniz. Verilerinizin güvenliği ve mahremiyeti bizim için büyük önem taşımaktadır.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Personal Data</h2>\n    <p style=\"font-size: 16px;\">\n        Your personal data is collected only to meet legal requirements, fulfill your requests and provide you with better service. The security of your personal data is our priority and we take the necessary technical and administrative measures to protect this data within the framework of all relevant legislation, especially the Personal Data Protection Law (KVKK) No. 6698.\n    </p>\n    <p style=\"font-size: 16px;\">\n        The collected personal data is only accessible by authorized persons and is not shared with third parties without your consent. You have the right to learn for what purposes your personal data is processed, how it is stored, and with whom it is shared. In addition, you can request access to your data, request its correction, deletion or anonymization.\n    </p>\n    <p style=\"font-size: 16px;\">\n        When you have any questions or requests regarding your personal data, you can contact us through the communication channels specified in our Privacy Policy. The security and privacy of your data is of great importance to us.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">البيانات الشخصية</h2>\n    <p style=\"font-size: 16px;\">\n        يتم جمع بياناتك الشخصية فقط لتلبية المتطلبات القانونية وتنفيذ طلباتك وتقديم خدمة أفضل لك. أمان بياناتك الشخصية أولويتنا ونتخذ التدابير التقنية والإدارية اللازمة لحماية هذه البيانات في إطار جميع التشريعات ذات الصلة، خاصة قانون حماية البيانات الشخصية (KVKK) رقم 6698.\n    </p>\n    <p style=\"font-size: 16px;\">\n        البيانات الشخصية المجمعة يمكن الوصول إليها فقط من قبل الأشخاص المصرح لهم ولا يتم مشاركتها مع أطراف ثالثة دون موافقتك. لديك الحق في معرفة الأغراض التي تُستخدم بها بياناتك الشخصية وكيفية تخزينها ومع من يتم مشاركتها. بالإضافة إلى ذلك، يمكنك طلب الوصول إلى بياناتك وطلب تصحيحها أو حذفها أو إخفاء هويتها.\n    </p>\n    <p style=\"font-size: 16px;\">\n        عندما يكون لديك أي أسئلة أو طلبات بخصوص بياناتك الشخصية، يمكنك التواصل معنا من خلال قنوات الاتصال المحددة في سياسة الخصوصية الخاصة بنا. أمان وخصوصية بياناتك ذات أهمية كبيرة بالنسبة لنا.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 5,
+  "icon": "home",
+  "description": {
+    "tr": "Malbat Pack kişisel veriler koruma: KVKK uyumlu veri güvenliği, kişisel veri işleme politikaları ve kullanıcı hakları. Güvenli veri yönetimi.",
+    "en": "Malbat Pack personal data protection: KVKK compliant data security, personal data processing policies and user rights. Secure data management.",
+    "ar": "حماية البيانات الشخصية Malbat Pack: أمان البيانات المتوافق مع KVKK وسياسات معالجة البيانات الشخصية وحقوق المستخدمين. إدارة آمنة للبيانات."
+  },
+  "keyword": {
+    "tr": "kişisel veriler, KVKK, veri koruma, kişisel veri güvenliği, veri işleme, kullanıcı hakları, Malbat Pack veri",
+    "en": "personal data, KVKK, data protection, personal data security, data processing, user rights, Malbat Pack data",
+    "ar": "بيانات شخصية، KVKK، حماية البيانات، أمان البيانات الشخصية، معالجة البيانات، حقوق المستخدمين، بيانات Malbat Pack"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.509Z",
+  "date": "2025-10-02T03:54:07.059Z"
+}

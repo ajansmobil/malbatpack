@@ -1,0 +1,40 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /data/
+Disallow: /services/
+Disallow: /node_modules/
+Disallow: /src/
+Disallow: /img/private/
+
+# Arama motorları için özel kurallar
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 3
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+# Sitemap
+Sitemap: https://malbatpack.com/sitemap.xml

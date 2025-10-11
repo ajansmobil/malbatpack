@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Dijital Baskı",
+    "en": "Digital Printing",
+    "ar": "الطباعة الرقمية"
+  },
+  "status": "play",
+  "category": "baski",
+  "id": "dijital_baski_010",
+  "url": "",
+  "path": "dijital-baski",
+  "desc": {},
+  "index": 9,
+  "icon": "home",
+  "img": "llfas.png",
+  "description": {
+    "tr": "Malbat Pack dijital baskı hizmetleri: Yüksek kaliteli dijital baskı, özel tasarım çözümleri, hızlı teslimat. Profesyonel baskı teknolojileri.",
+    "en": "Malbat Pack digital printing services: High quality digital printing, custom design solutions, fast delivery. Professional printing technologies.",
+    "ar": "خدمات الطباعة الرقمية Malbat Pack: طباعة رقمية عالية الجودة، حلول تصميم مخصصة، تسليم سريع. تقنيات طباعة مهنية."
+  },
+  "keyword": {
+    "tr": "dijital baskı, ambalaj baskı, özel tasarım baskı, yüksek kalite baskı, profesyonel baskı hizmetleri",
+    "en": "digital printing, packaging printing, custom design printing, high quality printing, professional printing services",
+    "ar": "طباعة رقمية، طباعة تغليف، طباعة تصميم مخصص، طباعة عالية الجودة، خدمات طباعة مهنية"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Dijital Baskı</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak dijital baskı hizmetlerimizle ambalajlarınıza özel tasarım çözümleri sunuyoruz. Yüksek kaliteli dijital baskı teknolojileri kullanarak markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hızlı teslimat süreçlerimizle zamanında teslim garantisi veriyoruz. Profesyonel baskı teknolojilerimizle kaliteli sonuçlar elde ediyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı malzeme seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Digital Printing</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we offer special design solutions for your packaging with our digital printing services. We produce solutions suitable for your brand's needs using high quality digital printing technologies.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We guarantee on-time delivery with our fast delivery processes. We achieve quality results with our professional printing technologies.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We produce solutions suitable for your brand's needs with different material options.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">الطباعة الرقمية</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، نقدم حلول تصميم خاصة لعبواتك مع خدمات الطباعة الرقمية الخاصة بنا. ننتج حلول مناسبة لاحتياجات علامتك التجارية باستخدام تقنيات الطباعة الرقمية عالية الجودة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نضمن التسليم في الوقت المحدد مع عمليات التسليم السريعة. نحقق نتائج عالية الجودة مع تقنيات الطباعة المهنية الخاصة بنا.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ننتج حلول مناسبة لاحتياجات علامتك التجارية مع خيارات مواد مختلفة.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.471Z",
+  "date": "2025-10-02T03:54:07.023Z"
+}

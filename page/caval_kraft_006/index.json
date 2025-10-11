@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Çuval Kraft Kağıdı",
+    "en": "Sack Kraft",
+    "ar": "ورق كرافت الأكياس"
+  },
+  "status": "play",
+  "category": "corrugating",
+  "id": "caval_kraft_006",
+  "url": "",
+  "path": "caval-kraft-kagidi",
+  "index": 5,
+  "icon": "home",
+  "img": "",
+  "description": {
+    "tr": "Çuval kraft kağıdı: Yüksek dayanıklılık, çuval üretimi için özel tasarım, güçlü yapı.",
+    "en": "Sack kraft: High durability, special design for sack production, strong structure.",
+    "ar": "ورق كرافت الأكياس: متانة عالية، تصميم خاص لإنتاج الأكياس، هيكل قوي."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": "çuval kraft kağıdı, yüksek dayanıklılık, çuval üretimi, özel tasarım, güçlü yapı, Malbat Pack",
+    "en": "sack kraft paper, high durability, sack production, special design, strong structure, Malbat Pack",
+    "ar": "ورق كرافت الأكياس، متانة عالية، إنتاج الأكياس، تصميم خاص، هيكل قوي، Malbat Pack"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Çuval Kraft Kağıdı</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack çuval kraft kağıdı, yüksek dayanıklılık ve güçlü yapı özellikleri ile üretilen çuval üretimi için özel tasarım edilmiş bir kağıt türüdür. Yüksek dayanıklılık ve güçlü yapı özellikleri ile çuval üretimi için ideal çözümler sunar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Çuval kraft kağıdımız, özel kraft teknolojisi sayesinde mükemmel dayanıklılık sağlarken, güçlü yapısı ile profesyonel sonuçlar verir. Bu özellikleri ile özellikle çuval, torba ve dayanıklılık gerektiren uygulamalar için mükemmel sonuçlar verir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir üretim anlayışımızla, çevre dostu çuval kraft kağıdı çözümleri sunarak, müşterilerimizin çuval ihtiyaçlarına en uygun ürünleri temin ediyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Sack Kraft Paper</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack sack kraft paper is a paper type specially designed for sack production, produced with high durability and strong structure properties. It offers ideal solutions for sack production with its high durability and strong structure features.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our sack kraft paper provides excellent durability thanks to its special kraft technology while delivering professional results with its strong structure. With these features, it provides perfect results especially for sacks, bags and applications requiring durability.\n    </p>\n    <p style=\"font-size: 16px;\">\n        With our sustainable production approach, we provide environmentally friendly sack kraft paper solutions and supply the most suitable products for our customers' sack needs.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">ورق كرافت الأكياس</h2>\n    <p style=\"font-size: 16px;\">\n        ورق كرافت الأكياس من Malbat Pack هو نوع ورق مصمم خصيصاً لإنتاج الأكياس، يتم إنتاجه بمتانة عالية وخصائص هيكل قوي. يقدم حلول مثالية لإنتاج الأكياس بمتانته العالية وميزات الهيكل القوي.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ورق كرافت الأكياس الخاص بنا يوفر متانة ممتازة بفضل تقنية الكرافت الخاصة بينما يقدم نتائج مهنية بهيكله القوي. بهذه الميزات، يوفر نتائج مثالية خاصة للأكياس والحقائب والتطبيقات التي تتطلب متانة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        مع نهجنا في الإنتاج المستدام، نقدم حلول ورق كرافت الأكياس صديقة للبيئة ونوفر المنتجات الأنسب لاحتياجات الأكياس لعملائنا.\n    </p>"
+  },
+  "update": "2025-10-11T04:40:05.529Z",
+  "date": "2025-10-02T08:22:30.290Z"
+}

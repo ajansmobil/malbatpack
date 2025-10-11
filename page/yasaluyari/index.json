@@ -1,0 +1,41 @@
+{
+  "name": {
+    "tr": "Yasal Uyarı",
+    "en": "Legal Notice",
+    "ar": "إشعار قانوني"
+  },
+  "status": "play",
+  "id": "yasaluyari",
+  "path": "yasal-uyari",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Yasal Uyarı</h2>\n    <p style=\" font-size: 16px;\">\n        Sitemizde yer alan tüm içerik, 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun'un hükümleri uyarınca korunmaktadır. Sitemizde yer alan hiçbir içeriğin kopyalanması, çoğaltılması, yayılması, satılması, dağıtılması, sergilenmesi, yayımlanması, herhangi bir şekilde ticari amaçla kullanılması veya başka platformlarda izinsiz olarak paylaşılması yasaktır. Bu kurallara aykırı hareket edenler, ilgili kanunlar kapsamında hukuki ve cezai yaptırımlarla karşılaşabilirler. </p>\n    <p style=\" font-size: 16px;\">\n        Sitemizde yer alan içeriğin hukuka aykırı bir şekilde kullanılması veya dağıtılması durumunda, sitemiz yetkili mercilere başvurma ve yasal haklarını koruma hakkını saklı tutar. İnternet ortamında yer alan içeriklerin izinsiz paylaşımı, hukuki olarak ağır yaptırımlar doğurabileceği gibi, eser sahiplerinin haklarını ihlal eder. Eser sahibi olarak haklarınızı korumanız gerektiği durumda, hukuki süreç başlatma hakkınız mevcuttur.</p>\n    <p style=\" font-size: 16px;\">\n        Sitemizde yer alan içeriklerin izinsiz kullanımını veya paylaşımını fark ederseniz, lütfen bizimle iletişime geçin. Sitemizi kullanmaya devam ederek, bu yasal uyarıyı kabul etmiş sayılırsınız.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Legal Notice</h2>\n    <p style=\" font-size: 16px;\">\n        All content on our site is protected under the provisions of Law No. 5846 on Intellectual and Artistic Works and Law No. 5651 on the Regulation of Publications Made on the Internet and Combating Crimes Committed Through These Publications. It is prohibited to copy, reproduce, distribute, sell, distribute, display, publish, use for any commercial purpose or share without permission on other platforms any content on our site. Those who act contrary to these rules may face legal and criminal sanctions within the scope of relevant laws. </p>\n    <p style=\" font-size: 16px;\">\n        In case of illegal use or distribution of the content on our site, our site reserves the right to apply to the competent authorities and protect its legal rights. Unauthorized sharing of content on the internet may result in heavy legal sanctions and violates the rights of copyright holders. As a copyright holder, you have the right to initiate legal proceedings when you need to protect your rights.</p>\n    <p style=\" font-size: 16px;\">\n        If you notice unauthorized use or sharing of content on our site, please contact us. By continuing to use our site, you are deemed to have accepted this legal notice.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">إشعار قانوني</h2>\n    <p style=\" font-size: 16px;\">\n        جميع المحتويات على موقعنا محمية بموجب أحكام القانون رقم 5846 بشأن الأعمال الفكرية والفنية والقانون رقم 5651 بشأن تنظيم المنشورات على الإنترنت ومكافحة الجرائم المرتكبة من خلال هذه المنشورات. يحظر نسخ أو إعادة إنتاج أو توزيع أو بيع أو توزيع أو عرض أو نشر أو استخدام لأي غرض تجاري أو مشاركة دون إذن على منصات أخرى لأي محتوى على موقعنا. قد يواجه أولئك الذين يتصرفون خلافاً لهذه القواعد عقوبات قانونية وجنائية في إطار القوانين ذات الصلة. </p>\n    <p style=\" font-size: 16px;\">\n        في حالة الاستخدام أو التوزيع غير القانوني للمحتوى على موقعنا، يحتفظ موقعنا بالحق في التقدم إلى السلطات المختصة وحماية حقوقه القانونية. قد يؤدي المشاركة غير المصرح بها للمحتوى على الإنترنت إلى عقوبات قانونية شديدة وينتهك حقوق أصحاب حقوق الطبع والنشر. بصفتك صاحب حقوق الطبع والنشر، لديك الحق في بدء الإجراءات القانونية عندما تحتاج إلى حماية حقوقك.</p>\n    <p style=\" font-size: 16px;\">\n        إذا لاحظت استخداماً أو مشاركة غير مصرح بها للمحتوى على موقعنا، يرجى التواصل معنا. من خلال الاستمرار في استخدام موقعنا، يُعتبر أنك قد قبلت هذا الإشعار القانوني.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 7,
+  "icon": "home",
+  "description": {
+    "tr": "Malbat Pack yasal uyarı: Telif hakları, fikri mülkiyet koruması ve yasal sorumluluklar. İçerik kullanım kuralları ve yasal bilgilendirme.",
+    "en": "Malbat Pack legal notice: Copyright, intellectual property protection and legal responsibilities. Content usage rules and legal information.",
+    "ar": "الإشعار القانوني Malbat Pack: حقوق الطبع والنشر وحماية الملكية الفكرية والمسؤوليات القانونية. قواعد استخدام المحتوى والمعلومات القانونية."
+  },
+  "keyword": {
+    "tr": "yasal uyarı, telif hakları, fikri mülkiyet, içerik kullanımı, yasal sorumluluk, Malbat Pack yasal",
+    "en": "legal notice, copyright, intellectual property, content usage, legal responsibility, Malbat Pack legal",
+    "ar": "إشعار قانوني، حقوق الطبع والنشر، الملكية الفكرية، استخدام المحتوى، المسؤولية القانونية، قانوني Malbat Pack"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.514Z",
+  "date": "2025-10-02T03:54:07.065Z"
+}

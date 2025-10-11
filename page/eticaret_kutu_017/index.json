@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "E-Ticaret Kutuları",
+    "en": "E-Commerce Boxes",
+    "ar": "صناديق التجارة الإلكترونية"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "eticaret_kutu_017",
+  "url": "",
+  "path": "e-ticaret-kutulari",
+  "desc": {},
+  "index": 16,
+  "icon": "home",
+  "img": "cfu1n.png",
+  "description": {
+    "tr": "Malbat Pack e-ticaret kutuları: Online satış için özel tasarım ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri.",
+    "en": "Malbat Pack e-commerce boxes: Special design packaging solutions for online sales. Durable material, safe transportation, custom design solutions.",
+    "ar": "صناديق التجارة الإلكترونية Malbat Pack: حلول التعبئة والتغليف بتصميم خاص للمبيعات عبر الإنترنت. مادة متينة، نقل آمن، حلول تصميم مخصصة."
+  },
+  "keyword": {
+    "tr": "e-ticaret kutusu, online satış ambalajı, dayanıklı e-ticaret kutusu, güvenli taşıma, özel tasarım e-ticaret",
+    "en": "e-commerce box, online sales packaging, durable e-commerce box, safe transportation, custom design e-commerce",
+    "ar": "صندوق تجارة إلكترونية، تغليف مبيعات عبر الإنترنت، صندوق تجارة إلكترونية متين، نقل آمن، تجارة إلكترونية تصميم مخصص"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">E-Ticaret Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak e-ticaret sektörü için özel tasarım ambalaj çözümleri üretiyoruz. Online satış için dayanıklı malzeme kullanarak güvenli taşıma sağlayan ambalajlarımızla ürünlerinizin korunmasını garanti ediyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz. Sürdürülebilir malzeme kullanımıyla çevre dostu ambalaj çözümleri sunuyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        E-ticaret kutularımız, ürünlerinizin online satış sürecinde güvenli şekilde müşterilere ulaşmasını sağlar.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">E-Commerce Boxes</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design packaging solutions for the e-commerce sector. We guarantee the protection of your products with our packaging that ensures safe transportation using durable materials for online sales.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We produce solutions suitable for your brand's needs in different sizes and special design options. We offer environmentally friendly packaging solutions with sustainable material use.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our e-commerce boxes ensure that your products reach customers safely during the online sales process.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">صناديق التجارة الإلكترونية</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج حلول التعبئة والتغليف بتصميم خاص لقطاع التجارة الإلكترونية. نضمن حماية منتجاتك مع عبواتنا التي تضمن النقل الآمن باستخدام مواد متينة للمبيعات عبر الإنترنت.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة. نقدم حلول التعبئة والتغليف الصديقة للبيئة مع استخدام مواد مستدامة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        صناديق التجارة الإلكترونية الخاصة بنا تضمن وصول منتجاتك إلى العملاء بأمان أثناء عملية البيع عبر الإنترنت.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.491Z",
+  "date": "2025-10-02T03:54:07.039Z"
+}

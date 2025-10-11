@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Süt / Yoğurt / Ayran / Yumurta Kutuları",
+    "en": "Milk / Yogurt / Ayran / Egg Boxes",
+    "ar": "صناديق الحليب / الزبادي / العيران / البيض"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "sut_yogurt_009",
+  "url": "",
+  "path": "sut-yogurt-ayran-yumurta-kutulari",
+  "desc": {},
+  "index": 7,
+  "icon": "home",
+  "img": "cqccp.png",
+  "description": {
+    "tr": "Malbat Pack süt ürünleri kutuları: Süt, yoğurt, ayran, yumurta için özel tasarım ambalaj çözümleri. Soğuk zincir koruma, hijyenik üretim.",
+    "en": "Malbat Pack dairy product boxes: Special design packaging solutions for milk, yogurt, ayran, eggs. Cold chain protection, hygienic production.",
+    "ar": "صناديق منتجات الألبان Malbat Pack: حلول التعبئة والتغليف بتصميم خاص للحليب والزبادي والعيران والبيض. حماية السلسلة الباردة، إنتاج صحي."
+  },
+  "keyword": {
+    "tr": "süt kutusu, yoğurt kutusu, ayran kutusu, yumurta kutusu, süt ürünleri ambalajı, soğuk zincir",
+    "en": "milk box, yogurt box, ayran box, egg box, dairy product packaging, cold chain",
+    "ar": "صندوق حليب، صندوق زبادي، صندوق عيران، صندوق بيض، تغليف منتجات ألبان، سلسلة باردة"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Süt / Yoğurt / Ayran / Yumurta Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack olarak süt, yoğurt, ayran, yumurta gibi süt ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Soğuk zincir koruma özellikli ambalajlarımızla süt ürünlerinizin tazeliğini ve kalitesini koruyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hijyenik üretim koşullarında gıda güvenliği standartlarına uygun ambalaj çözümleri sunuyoruz. Nem bariyeri teknolojisi kullanarak süt ürünlerinizin raf ömrünü uzatıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Milk / Yogurt / Ayran / Egg Boxes</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we produce special design packaging solutions for dairy products such as milk, yogurt, ayran, eggs. With our cold chain protection packaging, we preserve the freshness and quality of your dairy products.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We offer packaging solutions that comply with food safety standards under hygienic production conditions. We extend the shelf life of your dairy products using moisture barrier technology.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We produce solutions suitable for your brand's needs in different sizes and special design options.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">صناديق الحليب / الزبادي / العيران / البيض</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، ننتج حلول التعبئة والتغليف بتصميم خاص لمنتجات الألبان مثل الحليب والزبادي والعيران والبيض. مع عبواتنا المحمية بسلسلة باردة، نحافظ على نضارة وجودة منتجات الألبان الخاصة بك.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نقدم حلول التعبئة والتغليف المتوافقة مع معايير سلامة الغذاء في ظل ظروف إنتاج صحية. نمدد العمر الافتراضي لمنتجات الألبان الخاصة بك باستخدام تقنية حاجز الرطوبة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ننتج حلول مناسبة لاحتياجات علامتك التجارية بأحجام مختلفة وخيارات تصميم خاصة.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.475Z",
+  "date": "2025-10-02T03:54:07.021Z",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": ""
+}

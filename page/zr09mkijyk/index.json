@@ -1,0 +1,45 @@
+{
+  "name": {
+    "tr": "Kutu ve Ambalajlar",
+    "en": "Our Services",
+    "ar": "خدماتنا"
+  },
+  "status": "play",
+  "category": "",
+  "id": "zr09mkijyk",
+  "url": "",
+  "path": "hizmetlerimiz",
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "nzx31c"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Malbat Pack hizmetlerimiz: Kapsamlı ambalaj çözümleri, özel tasarım hizmetleri, kaliteli üretim ve müşteri memnuniyeti odaklı hizmetler.",
+    "en": "Malbat Pack services: Comprehensive packaging solutions, custom design services, quality production and customer satisfaction focused services.",
+    "ar": "خدمات Malbat Pack: حلول التعبئة والتغليف الشاملة، خدمات التصميم المخصص، الإنتاج عالي الجودة والخدمات المرتكزة على رضا العملاء."
+  },
+  "keyword": {
+    "tr": "hizmetlerimiz, ambalaj çözümleri, özel tasarım, kaliteli üretim, müşteri memnuniyeti, Malbat Pack hizmetler",
+    "en": "our services, packaging solutions, custom design, quality production, customer satisfaction, Malbat Pack services",
+    "ar": "خدماتنا، حلول التعبئة والتغليف، تصميم مخصص، إنتاج عالي الجودة، رضا العملاء، خدمات Malbat Pack"
+  },
+  "text": {
+    "tr": "",
+    "en": "<h2 style=\"font-size: 24px;\">Our Services</h2>\n    <p style=\"font-size: 16px;\">\n        As Malbat Pack, we offer comprehensive packaging solutions and custom design services. We provide service by prioritizing customer satisfaction with our quality production processes.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We produce packaging solutions specially designed for the needs of different sectors. We provide quality service with sustainable and environmentally friendly material use.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We work to provide you with the best service with our technical support and customer service team.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">خدماتنا</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Malbat Pack، نقدم حلول التعبئة والتغليف الشاملة وخدمات التصميم المخصص. نقدم الخدمة من خلال إعطاء الأولوية لرضا العملاء مع عمليات الإنتاج عالية الجودة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ننتج حلول التعبئة والتغليف المصممة خصيصاً لاحتياجات القطاعات المختلفة. نقدم خدمة عالية الجودة مع استخدام مواد مستدامة وصديقة للبيئة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نعمل على تقديم أفضل خدمة لك مع فريق الدعم التقني وخدمة العملاء.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-11T04:40:05.448Z",
+  "date": "2025-10-01T08:33:30.310Z"
+}

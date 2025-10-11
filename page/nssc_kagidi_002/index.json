@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "NSSC Kağıdı",
+    "en": "NSSC Paper",
+    "ar": "ورق NSSC"
+  },
+  "status": "play",
+  "category": "corrugating",
+  "id": "nssc_kagidi_002",
+  "url": "",
+  "path": "nssc-kagidi",
+  "index": 1,
+  "icon": "home",
+  "img": "",
+  "description": {
+    "tr": "NSSC kağıdı: Yarı kimyasal sülfat kağıdı, yüksek dayanıklılık, ambalaj uygulamaları için özel tasarım.",
+    "en": "NSSC paper: Semi-chemical sulfate paper, high durability, special design for packaging applications.",
+    "ar": "ورق NSSC: ورق كبريتات شبه كيميائي، متانة عالية، تصميم خاص لتطبيقات التعبئة والتغليف."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": "NSSC kağıdı, yarı kimyasal sülfat, yüksek dayanıklılık, ambalaj uygulamaları, özel tasarım, Malbat Pack",
+    "en": "NSSC paper, semi-chemical sulfate, high durability, packaging applications, special design, Malbat Pack",
+    "ar": "ورق NSSC، كبريتات شبه كيميائي، متانة عالية، تطبيقات التعبئة والتغليف، تصميم خاص، Malbat Pack"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">NSSC Kağıdı</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack NSSC kağıdı, yarı kimyasal sülfat teknolojisi ile üretilen yüksek dayanıklılığa sahip ambalaj uygulamaları için özel tasarım edilmiş bir kağıt türüdür. Yüksek dayanıklılık ve özel tasarım özellikleri ile ambalaj uygulamaları için ideal çözümler sunar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        NSSC kağıdımız, yarı kimyasal sülfat teknolojisi sayesinde mükemmel dayanıklılık sağlarken, yüksek kalitesi ile profesyonel sonuçlar verir. Bu özellikleri ile özellikle ambalaj, kutu ve yüksek dayanıklılık gerektiren uygulamalar için mükemmel sonuçlar verir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir üretim anlayışımızla, çevre dostu NSSC kağıdı çözümleri sunarak, müşterilerimizin ambalaj ihtiyaçlarına en uygun ürünleri temin ediyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">NSSC Paper</h2>\n    <p style=\"font-size: 16px;\">\n        Malbat Pack NSSC paper is a paper type with high durability specially designed for packaging applications, produced with semi-chemical sulfate technology. It offers ideal solutions for packaging applications with its high durability and special design features.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our NSSC paper provides excellent durability thanks to semi-chemical sulfate technology while delivering professional results with its high quality. With these features, it provides perfect results especially for packaging, box and applications requiring high durability.\n    </p>\n    <p style=\"font-size: 16px;\">\n        With our sustainable production approach, we provide environmentally friendly NSSC paper solutions and supply the most suitable products for our customers' packaging needs.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">ورق NSSC</h2>\n    <p style=\"font-size: 16px;\">\n        ورق NSSC من Malbat Pack هو نوع ورق ذو متانة عالية مصمم خصيصاً لتطبيقات التعبئة والتغليف، يتم إنتاجه بتقنية الكبريتات شبه الكيميائية. يقدم حلول مثالية لتطبيقات التعبئة والتغليف بمتانته العالية وميزات التصميم الخاص.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ورقنا NSSC يوفر متانة ممتازة بفضل تقنية الكبريتات شبه الكيميائية بينما يقدم نتائج مهنية بجودته العالية. بهذه الميزات، يوفر نتائج مثالية خاصة للتعبئة والتغليف والتطبيقات التي تتطلب متانة عالية.\n    </p>\n    <p style=\"font-size: 16px;\">\n        مع نهجنا في الإنتاج المستدام، نقدم حلول ورق NSSC صديقة للبيئة ونوفر المنتجات الأنسب لاحتياجات التعبئة والتغليف لعملائنا.\n    </p>"
+  },
+  "update": "2025-10-11T04:40:05.519Z",
+  "date": "2025-10-02T08:22:30.278Z"
+}
