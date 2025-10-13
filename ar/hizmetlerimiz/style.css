@@ -1,17 +1,17 @@
 
-  .ynap0menumobil {
+  .p6w7zmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .ynap0Children {
+  .p6w7zChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .ynap0 {
+  .p6w7z {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .ynap0title {
+  .p6w7ztitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .ynap0titlebody {
+  .p6w7ztitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ynap0titlebodytitle {
+  .p6w7ztitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ynap0titlebodylang {
+  .p6w7ztitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ynap0titlebodylang ul {
+  .p6w7ztitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ynap0body {
+  .p6w7zbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .ynap0menulist {
+  .p6w7zmenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .ynap0menubody {
+  .p6w7zmenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .ynap0menulist ul {
+  .p6w7zmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .ynap0menulist ul a {
+  .p6w7zmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .ynap0menulist ul a:hover {
+  .p6w7zmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ynap0menuitem {
+  .p6w7zmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .ynap0menuactive {
+  .p6w7zmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .ynap0bodylogo {
+  .p6w7zbodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .ynap0menumobil {
+    .p6w7zmenumobil {
       display: none !important;
     }
 
-    .ynap0menulist {
+    .p6w7zmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ynap0menumobil {
+    .p6w7zmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .ynap0menumobil div {
+    .p6w7zmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .ynap0menulist {
+    .p6w7zmenulist {
       display: none;
     }
 
-    .ynap0body {
+    .p6w7zbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .ynap0Children {
+    .p6w7zChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .ynap0menulist ul a {
+    .p6w7zmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .ynap0menu {
+    .p6w7zmenu {
       overflow-x: auto;
     }
 
-    .ynap0menulist ul {
+    .p6w7zmenulist ul {
       flex-direction: column;
     }
 
-    .ynap0bodylogo {
+    .p6w7zbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,24 +192,24 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ynap0menulist ul a {
+    .p6w7zmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .gnd2w {
+  .cpkad {
     width: 100%;
     margin: 15px 0;
   }
 
-  .gnd2wbody {
+  .cpkadbody {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 15px;
   }
 
-  .gnd2wbodyitem {
+  .cpkadbodyitem {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -220,7 +220,7 @@
     position: relative;
   }
 
-  .gnd2wbodyitemlink {
+  .cpkadbodyitemlink {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -229,7 +229,7 @@
     gap: 10px;
   }
 
-  .gnd2wbodyitemimg {
+  .cpkadbodyitemimg {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -240,18 +240,18 @@
     transition: all 0.3s ease;
   }
 
-  .gnd2wbodyitemimg:hover {
+  .cpkadbodyitemimg:hover {
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
     transform: translateY(-5px);
   }
 
-  .gnd2wbodyitemimg img {
+  .cpkadbodyitemimg img {
     max-height: 200px;
     max-width: calc(200px * 2);
     border-radius: 10px;
   }
 
-  .gnd2wbodyitemtitle {
+  .cpkadbodyitemtitle {
     padding: 5px;
     display: flex;
     height: calc(18px * 2);
@@ -262,7 +262,7 @@
     color: #fff;
   }
 
-  .gnd2wbodybg {
+  .cpkadbodybg {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -273,7 +273,7 @@
     opacity: 0.5;
   }
 
-  .gnd2wbodyitems {
+  .cpkadbodyitems {
     padding: 5px;
     display: flex;
     flex-direction: column;
@@ -284,25 +284,25 @@
     position: relative;
   }
 
-  .gnd2wbodyitems.left {
+  .cpkadbodyitems.left {
     align-self: flex-start;
     border-radius: 0px 10px 10px 0px;
     transform: translateY(60px);
     animation: slideInLeft 1s forwards;
   }
 
-  .gnd2wbodyitems.right {
+  .cpkadbodyitems.right {
     align-self: flex-end;
     border-radius: 10px 0px 0px 10px;
     transform: translateY(60px);
     animation: slideInRight 1s forwards;
   }
 
-  .gnd2wbodyitem.lefts {
+  .cpkadbodyitem.lefts {
     align-self: flex-end;
   }
 
-  .gnd2wbodyitem.rights {
+  .cpkadbodyitem.rights {
     align-self: flex-start;
   }
 
@@ -330,18 +330,18 @@
     }
   }
 
-  .gnd2wbodyitems {
+  .cpkadbodyitems {
     animation-delay: 0.3s;
   }
 
  
 
   @media screen and (max-width: 1024px) {
-    .gnd2wbodyitem {
+    .cpkadbodyitem {
       width: 100%;
     }
 
-    .gnd2wbody {
+    .cpkadbody {
       display: flex;
       flex-direction: column;
       gap: 15px;

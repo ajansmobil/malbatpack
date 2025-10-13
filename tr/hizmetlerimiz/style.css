@@ -1,17 +1,17 @@
 
-  .xydyrmenumobil {
+  .jesk8menumobil {
     display: none;
     cursor: pointer;
   }
 
-  .xydyrChildren {
+  .jesk8Children {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .xydyr {
+  .jesk8 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .xydyrtitle {
+  .jesk8title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .xydyrtitlebody {
+  .jesk8titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .xydyrtitlebodytitle {
+  .jesk8titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .xydyrtitlebodylang {
+  .jesk8titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .xydyrtitlebodylang ul {
+  .jesk8titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .xydyrbody {
+  .jesk8body {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .xydyrmenulist {
+  .jesk8menulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .xydyrmenubody {
+  .jesk8menubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .xydyrmenulist ul {
+  .jesk8menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .xydyrmenulist ul a {
+  .jesk8menulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .xydyrmenulist ul a:hover {
+  .jesk8menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .xydyrmenuitem {
+  .jesk8menuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .xydyrmenuactive {
+  .jesk8menuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .xydyrbodylogo {
+  .jesk8bodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .xydyrmenumobil {
+    .jesk8menumobil {
       display: none !important;
     }
 
-    .xydyrmenulist {
+    .jesk8menulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .xydyrmenumobil {
+    .jesk8menumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .xydyrmenumobil div {
+    .jesk8menumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .xydyrmenulist {
+    .jesk8menulist {
       display: none;
     }
 
-    .xydyrbody {
+    .jesk8body {
       flex-direction: column;
       gap: 20px;
     }
 
-    .xydyrChildren {
+    .jesk8Children {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .xydyrmenulist ul a {
+    .jesk8menulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .xydyrmenu {
+    .jesk8menu {
       overflow-x: auto;
     }
 
-    .xydyrmenulist ul {
+    .jesk8menulist ul {
       flex-direction: column;
     }
 
-    .xydyrbodylogo {
+    .jesk8bodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,24 +192,24 @@
   }
 
   @media screen and (max-width: 768px) {
-    .xydyrmenulist ul a {
+    .jesk8menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .cauvr {
+  .vi0a5 {
     width: 100%;
     margin: 15px 0;
   }
 
-  .cauvrbody {
+  .vi0a5body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 15px;
   }
 
-  .cauvrbodyitem {
+  .vi0a5bodyitem {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -220,7 +220,7 @@
     position: relative;
   }
 
-  .cauvrbodyitemlink {
+  .vi0a5bodyitemlink {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -229,7 +229,7 @@
     gap: 10px;
   }
 
-  .cauvrbodyitemimg {
+  .vi0a5bodyitemimg {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -240,18 +240,18 @@
     transition: all 0.3s ease;
   }
 
-  .cauvrbodyitemimg:hover {
+  .vi0a5bodyitemimg:hover {
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
     transform: translateY(-5px);
   }
 
-  .cauvrbodyitemimg img {
+  .vi0a5bodyitemimg img {
     max-height: 200px;
     max-width: calc(200px * 2);
     border-radius: 10px;
   }
 
-  .cauvrbodyitemtitle {
+  .vi0a5bodyitemtitle {
     padding: 5px;
     display: flex;
     height: calc(18px * 2);
@@ -262,7 +262,7 @@
     color: #fff;
   }
 
-  .cauvrbodybg {
+  .vi0a5bodybg {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -273,7 +273,7 @@
     opacity: 0.5;
   }
 
-  .cauvrbodyitems {
+  .vi0a5bodyitems {
     padding: 5px;
     display: flex;
     flex-direction: column;
@@ -284,25 +284,25 @@
     position: relative;
   }
 
-  .cauvrbodyitems.left {
+  .vi0a5bodyitems.left {
     align-self: flex-start;
     border-radius: 0px 10px 10px 0px;
     transform: translateY(60px);
     animation: slideInLeft 1s forwards;
   }
 
-  .cauvrbodyitems.right {
+  .vi0a5bodyitems.right {
     align-self: flex-end;
     border-radius: 10px 0px 0px 10px;
     transform: translateY(60px);
     animation: slideInRight 1s forwards;
   }
 
-  .cauvrbodyitem.lefts {
+  .vi0a5bodyitem.lefts {
     align-self: flex-end;
   }
 
-  .cauvrbodyitem.rights {
+  .vi0a5bodyitem.rights {
     align-self: flex-start;
   }
 
@@ -330,18 +330,18 @@
     }
   }
 
-  .cauvrbodyitems {
+  .vi0a5bodyitems {
     animation-delay: 0.3s;
   }
 
  
 
   @media screen and (max-width: 1024px) {
-    .cauvrbodyitem {
+    .vi0a5bodyitem {
       width: 100%;
     }
 
-    .cauvrbody {
+    .vi0a5body {
       display: flex;
       flex-direction: column;
       gap: 15px;

@@ -1,17 +1,17 @@
 
-  .erzexmenumobil {
+  .gi2djmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .erzexChildren {
+  .gi2djChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .erzex {
+  .gi2dj {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .erzextitle {
+  .gi2djtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .erzextitlebody {
+  .gi2djtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .erzextitlebodytitle {
+  .gi2djtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .erzextitlebodylang {
+  .gi2djtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .erzextitlebodylang ul {
+  .gi2djtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .erzexbody {
+  .gi2djbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .erzexmenulist {
+  .gi2djmenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .erzexmenubody {
+  .gi2djmenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .erzexmenulist ul {
+  .gi2djmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .erzexmenulist ul a {
+  .gi2djmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .erzexmenulist ul a:hover {
+  .gi2djmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .erzexmenuitem {
+  .gi2djmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .erzexmenuactive {
+  .gi2djmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .erzexbodylogo {
+  .gi2djbodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .erzexmenumobil {
+    .gi2djmenumobil {
       display: none !important;
     }
 
-    .erzexmenulist {
+    .gi2djmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .erzexmenumobil {
+    .gi2djmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .erzexmenumobil div {
+    .gi2djmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .erzexmenulist {
+    .gi2djmenulist {
       display: none;
     }
 
-    .erzexbody {
+    .gi2djbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .erzexChildren {
+    .gi2djChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .erzexmenulist ul a {
+    .gi2djmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .erzexmenu {
+    .gi2djmenu {
       overflow-x: auto;
     }
 
-    .erzexmenulist ul {
+    .gi2djmenulist ul {
       flex-direction: column;
     }
 
-    .erzexbodylogo {
+    .gi2djbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,7 +192,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .erzexmenulist ul a {
+    .gi2djmenulist ul a {
       font-size: 14px;
     }
   }
