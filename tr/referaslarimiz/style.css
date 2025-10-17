@@ -1,17 +1,17 @@
 
-  .jjmlimenumobil {
+  .mv4zwmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .jjmliChildren {
+  .mv4zwChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .jjmli {
+  .mv4zw {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .jjmlititle {
+  .mv4zwtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .jjmlititlebody {
+  .mv4zwtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .jjmlititlebodytitle {
+  .mv4zwtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .jjmlititlebodylang {
+  .mv4zwtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .jjmlititlebodylang ul {
+  .mv4zwtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .jjmlititlebodylang ul li {
+  .mv4zwtitlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .jjmlititlebodylang ul a {
+  .mv4zwtitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .jjmlititlebodylang ul a:hover {
+  .mv4zwtitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .jjmlititlebodylang ul a:active {
+  .mv4zwtitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .jjmlititlebodylang ul a:focus {
+  .mv4zwtitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .jjmlititlebodylang ul a:visited {
+  .mv4zwtitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .jjmlititlebodylang ul a:link {
+  .mv4zwtitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .jjmlibody {
+  .mv4zwbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .jjmlimenulist {
+  .mv4zwmenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .jjmlimenubody {
+  .mv4zwmenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .jjmlimenulist ul {
+  .mv4zwmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .jjmlimenulist ul a {
+  .mv4zwmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .jjmlimenulist ul a:hover {
+  .mv4zwmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .jjmlimenuitem {
+  .mv4zwmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .jjmlimenuactive {
+  .mv4zwmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .jjmlibodylogo {
+  .mv4zwbodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .jjmlimenumobil {
+    .mv4zwmenumobil {
       display: none !important;
     }
 
-    .jjmlimenulist {
+    .mv4zwmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .jjmlimenumobil {
+    .mv4zwmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .jjmlimenumobil div {
+    .mv4zwmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .jjmlimenulist {
+    .mv4zwmenulist {
       display: none;
     }
 
-    .jjmlibody {
+    .mv4zwbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .jjmliChildren {
+    .mv4zwChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .jjmlimenulist ul a {
+    .mv4zwmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .jjmlimenu {
+    .mv4zwmenu {
       overflow-x: auto;
     }
 
-    .jjmlimenulist ul {
+    .mv4zwmenulist ul {
       flex-direction: column;
     }
 
-    .jjmlibodylogo {
+    .mv4zwbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,25 +241,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .jjmlimenulist ul a {
+    .mv4zwmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .dt7up {
+  .jwfcc {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .dt7upbody {
+  .jwfccbody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .dt7upbodyitem {
+  .jwfccbodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -276,22 +275,22 @@
     align-items: center;
     justify-content: center;
   }
-  .dt7upbodyitem:hover {
+  .jwfccbodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .dt7upbodyitemimg {
+  .jwfccbodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .dt7upbodyitemimg img {
+  .jwfccbodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .dt7upbodyitemtitle {
+  .jwfccbodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -300,14 +299,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .dt7upbody {
+    .jwfccbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .dt7upbody {
+    .jwfccbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

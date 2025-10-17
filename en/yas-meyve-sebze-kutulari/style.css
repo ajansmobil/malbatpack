@@ -1,17 +1,17 @@
 
-  .vvxgymenumobil {
+  .qrf2zmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .vvxgyChildren {
+  .qrf2zChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .vvxgy {
+  .qrf2z {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .vvxgytitle {
+  .qrf2ztitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .vvxgytitlebody {
+  .qrf2ztitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .vvxgytitlebodytitle {
+  .qrf2ztitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .vvxgytitlebodylang {
+  .qrf2ztitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .vvxgytitlebodylang ul {
+  .qrf2ztitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .vvxgytitlebodylang ul li {
+  .qrf2ztitlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .vvxgytitlebodylang ul a {
+  .qrf2ztitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .vvxgytitlebodylang ul a:hover {
+  .qrf2ztitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .vvxgytitlebodylang ul a:active {
+  .qrf2ztitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .vvxgytitlebodylang ul a:focus {
+  .qrf2ztitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .vvxgytitlebodylang ul a:visited {
+  .qrf2ztitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .vvxgytitlebodylang ul a:link {
+  .qrf2ztitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .vvxgybody {
+  .qrf2zbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .vvxgymenulist {
+  .qrf2zmenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .vvxgymenubody {
+  .qrf2zmenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .vvxgymenulist ul {
+  .qrf2zmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .vvxgymenulist ul a {
+  .qrf2zmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .vvxgymenulist ul a:hover {
+  .qrf2zmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .vvxgymenuitem {
+  .qrf2zmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .vvxgymenuactive {
+  .qrf2zmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .vvxgybodylogo {
+  .qrf2zbodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .vvxgymenumobil {
+    .qrf2zmenumobil {
       display: none !important;
     }
 
-    .vvxgymenulist {
+    .qrf2zmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .vvxgymenumobil {
+    .qrf2zmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .vvxgymenumobil div {
+    .qrf2zmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .vvxgymenulist {
+    .qrf2zmenulist {
       display: none;
     }
 
-    .vvxgybody {
+    .qrf2zbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .vvxgyChildren {
+    .qrf2zChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .vvxgymenulist ul a {
+    .qrf2zmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .vvxgymenu {
+    .qrf2zmenu {
       overflow-x: auto;
     }
 
-    .vvxgymenulist ul {
+    .qrf2zmenulist ul {
       flex-direction: column;
     }
 
-    .vvxgybodylogo {
+    .qrf2zbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,7 +241,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .vvxgymenulist ul a {
+    .qrf2zmenulist ul a {
       font-size: 14px;
     }
   }
@@ -252,7 +251,7 @@
     justify-content: start;
   }
 
-  .q6dzy {
+  .cyim6 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -260,7 +259,7 @@
     position: relative;
   }
 
-  .q6dzy-menu-btn {
+  .cyim6-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -272,11 +271,11 @@
     align-items: center;
   }
 
-  .q6dzy-menu-btn i {
+  .cyim6-menu-btn i {
     font-size: 20px;
   }
 
-  .q6dzy-menu {
+  .cyim6-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -287,28 +286,28 @@
     float: left;
   }
 
-  .q6dzy-desc {
+  .cyim6-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .q6dzy-menu > a {
+  .cyim6-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .q6dzy-menu > .active,
-  .q6dzy-menu > a:hover {
+  .cyim6-menu > .active,
+  .cyim6-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .q6dzy-desc-menu {
+  .cyim6-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -316,19 +315,19 @@
     border-radius: 5px;
   }
 
-  .q6dzy-desc-menu > div {
+  .cyim6-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .q6dzy-desc-body {
+  .cyim6-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .q6dzy-title {
+  .cyim6-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -341,7 +340,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .q6dzy-title::before {
+  .cyim6-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -356,44 +355,44 @@
     z-index: 1;
   }
 
-  .q6dzy-title span {
+  .cyim6-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .q6dzy-body {
+  .cyim6-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .q6dzy-img {
+  .cyim6-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .q6dzy-img img {
+  .cyim6-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .q6dzy-desc {
+    .cyim6-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .q6dzy-menu-btn {
+    .cyim6-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .q6dzy {
+    .cyim6 {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -402,17 +401,17 @@
       margin-top: 0px;
     }
 
-    .q6dzy-img {
+    .cyim6-img {
       width: 100%;
     }
 
-    .q6dzy-body {
+    .cyim6-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .q6dzy-menu {
+    .cyim6-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -420,11 +419,11 @@
       display: none;
     }
 
-    .q6dzy-menu.active {
+    .cyim6-menu.active {
       display: flex;
     }
 
-    .q6dzy-desc {
+    .cyim6-desc {
       width: 100% !important;
       order: 2;
     }

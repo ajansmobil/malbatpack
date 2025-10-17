@@ -1,17 +1,17 @@
 
-  .hugytmenumobil {
+  .x0u1omenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .hugytChildren {
+  .x0u1oChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .hugyt {
+  .x0u1o {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .hugyttitle {
+  .x0u1otitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .hugyttitlebody {
+  .x0u1otitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .hugyttitlebodytitle {
+  .x0u1otitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .hugyttitlebodylang {
+  .x0u1otitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .hugyttitlebodylang ul {
+  .x0u1otitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .hugyttitlebodylang ul li {
+  .x0u1otitlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .hugyttitlebodylang ul a {
+  .x0u1otitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .hugyttitlebodylang ul a:hover {
+  .x0u1otitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .hugyttitlebodylang ul a:active {
+  .x0u1otitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .hugyttitlebodylang ul a:focus {
+  .x0u1otitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .hugyttitlebodylang ul a:visited {
+  .x0u1otitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .hugyttitlebodylang ul a:link {
+  .x0u1otitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .hugytbody {
+  .x0u1obody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .hugytmenulist {
+  .x0u1omenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .hugytmenubody {
+  .x0u1omenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .hugytmenulist ul {
+  .x0u1omenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .hugytmenulist ul a {
+  .x0u1omenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .hugytmenulist ul a:hover {
+  .x0u1omenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .hugytmenuitem {
+  .x0u1omenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .hugytmenuactive {
+  .x0u1omenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .hugytbodylogo {
+  .x0u1obodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .hugytmenumobil {
+    .x0u1omenumobil {
       display: none !important;
     }
 
-    .hugytmenulist {
+    .x0u1omenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .hugytmenumobil {
+    .x0u1omenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .hugytmenumobil div {
+    .x0u1omenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .hugytmenulist {
+    .x0u1omenulist {
       display: none;
     }
 
-    .hugytbody {
+    .x0u1obody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .hugytChildren {
+    .x0u1oChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .hugytmenulist ul a {
+    .x0u1omenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .hugytmenu {
+    .x0u1omenu {
       overflow-x: auto;
     }
 
-    .hugytmenulist ul {
+    .x0u1omenulist ul {
       flex-direction: column;
     }
 
-    .hugytbodylogo {
+    .x0u1obodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,13 +241,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .hugytmenulist ul a {
+    .x0u1omenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .l25e8 {
+  .cejy9 {
     width: 100%;
     margin: 30px 0px 30px 0px;
     display: flex;
@@ -257,14 +256,14 @@
     position: relative;
   }
 
-  .l25e8containertitle {
+  .cejy9containertitle {
     font-size: 28px;
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
   }
 
-  .l25e8containerlist {
+  .cejy9containerlist {
     padding: 10px;
     display: flex;
     border-radius: 8px;
@@ -273,26 +272,26 @@
     transition: background-color 0.3s ease;
   }
 
-  .l25e8containerlist>div {
+  .cejy9containerlist>div {
     display: flex;
     align-items: center;
     font-size: 20px;
     color: #444;
   }
 
-  .l25e8containerlist:hover {
+  .cejy9containerlist:hover {
     background-color: #f9f9f9;
     border-bottom-color: #1e3046;
   }
 
-  .l25e8container {
+  .cejy9container {
     display: flex;
     flex-direction: column;
     gap: 15px;
     padding: 20px;
   }
 
-  .l25e8containerbody {
+  .cejy9containerbody {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -302,7 +301,7 @@
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
 
-  .l25e8body {
+  .cejy9body {
     width: calc(var(--max) - 40px);
     background-color: #ebebeb;
     border: 1px solid #dedede;
@@ -310,19 +309,19 @@
     padding: 20px;
   }
 
-  .l25e8containerlist>span {
+  .cejy9containerlist>span {
     font-size: 24px;
     color: #1e3046;
   }
 
   @media screen and (max-width: 1024px) {
-    .l25e8body {
+    .cejy9body {
       width: 100%;
       padding: 20px;
       flex-direction: column;
     }
 
-    .l25e8containerbody {
+    .cejy9containerbody {
       padding: 15px;
     }
   }
@@ -352,13 +351,13 @@
       transform: scale(1);
     }
   }
-  .lqa1i-body {
+  .ogu14-body {
     display: flex;
     align-items: center;
     justify-content: center;
     width: var(--max);
   }
-  .lqa1i-body-chile {
+  .ogu14-body-chile {
     padding: 20px;
     display: flex;
     align-items: top;
@@ -366,10 +365,10 @@
     flex-direction: column;
     position: absolute;
   }
-  .lqa1i-body-chile > div {
+  .ogu14-body-chile > div {
     width: 100% !important;
   }
-  .lqa1i2 {
+  .ogu142 {
     margin-top: 10px;
     margin-bottom: 10px;
     position: relative;
@@ -380,21 +379,21 @@
     overflow: hidden;
     cursor: pointer;
   }
-  .lqa1i {
+  .ogu14 {
     display: flex;
     flex-direction: column;
   }
-  .lqa1i > svg {
+  .ogu14 > svg {
     width: 100vw;
   }
-  .lqa1ibotton {
+  .ogu14botton {
     transform: scaleY(-1);
     margin-bottom: -1px;
   }
-  .lqa1i-svg {
+  .ogu14-svg {
     fill: #fff;
   }
-  .lqa1i-bg {
+  .ogu14-bg {
     background-image: url("/img/fd388u/map.webp?v={{random}}") !important;
     background-size: cover;
     background-position: center center;

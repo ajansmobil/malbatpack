@@ -1,17 +1,17 @@
 
-  .oufg2menumobil {
+  .i2t8tmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .oufg2Children {
+  .i2t8tChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .oufg2 {
+  .i2t8t {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .oufg2title {
+  .i2t8ttitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .oufg2titlebody {
+  .i2t8ttitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .oufg2titlebodytitle {
+  .i2t8ttitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .oufg2titlebodylang {
+  .i2t8ttitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .oufg2titlebodylang ul {
+  .i2t8ttitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .oufg2titlebodylang ul li {
+  .i2t8ttitlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .oufg2titlebodylang ul a {
+  .i2t8ttitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .oufg2titlebodylang ul a:hover {
+  .i2t8ttitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .oufg2titlebodylang ul a:active {
+  .i2t8ttitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .oufg2titlebodylang ul a:focus {
+  .i2t8ttitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .oufg2titlebodylang ul a:visited {
+  .i2t8ttitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .oufg2titlebodylang ul a:link {
+  .i2t8ttitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .oufg2body {
+  .i2t8tbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .oufg2menulist {
+  .i2t8tmenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .oufg2menubody {
+  .i2t8tmenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .oufg2menulist ul {
+  .i2t8tmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .oufg2menulist ul a {
+  .i2t8tmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .oufg2menulist ul a:hover {
+  .i2t8tmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .oufg2menuitem {
+  .i2t8tmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .oufg2menuactive {
+  .i2t8tmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .oufg2bodylogo {
+  .i2t8tbodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .oufg2menumobil {
+    .i2t8tmenumobil {
       display: none !important;
     }
 
-    .oufg2menulist {
+    .i2t8tmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .oufg2menumobil {
+    .i2t8tmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .oufg2menumobil div {
+    .i2t8tmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .oufg2menulist {
+    .i2t8tmenulist {
       display: none;
     }
 
-    .oufg2body {
+    .i2t8tbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .oufg2Children {
+    .i2t8tChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .oufg2menulist ul a {
+    .i2t8tmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .oufg2menu {
+    .i2t8tmenu {
       overflow-x: auto;
     }
 
-    .oufg2menulist ul {
+    .i2t8tmenulist ul {
       flex-direction: column;
     }
 
-    .oufg2bodylogo {
+    .i2t8tbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,7 +241,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .oufg2menulist ul a {
+    .i2t8tmenulist ul a {
       font-size: 14px;
     }
   }
@@ -252,7 +251,7 @@
     justify-content: start;
   }
 
-  .znza4 {
+  .l5qsh {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -260,7 +259,7 @@
     position: relative;
   }
 
-  .znza4-menu-btn {
+  .l5qsh-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -272,11 +271,11 @@
     align-items: center;
   }
 
-  .znza4-menu-btn i {
+  .l5qsh-menu-btn i {
     font-size: 20px;
   }
 
-  .znza4-menu {
+  .l5qsh-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -287,28 +286,28 @@
     float: left;
   }
 
-  .znza4-desc {
+  .l5qsh-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .znza4-menu > a {
+  .l5qsh-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .znza4-menu > .active,
-  .znza4-menu > a:hover {
+  .l5qsh-menu > .active,
+  .l5qsh-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .znza4-desc-menu {
+  .l5qsh-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -316,19 +315,19 @@
     border-radius: 5px;
   }
 
-  .znza4-desc-menu > div {
+  .l5qsh-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .znza4-desc-body {
+  .l5qsh-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .znza4-title {
+  .l5qsh-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -341,7 +340,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .znza4-title::before {
+  .l5qsh-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -356,44 +355,44 @@
     z-index: 1;
   }
 
-  .znza4-title span {
+  .l5qsh-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .znza4-body {
+  .l5qsh-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .znza4-img {
+  .l5qsh-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .znza4-img img {
+  .l5qsh-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .znza4-desc {
+    .l5qsh-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .znza4-menu-btn {
+    .l5qsh-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .znza4 {
+    .l5qsh {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -402,17 +401,17 @@
       margin-top: 0px;
     }
 
-    .znza4-img {
+    .l5qsh-img {
       width: 100%;
     }
 
-    .znza4-body {
+    .l5qsh-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .znza4-menu {
+    .l5qsh-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -420,11 +419,11 @@
       display: none;
     }
 
-    .znza4-menu.active {
+    .l5qsh-menu.active {
       display: flex;
     }
 
-    .znza4-desc {
+    .l5qsh-desc {
       width: 100% !important;
       order: 2;
     }

@@ -1,17 +1,17 @@
 
-  .jo7spmenumobil {
+  .m09cjmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .jo7spChildren {
+  .m09cjChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .jo7sp {
+  .m09cj {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .jo7sptitle {
+  .m09cjtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .jo7sptitlebody {
+  .m09cjtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .jo7sptitlebodytitle {
+  .m09cjtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .jo7sptitlebodylang {
+  .m09cjtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .jo7sptitlebodylang ul {
+  .m09cjtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .jo7sptitlebodylang ul li {
+  .m09cjtitlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .jo7sptitlebodylang ul a {
+  .m09cjtitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .jo7sptitlebodylang ul a:hover {
+  .m09cjtitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .jo7sptitlebodylang ul a:active {
+  .m09cjtitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .jo7sptitlebodylang ul a:focus {
+  .m09cjtitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .jo7sptitlebodylang ul a:visited {
+  .m09cjtitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .jo7sptitlebodylang ul a:link {
+  .m09cjtitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .jo7spbody {
+  .m09cjbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .jo7spmenulist {
+  .m09cjmenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .jo7spmenubody {
+  .m09cjmenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .jo7spmenulist ul {
+  .m09cjmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .jo7spmenulist ul a {
+  .m09cjmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .jo7spmenulist ul a:hover {
+  .m09cjmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .jo7spmenuitem {
+  .m09cjmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .jo7spmenuactive {
+  .m09cjmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .jo7spbodylogo {
+  .m09cjbodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .jo7spmenumobil {
+    .m09cjmenumobil {
       display: none !important;
     }
 
-    .jo7spmenulist {
+    .m09cjmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .jo7spmenumobil {
+    .m09cjmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .jo7spmenumobil div {
+    .m09cjmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .jo7spmenulist {
+    .m09cjmenulist {
       display: none;
     }
 
-    .jo7spbody {
+    .m09cjbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .jo7spChildren {
+    .m09cjChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .jo7spmenulist ul a {
+    .m09cjmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .jo7spmenu {
+    .m09cjmenu {
       overflow-x: auto;
     }
 
-    .jo7spmenulist ul {
+    .m09cjmenulist ul {
       flex-direction: column;
     }
 
-    .jo7spbodylogo {
+    .m09cjbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,7 +241,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .jo7spmenulist ul a {
+    .m09cjmenulist ul a {
       font-size: 14px;
     }
   }
@@ -252,7 +251,7 @@
     justify-content: start;
   }
 
-  .a2kyu {
+  .nk439 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -260,7 +259,7 @@
     position: relative;
   }
 
-  .a2kyu-menu-btn {
+  .nk439-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -272,11 +271,11 @@
     align-items: center;
   }
 
-  .a2kyu-menu-btn i {
+  .nk439-menu-btn i {
     font-size: 20px;
   }
 
-  .a2kyu-menu {
+  .nk439-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -287,28 +286,28 @@
     float: left;
   }
 
-  .a2kyu-desc {
+  .nk439-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .a2kyu-menu > a {
+  .nk439-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .a2kyu-menu > .active,
-  .a2kyu-menu > a:hover {
+  .nk439-menu > .active,
+  .nk439-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .a2kyu-desc-menu {
+  .nk439-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -316,19 +315,19 @@
     border-radius: 5px;
   }
 
-  .a2kyu-desc-menu > div {
+  .nk439-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .a2kyu-desc-body {
+  .nk439-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .a2kyu-title {
+  .nk439-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -341,7 +340,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .a2kyu-title::before {
+  .nk439-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -356,44 +355,44 @@
     z-index: 1;
   }
 
-  .a2kyu-title span {
+  .nk439-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .a2kyu-body {
+  .nk439-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .a2kyu-img {
+  .nk439-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .a2kyu-img img {
+  .nk439-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .a2kyu-desc {
+    .nk439-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .a2kyu-menu-btn {
+    .nk439-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .a2kyu {
+    .nk439 {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -402,17 +401,17 @@
       margin-top: 0px;
     }
 
-    .a2kyu-img {
+    .nk439-img {
       width: 100%;
     }
 
-    .a2kyu-body {
+    .nk439-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .a2kyu-menu {
+    .nk439-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -420,11 +419,11 @@
       display: none;
     }
 
-    .a2kyu-menu.active {
+    .nk439-menu.active {
       display: flex;
     }
 
-    .a2kyu-desc {
+    .nk439-desc {
       width: 100% !important;
       order: 2;
     }

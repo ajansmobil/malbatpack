@@ -1,17 +1,17 @@
 
-  .khiwpmenumobil {
+  .p1cdomenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .khiwpChildren {
+  .p1cdoChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .khiwp {
+  .p1cdo {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .khiwptitle {
+  .p1cdotitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .khiwptitlebody {
+  .p1cdotitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .khiwptitlebodytitle {
+  .p1cdotitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .khiwptitlebodylang {
+  .p1cdotitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .khiwptitlebodylang ul {
+  .p1cdotitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .khiwptitlebodylang ul li {
+  .p1cdotitlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .khiwptitlebodylang ul a {
+  .p1cdotitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .khiwptitlebodylang ul a:hover {
+  .p1cdotitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .khiwptitlebodylang ul a:active {
+  .p1cdotitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .khiwptitlebodylang ul a:focus {
+  .p1cdotitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .khiwptitlebodylang ul a:visited {
+  .p1cdotitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .khiwptitlebodylang ul a:link {
+  .p1cdotitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .khiwpbody {
+  .p1cdobody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .khiwpmenulist {
+  .p1cdomenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .khiwpmenubody {
+  .p1cdomenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .khiwpmenulist ul {
+  .p1cdomenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .khiwpmenulist ul a {
+  .p1cdomenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .khiwpmenulist ul a:hover {
+  .p1cdomenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .khiwpmenuitem {
+  .p1cdomenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .khiwpmenuactive {
+  .p1cdomenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .khiwpbodylogo {
+  .p1cdobodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .khiwpmenumobil {
+    .p1cdomenumobil {
       display: none !important;
     }
 
-    .khiwpmenulist {
+    .p1cdomenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .khiwpmenumobil {
+    .p1cdomenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .khiwpmenumobil div {
+    .p1cdomenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .khiwpmenulist {
+    .p1cdomenulist {
       display: none;
     }
 
-    .khiwpbody {
+    .p1cdobody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .khiwpChildren {
+    .p1cdoChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .khiwpmenulist ul a {
+    .p1cdomenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .khiwpmenu {
+    .p1cdomenu {
       overflow-x: auto;
     }
 
-    .khiwpmenulist ul {
+    .p1cdomenulist ul {
       flex-direction: column;
     }
 
-    .khiwpbodylogo {
+    .p1cdobodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,7 +241,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .khiwpmenulist ul a {
+    .p1cdomenulist ul a {
       font-size: 14px;
     }
   }
@@ -252,7 +251,7 @@
     justify-content: start;
   }
 
-  .uo840 {
+  .hejf9 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -260,7 +259,7 @@
     position: relative;
   }
 
-  .uo840-menu-btn {
+  .hejf9-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -272,11 +271,11 @@
     align-items: center;
   }
 
-  .uo840-menu-btn i {
+  .hejf9-menu-btn i {
     font-size: 20px;
   }
 
-  .uo840-menu {
+  .hejf9-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -287,28 +286,28 @@
     float: left;
   }
 
-  .uo840-desc {
+  .hejf9-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .uo840-menu > a {
+  .hejf9-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .uo840-menu > .active,
-  .uo840-menu > a:hover {
+  .hejf9-menu > .active,
+  .hejf9-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .uo840-desc-menu {
+  .hejf9-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -316,19 +315,19 @@
     border-radius: 5px;
   }
 
-  .uo840-desc-menu > div {
+  .hejf9-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .uo840-desc-body {
+  .hejf9-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .uo840-title {
+  .hejf9-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -341,7 +340,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .uo840-title::before {
+  .hejf9-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -356,44 +355,44 @@
     z-index: 1;
   }
 
-  .uo840-title span {
+  .hejf9-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .uo840-body {
+  .hejf9-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .uo840-img {
+  .hejf9-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .uo840-img img {
+  .hejf9-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .uo840-desc {
+    .hejf9-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .uo840-menu-btn {
+    .hejf9-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .uo840 {
+    .hejf9 {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -402,17 +401,17 @@
       margin-top: 0px;
     }
 
-    .uo840-img {
+    .hejf9-img {
       width: 100%;
     }
 
-    .uo840-body {
+    .hejf9-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .uo840-menu {
+    .hejf9-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -420,11 +419,11 @@
       display: none;
     }
 
-    .uo840-menu.active {
+    .hejf9-menu.active {
       display: flex;
     }
 
-    .uo840-desc {
+    .hejf9-desc {
       width: 100% !important;
       order: 2;
     }

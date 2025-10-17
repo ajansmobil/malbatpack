@@ -1,17 +1,17 @@
 
-  .hlpi9menumobil {
+  .sfumwmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .hlpi9Children {
+  .sfumwChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .hlpi9 {
+  .sfumw {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .hlpi9title {
+  .sfumwtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .hlpi9titlebody {
+  .sfumwtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .hlpi9titlebodytitle {
+  .sfumwtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .hlpi9titlebodylang {
+  .sfumwtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .hlpi9titlebodylang ul {
+  .sfumwtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .hlpi9titlebodylang ul li {
+  .sfumwtitlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .hlpi9titlebodylang ul a {
+  .sfumwtitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .hlpi9titlebodylang ul a:hover {
+  .sfumwtitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .hlpi9titlebodylang ul a:active {
+  .sfumwtitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .hlpi9titlebodylang ul a:focus {
+  .sfumwtitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .hlpi9titlebodylang ul a:visited {
+  .sfumwtitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .hlpi9titlebodylang ul a:link {
+  .sfumwtitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .hlpi9body {
+  .sfumwbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .hlpi9menulist {
+  .sfumwmenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .hlpi9menubody {
+  .sfumwmenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .hlpi9menulist ul {
+  .sfumwmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .hlpi9menulist ul a {
+  .sfumwmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .hlpi9menulist ul a:hover {
+  .sfumwmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .hlpi9menuitem {
+  .sfumwmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .hlpi9menuactive {
+  .sfumwmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .hlpi9bodylogo {
+  .sfumwbodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .hlpi9menumobil {
+    .sfumwmenumobil {
       display: none !important;
     }
 
-    .hlpi9menulist {
+    .sfumwmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .hlpi9menumobil {
+    .sfumwmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .hlpi9menumobil div {
+    .sfumwmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .hlpi9menulist {
+    .sfumwmenulist {
       display: none;
     }
 
-    .hlpi9body {
+    .sfumwbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .hlpi9Children {
+    .sfumwChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .hlpi9menulist ul a {
+    .sfumwmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .hlpi9menu {
+    .sfumwmenu {
       overflow-x: auto;
     }
 
-    .hlpi9menulist ul {
+    .sfumwmenulist ul {
       flex-direction: column;
     }
 
-    .hlpi9bodylogo {
+    .sfumwbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,7 +241,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .hlpi9menulist ul a {
+    .sfumwmenulist ul a {
       font-size: 14px;
     }
   }
@@ -252,7 +251,7 @@
     justify-content: start;
   }
 
-  .cwl43 {
+  .ez5zd {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -260,7 +259,7 @@
     position: relative;
   }
 
-  .cwl43-menu-btn {
+  .ez5zd-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -272,11 +271,11 @@
     align-items: center;
   }
 
-  .cwl43-menu-btn i {
+  .ez5zd-menu-btn i {
     font-size: 20px;
   }
 
-  .cwl43-menu {
+  .ez5zd-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -287,28 +286,28 @@
     float: left;
   }
 
-  .cwl43-desc {
+  .ez5zd-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .cwl43-menu > a {
+  .ez5zd-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .cwl43-menu > .active,
-  .cwl43-menu > a:hover {
+  .ez5zd-menu > .active,
+  .ez5zd-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .cwl43-desc-menu {
+  .ez5zd-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -316,19 +315,19 @@
     border-radius: 5px;
   }
 
-  .cwl43-desc-menu > div {
+  .ez5zd-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .cwl43-desc-body {
+  .ez5zd-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .cwl43-title {
+  .ez5zd-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -341,7 +340,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .cwl43-title::before {
+  .ez5zd-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -356,44 +355,44 @@
     z-index: 1;
   }
 
-  .cwl43-title span {
+  .ez5zd-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .cwl43-body {
+  .ez5zd-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .cwl43-img {
+  .ez5zd-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .cwl43-img img {
+  .ez5zd-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .cwl43-desc {
+    .ez5zd-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .cwl43-menu-btn {
+    .ez5zd-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .cwl43 {
+    .ez5zd {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -402,17 +401,17 @@
       margin-top: 0px;
     }
 
-    .cwl43-img {
+    .ez5zd-img {
       width: 100%;
     }
 
-    .cwl43-body {
+    .ez5zd-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .cwl43-menu {
+    .ez5zd-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -420,11 +419,11 @@
       display: none;
     }
 
-    .cwl43-menu.active {
+    .ez5zd-menu.active {
       display: flex;
     }
 
-    .cwl43-desc {
+    .ez5zd-desc {
       width: 100% !important;
       order: 2;
     }

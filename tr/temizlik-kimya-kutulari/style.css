@@ -1,17 +1,17 @@
 
-  .iie7rmenumobil {
+  .sjlygmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .iie7rChildren {
+  .sjlygChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .iie7r {
+  .sjlyg {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .iie7rtitle {
+  .sjlygtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .iie7rtitlebody {
+  .sjlygtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .iie7rtitlebodytitle {
+  .sjlygtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .iie7rtitlebodylang {
+  .sjlygtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .iie7rtitlebodylang ul {
+  .sjlygtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .iie7rtitlebodylang ul li {
+  .sjlygtitlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .iie7rtitlebodylang ul a {
+  .sjlygtitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .iie7rtitlebodylang ul a:hover {
+  .sjlygtitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .iie7rtitlebodylang ul a:active {
+  .sjlygtitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .iie7rtitlebodylang ul a:focus {
+  .sjlygtitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .iie7rtitlebodylang ul a:visited {
+  .sjlygtitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .iie7rtitlebodylang ul a:link {
+  .sjlygtitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .iie7rbody {
+  .sjlygbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .iie7rmenulist {
+  .sjlygmenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .iie7rmenubody {
+  .sjlygmenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .iie7rmenulist ul {
+  .sjlygmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .iie7rmenulist ul a {
+  .sjlygmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .iie7rmenulist ul a:hover {
+  .sjlygmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .iie7rmenuitem {
+  .sjlygmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .iie7rmenuactive {
+  .sjlygmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .iie7rbodylogo {
+  .sjlygbodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .iie7rmenumobil {
+    .sjlygmenumobil {
       display: none !important;
     }
 
-    .iie7rmenulist {
+    .sjlygmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .iie7rmenumobil {
+    .sjlygmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .iie7rmenumobil div {
+    .sjlygmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .iie7rmenulist {
+    .sjlygmenulist {
       display: none;
     }
 
-    .iie7rbody {
+    .sjlygbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .iie7rChildren {
+    .sjlygChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .iie7rmenulist ul a {
+    .sjlygmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .iie7rmenu {
+    .sjlygmenu {
       overflow-x: auto;
     }
 
-    .iie7rmenulist ul {
+    .sjlygmenulist ul {
       flex-direction: column;
     }
 
-    .iie7rbodylogo {
+    .sjlygbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,7 +241,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .iie7rmenulist ul a {
+    .sjlygmenulist ul a {
       font-size: 14px;
     }
   }
@@ -252,7 +251,7 @@
     justify-content: start;
   }
 
-  .ebam9 {
+  .rgidm {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -260,7 +259,7 @@
     position: relative;
   }
 
-  .ebam9-menu-btn {
+  .rgidm-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -272,11 +271,11 @@
     align-items: center;
   }
 
-  .ebam9-menu-btn i {
+  .rgidm-menu-btn i {
     font-size: 20px;
   }
 
-  .ebam9-menu {
+  .rgidm-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -287,28 +286,28 @@
     float: left;
   }
 
-  .ebam9-desc {
+  .rgidm-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .ebam9-menu > a {
+  .rgidm-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .ebam9-menu > .active,
-  .ebam9-menu > a:hover {
+  .rgidm-menu > .active,
+  .rgidm-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .ebam9-desc-menu {
+  .rgidm-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -316,19 +315,19 @@
     border-radius: 5px;
   }
 
-  .ebam9-desc-menu > div {
+  .rgidm-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .ebam9-desc-body {
+  .rgidm-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .ebam9-title {
+  .rgidm-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -341,7 +340,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .ebam9-title::before {
+  .rgidm-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -356,44 +355,44 @@
     z-index: 1;
   }
 
-  .ebam9-title span {
+  .rgidm-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .ebam9-body {
+  .rgidm-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .ebam9-img {
+  .rgidm-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .ebam9-img img {
+  .rgidm-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ebam9-desc {
+    .rgidm-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ebam9-menu-btn {
+    .rgidm-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .ebam9 {
+    .rgidm {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -402,17 +401,17 @@
       margin-top: 0px;
     }
 
-    .ebam9-img {
+    .rgidm-img {
       width: 100%;
     }
 
-    .ebam9-body {
+    .rgidm-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .ebam9-menu {
+    .rgidm-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -420,11 +419,11 @@
       display: none;
     }
 
-    .ebam9-menu.active {
+    .rgidm-menu.active {
       display: flex;
     }
 
-    .ebam9-desc {
+    .rgidm-desc {
       width: 100% !important;
       order: 2;
     }

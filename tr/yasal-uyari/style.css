@@ -1,17 +1,17 @@
 
-  .baj93menumobil {
+  .bkimumenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .baj93Children {
+  .bkimuChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .baj93 {
+  .bkimu {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .baj93title {
+  .bkimutitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .baj93titlebody {
+  .bkimutitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .baj93titlebodytitle {
+  .bkimutitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .baj93titlebodylang {
+  .bkimutitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .baj93titlebodylang ul {
+  .bkimutitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .baj93titlebodylang ul li {
+  .bkimutitlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .baj93titlebodylang ul a {
+  .bkimutitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .baj93titlebodylang ul a:hover {
+  .bkimutitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .baj93titlebodylang ul a:active {
+  .bkimutitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .baj93titlebodylang ul a:focus {
+  .bkimutitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .baj93titlebodylang ul a:visited {
+  .bkimutitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .baj93titlebodylang ul a:link {
+  .bkimutitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .baj93body {
+  .bkimubody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .baj93menulist {
+  .bkimumenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .baj93menubody {
+  .bkimumenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .baj93menulist ul {
+  .bkimumenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .baj93menulist ul a {
+  .bkimumenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .baj93menulist ul a:hover {
+  .bkimumenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .baj93menuitem {
+  .bkimumenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .baj93menuactive {
+  .bkimumenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .baj93bodylogo {
+  .bkimubodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .baj93menumobil {
+    .bkimumenumobil {
       display: none !important;
     }
 
-    .baj93menulist {
+    .bkimumenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .baj93menumobil {
+    .bkimumenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .baj93menumobil div {
+    .bkimumenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .baj93menulist {
+    .bkimumenulist {
       display: none;
     }
 
-    .baj93body {
+    .bkimubody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .baj93Children {
+    .bkimuChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .baj93menulist ul a {
+    .bkimumenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .baj93menu {
+    .bkimumenu {
       overflow-x: auto;
     }
 
-    .baj93menulist ul {
+    .bkimumenulist ul {
       flex-direction: column;
     }
 
-    .baj93bodylogo {
+    .bkimubodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,7 +241,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .baj93menulist ul a {
+    .bkimumenulist ul a {
       font-size: 14px;
     }
   }
@@ -252,7 +251,7 @@
     justify-content: start;
   }
 
-  .ipum2 {
+  .zmrm9 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -260,7 +259,7 @@
     position: relative;
   }
 
-  .ipum2-menu-btn {
+  .zmrm9-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -272,11 +271,11 @@
     align-items: center;
   }
 
-  .ipum2-menu-btn i {
+  .zmrm9-menu-btn i {
     font-size: 20px;
   }
 
-  .ipum2-menu {
+  .zmrm9-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -287,28 +286,28 @@
     float: left;
   }
 
-  .ipum2-desc {
+  .zmrm9-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .ipum2-menu > a {
+  .zmrm9-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .ipum2-menu > .active,
-  .ipum2-menu > a:hover {
+  .zmrm9-menu > .active,
+  .zmrm9-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .ipum2-desc-menu {
+  .zmrm9-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -316,19 +315,19 @@
     border-radius: 5px;
   }
 
-  .ipum2-desc-menu > div {
+  .zmrm9-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .ipum2-desc-body {
+  .zmrm9-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .ipum2-title {
+  .zmrm9-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -341,7 +340,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .ipum2-title::before {
+  .zmrm9-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -356,44 +355,44 @@
     z-index: 1;
   }
 
-  .ipum2-title span {
+  .zmrm9-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .ipum2-body {
+  .zmrm9-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .ipum2-img {
+  .zmrm9-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .ipum2-img img {
+  .zmrm9-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ipum2-desc {
+    .zmrm9-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ipum2-menu-btn {
+    .zmrm9-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .ipum2 {
+    .zmrm9 {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -402,17 +401,17 @@
       margin-top: 0px;
     }
 
-    .ipum2-img {
+    .zmrm9-img {
       width: 100%;
     }
 
-    .ipum2-body {
+    .zmrm9-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .ipum2-menu {
+    .zmrm9-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -420,11 +419,11 @@
       display: none;
     }
 
-    .ipum2-menu.active {
+    .zmrm9-menu.active {
       display: flex;
     }
 
-    .ipum2-desc {
+    .zmrm9-desc {
       width: 100% !important;
       order: 2;
     }

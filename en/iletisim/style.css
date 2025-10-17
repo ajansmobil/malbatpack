@@ -1,17 +1,17 @@
 
-  .bivhkmenumobil {
+  .rq5x4menumobil {
     display: none;
     cursor: pointer;
   }
 
-  .bivhkChildren {
+  .rq5x4Children {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .bivhk {
+  .rq5x4 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .bivhktitle {
+  .rq5x4title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .bivhktitlebody {
+  .rq5x4titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .bivhktitlebodytitle {
+  .rq5x4titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .bivhktitlebodylang {
+  .rq5x4titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .bivhktitlebodylang ul {
+  .rq5x4titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .bivhktitlebodylang ul li {
+  .rq5x4titlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .bivhktitlebodylang ul a {
+  .rq5x4titlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .bivhktitlebodylang ul a:hover {
+  .rq5x4titlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .bivhktitlebodylang ul a:active {
+  .rq5x4titlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .bivhktitlebodylang ul a:focus {
+  .rq5x4titlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .bivhktitlebodylang ul a:visited {
+  .rq5x4titlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .bivhktitlebodylang ul a:link {
+  .rq5x4titlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .bivhkbody {
+  .rq5x4body {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .bivhkmenulist {
+  .rq5x4menulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .bivhkmenubody {
+  .rq5x4menubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .bivhkmenulist ul {
+  .rq5x4menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .bivhkmenulist ul a {
+  .rq5x4menulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .bivhkmenulist ul a:hover {
+  .rq5x4menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .bivhkmenuitem {
+  .rq5x4menuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .bivhkmenuactive {
+  .rq5x4menuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .bivhkbodylogo {
+  .rq5x4bodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .bivhkmenumobil {
+    .rq5x4menumobil {
       display: none !important;
     }
 
-    .bivhkmenulist {
+    .rq5x4menulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .bivhkmenumobil {
+    .rq5x4menumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .bivhkmenumobil div {
+    .rq5x4menumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .bivhkmenulist {
+    .rq5x4menulist {
       display: none;
     }
 
-    .bivhkbody {
+    .rq5x4body {
       flex-direction: column;
       gap: 20px;
     }
 
-    .bivhkChildren {
+    .rq5x4Children {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .bivhkmenulist ul a {
+    .rq5x4menulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .bivhkmenu {
+    .rq5x4menu {
       overflow-x: auto;
     }
 
-    .bivhkmenulist ul {
+    .rq5x4menulist ul {
       flex-direction: column;
     }
 
-    .bivhkbodylogo {
+    .rq5x4bodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,13 +241,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .bivhkmenulist ul a {
+    .rq5x4menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .c5xjr {
+  .u0qjd {
     width: 100%;
     margin: 30px 0px 30px 0px;
     display: flex;
@@ -257,14 +256,14 @@
     position: relative;
   }
 
-  .c5xjrcontainertitle {
+  .u0qjdcontainertitle {
     font-size: 28px;
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
   }
 
-  .c5xjrcontainerlist {
+  .u0qjdcontainerlist {
     padding: 10px;
     display: flex;
     border-radius: 8px;
@@ -273,26 +272,26 @@
     transition: background-color 0.3s ease;
   }
 
-  .c5xjrcontainerlist>div {
+  .u0qjdcontainerlist>div {
     display: flex;
     align-items: center;
     font-size: 20px;
     color: #444;
   }
 
-  .c5xjrcontainerlist:hover {
+  .u0qjdcontainerlist:hover {
     background-color: #f9f9f9;
     border-bottom-color: #1e3046;
   }
 
-  .c5xjrcontainer {
+  .u0qjdcontainer {
     display: flex;
     flex-direction: column;
     gap: 15px;
     padding: 20px;
   }
 
-  .c5xjrcontainerbody {
+  .u0qjdcontainerbody {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -302,7 +301,7 @@
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
 
-  .c5xjrbody {
+  .u0qjdbody {
     width: calc(var(--max) - 40px);
     background-color: #ebebeb;
     border: 1px solid #dedede;
@@ -310,19 +309,19 @@
     padding: 20px;
   }
 
-  .c5xjrcontainerlist>span {
+  .u0qjdcontainerlist>span {
     font-size: 24px;
     color: #1e3046;
   }
 
   @media screen and (max-width: 1024px) {
-    .c5xjrbody {
+    .u0qjdbody {
       width: 100%;
       padding: 20px;
       flex-direction: column;
     }
 
-    .c5xjrcontainerbody {
+    .u0qjdcontainerbody {
       padding: 15px;
     }
   }
@@ -352,13 +351,13 @@
       transform: scale(1);
     }
   }
-  .n1cxj-body {
+  .edgur-body {
     display: flex;
     align-items: center;
     justify-content: center;
     width: var(--max);
   }
-  .n1cxj-body-chile {
+  .edgur-body-chile {
     padding: 20px;
     display: flex;
     align-items: top;
@@ -366,10 +365,10 @@
     flex-direction: column;
     position: absolute;
   }
-  .n1cxj-body-chile > div {
+  .edgur-body-chile > div {
     width: 100% !important;
   }
-  .n1cxj2 {
+  .edgur2 {
     margin-top: 10px;
     margin-bottom: 10px;
     position: relative;
@@ -380,21 +379,21 @@
     overflow: hidden;
     cursor: pointer;
   }
-  .n1cxj {
+  .edgur {
     display: flex;
     flex-direction: column;
   }
-  .n1cxj > svg {
+  .edgur > svg {
     width: 100vw;
   }
-  .n1cxjbotton {
+  .edgurbotton {
     transform: scaleY(-1);
     margin-bottom: -1px;
   }
-  .n1cxj-svg {
+  .edgur-svg {
     fill: #fff;
   }
-  .n1cxj-bg {
+  .edgur-bg {
     background-image: url("/img/fd388u/map.webp?v={{random}}") !important;
     background-size: cover;
     background-position: center center;

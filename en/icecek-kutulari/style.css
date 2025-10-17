@@ -1,17 +1,17 @@
 
-  .nm5ddmenumobil {
+  .fz998menumobil {
     display: none;
     cursor: pointer;
   }
 
-  .nm5ddChildren {
+  .fz998Children {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .nm5dd {
+  .fz998 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .nm5ddtitle {
+  .fz998title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .nm5ddtitlebody {
+  .fz998titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,34 +36,33 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .nm5ddtitlebodytitle {
+  .fz998titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .nm5ddtitlebodylang {
+  .fz998titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .nm5ddtitlebodylang ul {
+  .fz998titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .nm5ddtitlebodylang ul li {
+  .fz998titlebodylang ul li {
     list-style: none;
     margin: 0;
-    padding: 5px;
     width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .nm5ddtitlebodylang ul a {
+  .fz998titlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -72,7 +71,6 @@
     background-color: #333;
     border: 1px solid #fff;
     border-radius: 5px;
-    padding: 2px;
     color: #fff;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -80,37 +78,38 @@
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
+    padding: 4px;
   }
   
-  .nm5ddtitlebodylang ul a:hover {
+  .fz998titlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .nm5ddtitlebodylang ul a:active {
+  .fz998titlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .nm5ddtitlebodylang ul a:focus {
+  .fz998titlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .nm5ddtitlebodylang ul a:visited {
+  .fz998titlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .nm5ddtitlebodylang ul a:link {
+  .fz998titlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .nm5ddbody {
+  .fz998body {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .nm5ddmenulist {
+  .fz998menulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -119,7 +118,7 @@
     width: 100%;
   }
 
-  .nm5ddmenubody {
+  .fz998menubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -127,7 +126,7 @@
     justify-content: center;
   }
 
-  .nm5ddmenulist ul {
+  .fz998menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -137,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .nm5ddmenulist ul a {
+  .fz998menulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -149,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .nm5ddmenulist ul a:hover {
+  .fz998menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .nm5ddmenuitem {
+  .fz998menuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -168,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .nm5ddmenuactive {
+  .fz998menuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .nm5ddbodylogo {
+  .fz998bodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .nm5ddmenumobil {
+    .fz998menumobil {
       display: none !important;
     }
 
-    .nm5ddmenulist {
+    .fz998menulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .nm5ddmenumobil {
+    .fz998menumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -199,22 +198,22 @@
       width: 100%;
     }
 
-    .nm5ddmenumobil div {
+    .fz998menumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .nm5ddmenulist {
+    .fz998menulist {
       display: none;
     }
 
-    .nm5ddbody {
+    .fz998body {
       flex-direction: column;
       gap: 20px;
     }
 
-    .nm5ddChildren {
+    .fz998Children {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -222,19 +221,19 @@
       justify-content: center;
     }
 
-    .nm5ddmenulist ul a {
+    .fz998menulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .nm5ddmenu {
+    .fz998menu {
       overflow-x: auto;
     }
 
-    .nm5ddmenulist ul {
+    .fz998menulist ul {
       flex-direction: column;
     }
 
-    .nm5ddbodylogo {
+    .fz998bodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -242,7 +241,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .nm5ddmenulist ul a {
+    .fz998menulist ul a {
       font-size: 14px;
     }
   }
@@ -252,7 +251,7 @@
     justify-content: start;
   }
 
-  .orheu {
+  .u13zt {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -260,7 +259,7 @@
     position: relative;
   }
 
-  .orheu-menu-btn {
+  .u13zt-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -272,11 +271,11 @@
     align-items: center;
   }
 
-  .orheu-menu-btn i {
+  .u13zt-menu-btn i {
     font-size: 20px;
   }
 
-  .orheu-menu {
+  .u13zt-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -287,28 +286,28 @@
     float: left;
   }
 
-  .orheu-desc {
+  .u13zt-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .orheu-menu > a {
+  .u13zt-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .orheu-menu > .active,
-  .orheu-menu > a:hover {
+  .u13zt-menu > .active,
+  .u13zt-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .orheu-desc-menu {
+  .u13zt-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -316,19 +315,19 @@
     border-radius: 5px;
   }
 
-  .orheu-desc-menu > div {
+  .u13zt-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .orheu-desc-body {
+  .u13zt-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .orheu-title {
+  .u13zt-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -341,7 +340,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .orheu-title::before {
+  .u13zt-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -356,44 +355,44 @@
     z-index: 1;
   }
 
-  .orheu-title span {
+  .u13zt-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .orheu-body {
+  .u13zt-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .orheu-img {
+  .u13zt-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .orheu-img img {
+  .u13zt-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .orheu-desc {
+    .u13zt-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .orheu-menu-btn {
+    .u13zt-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .orheu {
+    .u13zt {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -402,17 +401,17 @@
       margin-top: 0px;
     }
 
-    .orheu-img {
+    .u13zt-img {
       width: 100%;
     }
 
-    .orheu-body {
+    .u13zt-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .orheu-menu {
+    .u13zt-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -420,11 +419,11 @@
       display: none;
     }
 
-    .orheu-menu.active {
+    .u13zt-menu.active {
       display: flex;
     }
 
-    .orheu-desc {
+    .u13zt-desc {
       width: 100% !important;
       order: 2;
     }
