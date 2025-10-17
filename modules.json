@@ -110,8 +110,13 @@
       "data": [
         {
           "icon": "phone",
-          "text": "+90 541 655 2727",
-          "url": "tel:00905416552727"
+          "text": "009647506506611",
+          "url": "tel:009647506506611"
+        },
+        {
+          "icon": "phone",
+          "text": "009647706506611",
+          "url": "tel:009647706506611"
         },
         {
           "icon": "email",
@@ -120,8 +125,8 @@
         },
         {
           "icon": "map",
-          "text": "Mücahitler Mah. 52083 Nolu Sk. Yasem İş Mrk. No:42 K:3 D:307 Şehitkamil / Gaziantep / TÜRKİYE",
-          "url": "https://maps.app.goo.gl/xoLQtPL2MqfAMa5j8"
+          "text": "العنوان : طريق زاخو دهوك قرية گرره ش",
+          "url": ""
         }
       ],
       "id": "rnqtrn",

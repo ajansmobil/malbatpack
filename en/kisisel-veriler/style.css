@@ -1,17 +1,17 @@
 
-  .jozr6menumobil {
+  .ftskemenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .jozr6Children {
+  .ftskeChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .jozr6 {
+  .ftske {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .jozr6title {
+  .ftsketitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .jozr6titlebody {
+  .ftsketitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .jozr6titlebodytitle {
+  .ftsketitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .jozr6titlebodylang {
+  .ftsketitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .jozr6titlebodylang ul {
+  .ftsketitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .jozr6body {
+  .ftskebody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .jozr6menulist {
+  .ftskemenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .jozr6menubody {
+  .ftskemenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .jozr6menulist ul {
+  .ftskemenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .jozr6menulist ul a {
+  .ftskemenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .jozr6menulist ul a:hover {
+  .ftskemenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .jozr6menuitem {
+  .ftskemenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .jozr6menuactive {
+  .ftskemenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .jozr6bodylogo {
+  .ftskebodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .jozr6menumobil {
+    .ftskemenumobil {
       display: none !important;
     }
 
-    .jozr6menulist {
+    .ftskemenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .jozr6menumobil {
+    .ftskemenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .jozr6menumobil div {
+    .ftskemenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .jozr6menulist {
+    .ftskemenulist {
       display: none;
     }
 
-    .jozr6body {
+    .ftskebody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .jozr6Children {
+    .ftskeChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .jozr6menulist ul a {
+    .ftskemenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .jozr6menu {
+    .ftskemenu {
       overflow-x: auto;
     }
 
-    .jozr6menulist ul {
+    .ftskemenulist ul {
       flex-direction: column;
     }
 
-    .jozr6bodylogo {
+    .ftskebodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,7 +192,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .jozr6menulist ul a {
+    .ftskemenulist ul a {
       font-size: 14px;
     }
   }
@@ -202,7 +202,7 @@
     justify-content: start;
   }
 
-  .pmh53 {
+  .xwnvb {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -210,7 +210,7 @@
     position: relative;
   }
 
-  .pmh53-menu-btn {
+  .xwnvb-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -222,11 +222,11 @@
     align-items: center;
   }
 
-  .pmh53-menu-btn i {
+  .xwnvb-menu-btn i {
     font-size: 20px;
   }
 
-  .pmh53-menu {
+  .xwnvb-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -237,28 +237,28 @@
     float: left;
   }
 
-  .pmh53-desc {
+  .xwnvb-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .pmh53-menu > a {
+  .xwnvb-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .pmh53-menu > .active,
-  .pmh53-menu > a:hover {
+  .xwnvb-menu > .active,
+  .xwnvb-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .pmh53-desc-menu {
+  .xwnvb-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -266,19 +266,19 @@
     border-radius: 5px;
   }
 
-  .pmh53-desc-menu > div {
+  .xwnvb-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .pmh53-desc-body {
+  .xwnvb-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .pmh53-title {
+  .xwnvb-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -291,7 +291,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .pmh53-title::before {
+  .xwnvb-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -306,44 +306,44 @@
     z-index: 1;
   }
 
-  .pmh53-title span {
+  .xwnvb-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .pmh53-body {
+  .xwnvb-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .pmh53-img {
+  .xwnvb-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .pmh53-img img {
+  .xwnvb-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .pmh53-desc {
+    .xwnvb-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .pmh53-menu-btn {
+    .xwnvb-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .pmh53 {
+    .xwnvb {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -352,17 +352,17 @@
       margin-top: 0px;
     }
 
-    .pmh53-img {
+    .xwnvb-img {
       width: 100%;
     }
 
-    .pmh53-body {
+    .xwnvb-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .pmh53-menu {
+    .xwnvb-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -370,11 +370,11 @@
       display: none;
     }
 
-    .pmh53-menu.active {
+    .xwnvb-menu.active {
       display: flex;
     }
 
-    .pmh53-desc {
+    .xwnvb-desc {
       width: 100% !important;
       order: 2;
     }

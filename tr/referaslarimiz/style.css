@@ -1,17 +1,17 @@
 
-  .ujdo4menumobil {
+  .rpqbomenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .ujdo4Children {
+  .rpqboChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .ujdo4 {
+  .rpqbo {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .ujdo4title {
+  .rpqbotitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .ujdo4titlebody {
+  .rpqbotitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ujdo4titlebodytitle {
+  .rpqbotitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ujdo4titlebodylang {
+  .rpqbotitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ujdo4titlebodylang ul {
+  .rpqbotitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ujdo4body {
+  .rpqbobody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .ujdo4menulist {
+  .rpqbomenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .ujdo4menubody {
+  .rpqbomenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .ujdo4menulist ul {
+  .rpqbomenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .ujdo4menulist ul a {
+  .rpqbomenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .ujdo4menulist ul a:hover {
+  .rpqbomenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ujdo4menuitem {
+  .rpqbomenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .ujdo4menuactive {
+  .rpqbomenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .ujdo4bodylogo {
+  .rpqbobodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .ujdo4menumobil {
+    .rpqbomenumobil {
       display: none !important;
     }
 
-    .ujdo4menulist {
+    .rpqbomenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ujdo4menumobil {
+    .rpqbomenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .ujdo4menumobil div {
+    .rpqbomenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .ujdo4menulist {
+    .rpqbomenulist {
       display: none;
     }
 
-    .ujdo4body {
+    .rpqbobody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .ujdo4Children {
+    .rpqboChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .ujdo4menulist ul a {
+    .rpqbomenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .ujdo4menu {
+    .rpqbomenu {
       overflow-x: auto;
     }
 
-    .ujdo4menulist ul {
+    .rpqbomenulist ul {
       flex-direction: column;
     }
 
-    .ujdo4bodylogo {
+    .rpqbobodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,25 +192,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ujdo4menulist ul a {
+    .rpqbomenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .ujayw {
+  .pjgkl {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ujaywbody {
+  .pjgklbody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .ujaywbodyitem {
+  .pjgklbodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -226,22 +226,22 @@
     align-items: center;
     justify-content: center;
   }
-  .ujaywbodyitem:hover {
+  .pjgklbodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .ujaywbodyitemimg {
+  .pjgklbodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .ujaywbodyitemimg img {
+  .pjgklbodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .ujaywbodyitemtitle {
+  .pjgklbodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -250,14 +250,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .ujaywbody {
+    .pjgklbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .ujaywbody {
+    .pjgklbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

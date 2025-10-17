@@ -1,17 +1,17 @@
 
-  .p6w7zmenumobil {
+  .wel8omenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .p6w7zChildren {
+  .wel8oChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .p6w7z {
+  .wel8o {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .p6w7ztitle {
+  .wel8otitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .p6w7ztitlebody {
+  .wel8otitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .p6w7ztitlebodytitle {
+  .wel8otitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .p6w7ztitlebodylang {
+  .wel8otitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .p6w7ztitlebodylang ul {
+  .wel8otitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .p6w7zbody {
+  .wel8obody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .p6w7zmenulist {
+  .wel8omenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .p6w7zmenubody {
+  .wel8omenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .p6w7zmenulist ul {
+  .wel8omenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .p6w7zmenulist ul a {
+  .wel8omenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .p6w7zmenulist ul a:hover {
+  .wel8omenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .p6w7zmenuitem {
+  .wel8omenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .p6w7zmenuactive {
+  .wel8omenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .p6w7zbodylogo {
+  .wel8obodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .p6w7zmenumobil {
+    .wel8omenumobil {
       display: none !important;
     }
 
-    .p6w7zmenulist {
+    .wel8omenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .p6w7zmenumobil {
+    .wel8omenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .p6w7zmenumobil div {
+    .wel8omenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .p6w7zmenulist {
+    .wel8omenulist {
       display: none;
     }
 
-    .p6w7zbody {
+    .wel8obody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .p6w7zChildren {
+    .wel8oChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .p6w7zmenulist ul a {
+    .wel8omenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .p6w7zmenu {
+    .wel8omenu {
       overflow-x: auto;
     }
 
-    .p6w7zmenulist ul {
+    .wel8omenulist ul {
       flex-direction: column;
     }
 
-    .p6w7zbodylogo {
+    .wel8obodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,24 +192,24 @@
   }
 
   @media screen and (max-width: 768px) {
-    .p6w7zmenulist ul a {
+    .wel8omenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .cpkad {
+  .ccklc {
     width: 100%;
     margin: 15px 0;
   }
 
-  .cpkadbody {
+  .ccklcbody {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 15px;
   }
 
-  .cpkadbodyitem {
+  .ccklcbodyitem {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -220,7 +220,7 @@
     position: relative;
   }
 
-  .cpkadbodyitemlink {
+  .ccklcbodyitemlink {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -229,7 +229,7 @@
     gap: 10px;
   }
 
-  .cpkadbodyitemimg {
+  .ccklcbodyitemimg {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -240,18 +240,18 @@
     transition: all 0.3s ease;
   }
 
-  .cpkadbodyitemimg:hover {
+  .ccklcbodyitemimg:hover {
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
     transform: translateY(-5px);
   }
 
-  .cpkadbodyitemimg img {
+  .ccklcbodyitemimg img {
     max-height: 200px;
     max-width: calc(200px * 2);
     border-radius: 10px;
   }
 
-  .cpkadbodyitemtitle {
+  .ccklcbodyitemtitle {
     padding: 5px;
     display: flex;
     height: calc(18px * 2);
@@ -262,7 +262,7 @@
     color: #fff;
   }
 
-  .cpkadbodybg {
+  .ccklcbodybg {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -273,7 +273,7 @@
     opacity: 0.5;
   }
 
-  .cpkadbodyitems {
+  .ccklcbodyitems {
     padding: 5px;
     display: flex;
     flex-direction: column;
@@ -284,25 +284,25 @@
     position: relative;
   }
 
-  .cpkadbodyitems.left {
+  .ccklcbodyitems.left {
     align-self: flex-start;
     border-radius: 0px 10px 10px 0px;
     transform: translateY(60px);
     animation: slideInLeft 1s forwards;
   }
 
-  .cpkadbodyitems.right {
+  .ccklcbodyitems.right {
     align-self: flex-end;
     border-radius: 10px 0px 0px 10px;
     transform: translateY(60px);
     animation: slideInRight 1s forwards;
   }
 
-  .cpkadbodyitem.lefts {
+  .ccklcbodyitem.lefts {
     align-self: flex-end;
   }
 
-  .cpkadbodyitem.rights {
+  .ccklcbodyitem.rights {
     align-self: flex-start;
   }
 
@@ -330,18 +330,18 @@
     }
   }
 
-  .cpkadbodyitems {
+  .ccklcbodyitems {
     animation-delay: 0.3s;
   }
 
  
 
   @media screen and (max-width: 1024px) {
-    .cpkadbodyitem {
+    .ccklcbodyitem {
       width: 100%;
     }
 
-    .cpkadbody {
+    .ccklcbody {
       display: flex;
       flex-direction: column;
       gap: 15px;
