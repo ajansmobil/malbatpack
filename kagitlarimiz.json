@@ -6,7 +6,7 @@
     {
       "name": {
         "tr": "Oluklu Kağıt",
-        "en": "Fluting",
+        "en": "Fluting Paper",
         "ar": "ورق مضلع"
       },
       "status": "play",
@@ -18,9 +18,9 @@
       "icon": "home",
       "img": "",
       "description": {
-        "tr": "Oluklu kağıt: Ambalaj sektörü için özel tasarım, dayanıklı yapı, yüksek kalite. Kutu ve ambalaj üretimi için.",
-        "en": "Fluting: Special design for packaging industry, durable structure, high quality. For box and packaging production.",
-        "ar": "ورق مضلع: تصميم خاص لصناعة التعبئة والتغليف، هيكل متين، جودة عالية. لإنتاج الصناديق والتعبئة."
+        "tr": "Oluklu kağıt: Ambalaj sektörü için özel tasarım, dayanıklı yapı, yüksek kalite. Kutu ve ambalaj üretimi için ideal çözüm.",
+        "en": "Fluting paper: Special design for packaging industry, durable structure, high quality. Ideal solution for box and packaging production.",
+        "ar": "ورق مضلع: تصميم خاص لصناعة التعبئة والتغليف، هيكل متين، جودة عالية. الحل الأمثل لإنتاج الصناديق والتعبئة."
       },
       "spot": {
         "tr": "Oluklu mukavva üretiminde kullanılan yüksek kaliteli oluklu kağıt, dayanıklı ambalaj çözümleri için ideal seçim.",
@@ -44,14 +44,14 @@
       "icon": "home",
       "img": "",
       "description": {
-        "tr": "NSSC kağıdı: Yarı kimyasal sülfat kağıdı, yüksek dayanıklılık, ambalaj uygulamaları için özel tasarım.",
-        "en": "NSSC paper: Semi-chemical sulfate paper, high durability, special design for packaging applications.",
-        "ar": "ورق NSSC: ورق كبريتات شبه كيميائي، متانة عالية، تصميم خاص لتطبيقات التعبئة والتغليف."
+        "tr": "NSSC kağıdı: Yarı kimyasal sülfat kağıdı, yüksek dayanıklılık, ambalaj uygulamaları için özel tasarım ve üstün performans.",
+        "en": "NSSC paper: Semi-chemical sulfate paper, high durability, special design for packaging applications and superior performance.",
+        "ar": "ورق NSSC: ورق كبريتات شبه كيميائي، متانة عالية، تصميم خاص لتطبيقات التعبئة وأداء فائق."
       },
       "spot": {
-        "tr": "Yarı kimyasal sülfat NSSC kağıdı, oluklu mukavva için üstün dayanıklılık ve esneklik sağlar.",
-        "en": "Semi-chemical sulfate NSSC paper provides superior durability and flexibility for corrugated board.",
-        "ar": "ورق كبريتات NSSC شبه الكيميائي يوفر متانة ومرونة فائقة للكرتون المضلع."
+        "tr": "Yarı kimyasal sülfat NSSC kağıdı, oluklu mukavva için üstün dayanıklılık ve esneklik sağlar, yüksek performanslı ambalajlar için ideal.",
+        "en": "Semi-chemical sulfate NSSC paper provides superior durability and flexibility for corrugated board, ideal for high-performance packaging.",
+        "ar": "ورق كبريتات NSSC شبه الكيميائي يوفر متانة ومرونة فائقة للكرتون المضلع، مثالي للتعبئة عالية الأداء."
       },
       "desc": {}
     },
@@ -70,14 +70,14 @@
       "icon": "home",
       "img": "",
       "description": {
-        "tr": "Testliner kağıdı: Ambalaj sektörü için yüksek kaliteli kağıt, dayanıklı yapı, çok amaçlı kullanım.",
-        "en": "Testliner paper: High quality paper for packaging industry, durable structure, versatile use.",
-        "ar": "ورق Testliner: ورق عالي الجودة لصناعة التعبئة والتغليف، هيكل متين، استخدام متعدد الأغراض."
+        "tr": "Testliner kağıdı: Ambalaj sektörü için yüksek kaliteli kağıt, dayanıklı yapı, çok amaçlı kullanım, ekonomik çözüm.",
+        "en": "Testliner paper: High quality paper for packaging industry, durable structure, versatile use, economical solution.",
+        "ar": "ورق Testliner: ورق عالي الجودة لصناعة التعبئة والتغليف، هيكل متين، استخدام متعدد الأغراض، حل اقتصادي."
       },
       "spot": {
-        "tr": "Geri dönüştürülmüş hammaddeden üretilen testliner kağıdı, ekonomik ve çevre dostu ambalaj çözümleri sunar.",
-        "en": "Testliner paper made from recycled materials offers economical and eco-friendly packaging solutions.",
-        "ar": "ورق Testliner المصنوع من مواد معاد تدويرها يقدم حلول تعبئة اقتصادية وصديقة للبيئة."
+        "tr": "Geri dönüştürülmüş hammaddeden üretilen testliner kağıdı, ekonomik ve çevre dostu ambalaj çözümleri sunar, her sektörde kullanım için ideal.",
+        "en": "Testliner paper made from recycled materials offers economical and eco-friendly packaging solutions, ideal for use in all sectors.",
+        "ar": "ورق Testliner المصنوع من مواد معاد تدويرها يقدم حلول تعبئة اقتصادية وصديقة للبيئة، مثالي للاستخدام في جميع القطاعات."
       },
       "desc": {}
     },
@@ -96,14 +96,14 @@
       "icon": "home",
       "img": "",
       "description": {
-        "tr": "Beyaz testliner: Yüksek beyazlık, ambalaj sektörü için özel tasarım, dayanıklı yapı.",
-        "en": "White testliner: High whiteness, special design for packaging industry, durable structure.",
-        "ar": "Testliner أبيض: بياض عالي، تصميم خاص لصناعة التعبئة والتغليف، هيكل متين."
+        "tr": "Beyaz testliner: Yüksek beyazlık derecesi, üstün baskı kalitesi, ambalaj sektörü için özel tasarım, dayanıklı yapı.",
+        "en": "White testliner: High whiteness degree, superior print quality, special design for packaging industry, durable structure.",
+        "ar": "Testliner أبيض: درجة بياض عالية، جودة طباعة فائقة، تصميم خاص لصناعة التعبئة، هيكل متين."
       },
       "spot": {
-        "tr": "Yüksek beyazlık derecesine sahip beyaz testliner, kaliteli baskı yüzeyi ve görsel estetik sunar.",
-        "en": "White testliner with high whiteness provides quality print surface and visual aesthetics.",
-        "ar": "Testliner الأبيض ذو درجة البياض العالية يوفر سطح طباعة عالي الجودة وجماليات بصرية."
+        "tr": "Yüksek beyazlık derecesine sahip beyaz testliner, kaliteli baskı yüzeyi ve görsel estetik sunar, premium ambalaj için ideal.",
+        "en": "White testliner with high whiteness degree provides quality print surface and visual aesthetics, ideal for premium packaging.",
+        "ar": "Testliner الأبيض ذو درجة البياض العالية يوفر سطح طباعة عالي الجودة وجماليات بصرية، مثالي للتعبئة المتميزة."
       },
       "desc": {}
     },
@@ -122,21 +122,21 @@
       "icon": "home",
       "img": "",
       "description": {
-        "tr": "Kaplamalı beyaz testliner: Yüksek kalite, mükemmel baskı yüzeyi, ambalaj uygulamaları için özel tasarım.",
-        "en": "Coated white testliner: High quality, excellent print surface, special design for packaging applications.",
-        "ar": "Testliner أبيض مطلي: جودة عالية، سطح طباعة ممتاز، تصميم خاص لتطبيقات التعبئة والتغليف."
+        "tr": "Kaplamalı beyaz testliner: Premium kalite, mükemmel baskı yüzeyi, lüks ambalaj uygulamaları için özel tasarım.",
+        "en": "Coated white testliner: Premium quality, excellent print surface, special design for luxury packaging applications.",
+        "ar": "Testliner أبيض مطلي: جودة متميزة، سطح طباعة ممتاز، تصميم خاص لتطبيقات التعبئة الفاخرة."
       },
       "spot": {
-        "tr": "Premium baskı kalitesi için özel kaplamalı beyaz testliner, marka imajınızı güçlendirir.",
-        "en": "Specially coated white testliner for premium print quality strengthens your brand image.",
-        "ar": "Testliner أبيض مطلي خصيصًا لجودة طباعة متميزة يعزز صورة علامتك التجارية."
+        "tr": "Premium baskı kalitesi için özel kaplamalı beyaz testliner, marka imajınızı güçlendirir ve lüks ambalajda yeni standartlar belirler.",
+        "en": "Specially coated white testliner for premium print quality strengthens your brand image and sets new standards in luxury packaging.",
+        "ar": "Testliner أبيض مطلي خصيصًا لجودة طباعة متميزة يعزز صورة علامتك التجارية ويضع معايير جديدة في التعبئة الفاخرة."
       },
       "desc": {}
     },
     {
       "name": {
         "tr": "Çuval Kraft Kağıdı",
-        "en": "Sack Kraft",
+        "en": "Sack Kraft Paper",
         "ar": "ورق كرافت الأكياس"
       },
       "status": "play",
@@ -148,14 +148,14 @@
       "icon": "home",
       "img": "",
       "description": {
-        "tr": "Çuval kraft kağıdı: Yüksek dayanıklılık, çuval üretimi için özel tasarım, güçlü yapı.",
-        "en": "Sack kraft: High durability, special design for sack production, strong structure.",
-        "ar": "ورق كرافت الأكياس: متانة عالية، تصميم خاص لإنتاج الأكياس، هيكل قوي."
+        "tr": "Çuval kraft kağıdı: Yüksek dayanıklılık, çuval ve torba üretimi için özel tasarım, endüstriyel ambalajda güçlü yapı.",
+        "en": "Sack kraft paper: High durability, special design for sack and bag production, strong structure in industrial packaging.",
+        "ar": "ورق كرافت الأكياس: متانة عالية، تصميم خاص لإنتاج الأكياس والأكياس، هيكل قوي في التعبئة الصناعية."
       },
       "spot": {
-        "tr": "Ağır yük taşıma kapasitesi ile çuval kraft kağıdı, endüstriyel paketleme için güvenilir çözüm.",
-        "en": "Sack kraft paper with heavy load carrying capacity is a reliable solution for industrial packaging.",
-        "ar": "ورق كرافت الأكياس بقدرة حمل ثقيلة هو حل موثوق للتعبئة الصناعية."
+        "tr": "Ağır yük taşıma kapasitesi ile çuval kraft kağıdı, endüstriyel paketleme için güvenilir çözüm, çimento, un, kimyasallar için ideal.",
+        "en": "Sack kraft paper with heavy load carrying capacity is a reliable solution for industrial packaging, ideal for cement, flour, chemicals.",
+        "ar": "ورق كرافت الأكياس بقدرة حمل ثقيلة هو حل موثوق للتعبئة الصناعية، مثالي للأسمنت والدقيق والكيماويات."
       },
       "desc": {}
     },
@@ -174,14 +174,14 @@
       "icon": "home",
       "img": "",
       "description": {
-        "tr": "Kraftliner kağıdı: Ambalaj sektörü için yüksek kaliteli kraft kağıdı, dayanıklı yapı, çok amaçlı kullanım.",
-        "en": "Kraftliner paper: High quality kraft paper for packaging industry, durable structure, versatile use.",
-        "ar": "ورق Kraftliner: ورق كرافت عالي الجودة لصناعة التعبئة والتغليف، هيكل متين، استخدام متعدد الأغراض."
+        "tr": "Kraftliner kağıdı: Virgin selülozdan yüksek kaliteli kraft kağıdı, maksimum mukavemet, ambalaj sektörü için çok amaçlı kullanım.",
+        "en": "Kraftliner paper: High quality kraft paper from virgin cellulose, maximum strength, versatile use for packaging industry.",
+        "ar": "ورق Kraftliner: ورق كرافت عالي الجودة من السليلوز البكر، أقصى قوة، استخدام متعدد لصناعة التعبئة."
       },
       "spot": {
-        "tr": "Virgin hammaddeden üretilen kraftliner kağıdı, maksimum mukavemet ve yırtılma direnci sağlar.",
-        "en": "Kraftliner paper made from virgin materials provides maximum strength and tear resistance.",
-        "ar": "ورق Kraftliner المصنوع من مواد عذراء يوفر أقصى قوة ومقاومة للتمزق."
+        "tr": "Virgin hammaddeden üretilen kraftliner kağıdı, maksimum mukavemet ve yırtılma direnci sağlar, premium ambalaj için en iyi seçim.",
+        "en": "Kraftliner paper made from virgin materials provides maximum strength and tear resistance, the best choice for premium packaging.",
+        "ar": "ورق Kraftliner المصنوع من مواد عذراء يوفر أقصى قوة ومقاومة للتمزق، أفضل خيار للتعبئة المتميزة."
       },
       "desc": {}
     },
@@ -200,14 +200,14 @@
       "icon": "home",
       "img": "",
       "description": {
-        "tr": "Beyaz üst kraftliner: Yüksek beyazlık, ambalaj sektörü için özel tasarım, dayanıklı yapı.",
-        "en": "White top kraftliner: High whiteness, special design for packaging industry, durable structure.",
-        "ar": "Kraftliner أبيض العلوي: بياض عالي، تصميم خاص لصناعة التعبئة والتغليف، هيكل متين."
+        "tr": "Beyaz üst kraftliner: Üst yüzeyi beyaz, alt yüzeyi kraft, maksimum mukavemet ve estetik görünüm bir arada.",
+        "en": "White top kraftliner: White top surface, kraft back, maximum strength and aesthetic appearance combined.",
+        "ar": "Kraftliner أبيض العلوي: سطح علوي أبيض، خلفية كرافت، أقصى قوة ومظهر جمالي معًا."
       },
       "spot": {
-        "tr": "Beyaz üst yüzeyli kraftliner, kraftın gücü ile beyaz testlinerin estetik görünümünü bir araya getirir.",
-        "en": "White top kraftliner combines the strength of kraft with the aesthetic appearance of white testliner.",
-        "ar": "Kraftliner الأبيض العلوي يجمع بين قوة الكرافت والمظهر الجمالي لـ Testliner الأبيض."
+        "tr": "Beyaz üst yüzeyli kraftliner, kraftın gücü ile beyaz testlinerin estetik görünümünü bir araya getirir, premium ambalaj için ideal.",
+        "en": "White top kraftliner combines the strength of kraft with the aesthetic appearance of white testliner, ideal for premium packaging.",
+        "ar": "Kraftliner الأبيض العلوي يجمع بين قوة الكرافت والمظهر الجمالي لـ Testliner الأبيض، مثالي للتعبئة المتميزة."
       },
       "desc": {}
     },
@@ -226,14 +226,14 @@
       "icon": "home",
       "img": "",
       "description": {
-        "tr": "Kaplamalı beyaz üst kraftliner: Yüksek kalite, mükemmel baskı yüzeyi, ambalaj uygulamaları için özel tasarım.",
-        "en": "Coated white top kraftliner: High quality, excellent print surface, special design for packaging applications.",
-        "ar": "Kraftliner أبيض العلوي مطلي: جودة عالية، سطح طباعة ممتاز، تصميم خاص لتطبيقات التعبئة والتغليف."
+        "tr": "Kaplamalı beyaz üst kraftliner: Maksimum baskı kalitesi, üstün mukavemet, lüks ambalaj için özel tasarım, en yüksek performans.",
+        "en": "Coated white top kraftliner: Maximum print quality, superior strength, special design for luxury packaging, highest performance.",
+        "ar": "Kraftliner أبيض العلوي مطلي: أقصى جودة طباعة، قوة فائقة، تصميم خاص للتعبئة الفاخرة، أعلى أداء."
       },
       "spot": {
-        "tr": "En üst düzey baskı performansı için kaplamalı beyaz üst kraftliner, güç ve estetiği mükemmel şekilde dengeler.",
-        "en": "Coated white top kraftliner for top-level print performance perfectly balances strength and aesthetics.",
-        "ar": "Kraftliner الأبيض العلوي المطلي لأداء طباعة من أعلى مستوى يوازن بشكل مثالي بين القوة والجماليات."
+        "tr": "En üst düzey baskı performansı için kaplamalı beyaz üst kraftliner, güç ve estetiği mükemmel şekilde dengeler, lüks ambalajın zirvesi.",
+        "en": "Coated white top kraftliner for top-level print performance perfectly balances strength and aesthetics, the pinnacle of luxury packaging.",
+        "ar": "Kraftliner الأبيض العلوي المطلي لأداء طباعة من أعلى مستوى يوازن بشكل مثالي بين القوة والجماليات، قمة التعبئة الفاخرة."
       },
       "desc": {}
     }

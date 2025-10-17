@@ -1,17 +1,17 @@
 
-  .zuizdmenumobil {
+  .txpc8menumobil {
     display: none;
     cursor: pointer;
   }
 
-  .zuizdChildren {
+  .txpc8Children {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .zuizd {
+  .txpc8 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .zuizdtitle {
+  .txpc8title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .zuizdtitlebody {
+  .txpc8titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,81 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .zuizdtitlebodytitle {
+  .txpc8titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .zuizdtitlebodylang {
+  .txpc8titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .zuizdtitlebodylang ul {
+  .txpc8titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .zuizdbody {
+  .txpc8titlebodylang ul li {
+    list-style: none;
+    margin: 0;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .txpc8titlebodylang ul a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px !important;
+    aspect-ratio: 1/1;
+    border-radius: 5px;
+    background-color: #333;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 2px;
+    color: #fff;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+  }
+  
+  .txpc8titlebodylang ul a:hover {
+    background-color: #fff;
+    color: #333;
+  }
+  .txpc8titlebodylang ul a:active {
+    background-color: #333;
+    color: #fff;
+  }
+  .txpc8titlebodylang ul a:focus {
+    background-color: #333;
+    color: #fff;
+  }
+  .txpc8titlebodylang ul a:visited {
+    background-color: #333;
+    color: #fff;
+  }
+  .txpc8titlebodylang ul a:link {
+    background-color: #333;
+    color: #fff;
+  }
+
+  .txpc8body {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .zuizdmenulist {
+  .txpc8menulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +119,7 @@
     width: 100%;
   }
 
-  .zuizdmenubody {
+  .txpc8menubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +127,7 @@
     justify-content: center;
   }
 
-  .zuizdmenulist ul {
+  .txpc8menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +137,7 @@
     overflow-x: auto;
   }
 
-  .zuizdmenulist ul a {
+  .txpc8menulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +149,14 @@
     white-space: nowrap;
   }
 
-  .zuizdmenulist ul a:hover {
+  .txpc8menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .zuizdmenuitem {
+  .txpc8menuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +168,30 @@
     white-space: nowrap;
   }
 
-  .zuizdmenuactive {
+  .txpc8menuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .zuizdbodylogo {
+  .txpc8bodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .zuizdmenumobil {
+    .txpc8menumobil {
       display: none !important;
     }
 
-    .zuizdmenulist {
+    .txpc8menulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .zuizdmenumobil {
+    .txpc8menumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +199,22 @@
       width: 100%;
     }
 
-    .zuizdmenumobil div {
+    .txpc8menumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .zuizdmenulist {
+    .txpc8menulist {
       display: none;
     }
 
-    .zuizdbody {
+    .txpc8body {
       flex-direction: column;
       gap: 20px;
     }
 
-    .zuizdChildren {
+    .txpc8Children {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +222,19 @@
       justify-content: center;
     }
 
-    .zuizdmenulist ul a {
+    .txpc8menulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .zuizdmenu {
+    .txpc8menu {
       overflow-x: auto;
     }
 
-    .zuizdmenulist ul {
+    .txpc8menulist ul {
       flex-direction: column;
     }
 
-    .zuizdbodylogo {
+    .txpc8bodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,7 +242,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .zuizdmenulist ul a {
+    .txpc8menulist ul a {
       font-size: 14px;
     }
   }
@@ -202,7 +252,7 @@
     justify-content: start;
   }
 
-  .ibmcn {
+  .cvblg {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -210,7 +260,7 @@
     position: relative;
   }
 
-  .ibmcn-menu-btn {
+  .cvblg-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -222,11 +272,11 @@
     align-items: center;
   }
 
-  .ibmcn-menu-btn i {
+  .cvblg-menu-btn i {
     font-size: 20px;
   }
 
-  .ibmcn-menu {
+  .cvblg-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -237,28 +287,28 @@
     float: left;
   }
 
-  .ibmcn-desc {
+  .cvblg-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .ibmcn-menu > a {
+  .cvblg-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .ibmcn-menu > .active,
-  .ibmcn-menu > a:hover {
+  .cvblg-menu > .active,
+  .cvblg-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .ibmcn-desc-menu {
+  .cvblg-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -266,19 +316,19 @@
     border-radius: 5px;
   }
 
-  .ibmcn-desc-menu > div {
+  .cvblg-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .ibmcn-desc-body {
+  .cvblg-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .ibmcn-title {
+  .cvblg-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -291,7 +341,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .ibmcn-title::before {
+  .cvblg-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -306,44 +356,44 @@
     z-index: 1;
   }
 
-  .ibmcn-title span {
+  .cvblg-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .ibmcn-body {
+  .cvblg-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .ibmcn-img {
+  .cvblg-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .ibmcn-img img {
+  .cvblg-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ibmcn-desc {
+    .cvblg-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ibmcn-menu-btn {
+    .cvblg-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .ibmcn {
+    .cvblg {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -352,17 +402,17 @@
       margin-top: 0px;
     }
 
-    .ibmcn-img {
+    .cvblg-img {
       width: 100%;
     }
 
-    .ibmcn-body {
+    .cvblg-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .ibmcn-menu {
+    .cvblg-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -370,11 +420,11 @@
       display: none;
     }
 
-    .ibmcn-menu.active {
+    .cvblg-menu.active {
       display: flex;
     }
 
-    .ibmcn-desc {
+    .cvblg-desc {
       width: 100% !important;
       order: 2;
     }

@@ -1,17 +1,17 @@
 
-  .igaj1menumobil {
+  .zp58umenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .igaj1Children {
+  .zp58uChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .igaj1 {
+  .zp58u {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .igaj1title {
+  .zp58utitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .igaj1titlebody {
+  .zp58utitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,81 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .igaj1titlebodytitle {
+  .zp58utitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .igaj1titlebodylang {
+  .zp58utitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .igaj1titlebodylang ul {
+  .zp58utitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .igaj1body {
+  .zp58utitlebodylang ul li {
+    list-style: none;
+    margin: 0;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .zp58utitlebodylang ul a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px !important;
+    aspect-ratio: 1/1;
+    border-radius: 5px;
+    background-color: #333;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 2px;
+    color: #fff;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+  }
+  
+  .zp58utitlebodylang ul a:hover {
+    background-color: #fff;
+    color: #333;
+  }
+  .zp58utitlebodylang ul a:active {
+    background-color: #333;
+    color: #fff;
+  }
+  .zp58utitlebodylang ul a:focus {
+    background-color: #333;
+    color: #fff;
+  }
+  .zp58utitlebodylang ul a:visited {
+    background-color: #333;
+    color: #fff;
+  }
+  .zp58utitlebodylang ul a:link {
+    background-color: #333;
+    color: #fff;
+  }
+
+  .zp58ubody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .igaj1menulist {
+  .zp58umenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +119,7 @@
     width: 100%;
   }
 
-  .igaj1menubody {
+  .zp58umenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +127,7 @@
     justify-content: center;
   }
 
-  .igaj1menulist ul {
+  .zp58umenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +137,7 @@
     overflow-x: auto;
   }
 
-  .igaj1menulist ul a {
+  .zp58umenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +149,14 @@
     white-space: nowrap;
   }
 
-  .igaj1menulist ul a:hover {
+  .zp58umenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .igaj1menuitem {
+  .zp58umenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +168,30 @@
     white-space: nowrap;
   }
 
-  .igaj1menuactive {
+  .zp58umenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .igaj1bodylogo {
+  .zp58ubodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .igaj1menumobil {
+    .zp58umenumobil {
       display: none !important;
     }
 
-    .igaj1menulist {
+    .zp58umenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .igaj1menumobil {
+    .zp58umenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +199,22 @@
       width: 100%;
     }
 
-    .igaj1menumobil div {
+    .zp58umenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .igaj1menulist {
+    .zp58umenulist {
       display: none;
     }
 
-    .igaj1body {
+    .zp58ubody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .igaj1Children {
+    .zp58uChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +222,19 @@
       justify-content: center;
     }
 
-    .igaj1menulist ul a {
+    .zp58umenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .igaj1menu {
+    .zp58umenu {
       overflow-x: auto;
     }
 
-    .igaj1menulist ul {
+    .zp58umenulist ul {
       flex-direction: column;
     }
 
-    .igaj1bodylogo {
+    .zp58ubodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,7 +242,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .igaj1menulist ul a {
+    .zp58umenulist ul a {
       font-size: 14px;
     }
   }
@@ -202,7 +252,7 @@
     justify-content: start;
   }
 
-  .l023q {
+  .cnb00 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -210,7 +260,7 @@
     position: relative;
   }
 
-  .l023q-menu-btn {
+  .cnb00-menu-btn {
     display: none;
     background-color: #ce0e2d;
     padding: 10px 20px;
@@ -222,11 +272,11 @@
     align-items: center;
   }
 
-  .l023q-menu-btn i {
+  .cnb00-menu-btn i {
     font-size: 20px;
   }
 
-  .l023q-menu {
+  .cnb00-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -237,28 +287,28 @@
     float: left;
   }
 
-  .l023q-desc {
+  .cnb00-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .l023q-menu > a {
+  .cnb00-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .l023q-menu > .active,
-  .l023q-menu > a:hover {
+  .cnb00-menu > .active,
+  .cnb00-menu > a:hover {
     background-color: #ce0e2d;
     color: #fff;
     display: flex;
   }
 
-  .l023q-desc-menu {
+  .cnb00-desc-menu {
     width: 200px;
     background-color: #ce0e2d;
     display: flex;
@@ -266,19 +316,19 @@
     border-radius: 5px;
   }
 
-  .l023q-desc-menu > div {
+  .cnb00-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .l023q-desc-body {
+  .cnb00-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .l023q-title {
+  .cnb00-title {
     width: 100%;
     height: 100px;
     background-color: #ce0e2d;
@@ -291,7 +341,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .l023q-title::before {
+  .cnb00-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -306,44 +356,44 @@
     z-index: 1;
   }
 
-  .l023q-title span {
+  .cnb00-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .l023q-body {
+  .cnb00-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .l023q-img {
+  .cnb00-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .l023q-img img {
+  .cnb00-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .l023q-desc {
+    .cnb00-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .l023q-menu-btn {
+    .cnb00-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .l023q {
+    .cnb00 {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -352,17 +402,17 @@
       margin-top: 0px;
     }
 
-    .l023q-img {
+    .cnb00-img {
       width: 100%;
     }
 
-    .l023q-body {
+    .cnb00-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .l023q-menu {
+    .cnb00-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -370,11 +420,11 @@
       display: none;
     }
 
-    .l023q-menu.active {
+    .cnb00-menu.active {
       display: flex;
     }
 
-    .l023q-desc {
+    .cnb00-desc {
       width: 100% !important;
       order: 2;
     }

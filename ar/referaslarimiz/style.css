@@ -1,17 +1,17 @@
 
-  .rk0wwmenumobil {
+  .y8tv0menumobil {
     display: none;
     cursor: pointer;
   }
 
-  .rk0wwChildren {
+  .y8tv0Children {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .rk0ww {
+  .y8tv0 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .rk0wwtitle {
+  .y8tv0title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .rk0wwtitlebody {
+  .y8tv0titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,81 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .rk0wwtitlebodytitle {
+  .y8tv0titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .rk0wwtitlebodylang {
+  .y8tv0titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .rk0wwtitlebodylang ul {
+  .y8tv0titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .rk0wwbody {
+  .y8tv0titlebodylang ul li {
+    list-style: none;
+    margin: 0;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .y8tv0titlebodylang ul a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px !important;
+    aspect-ratio: 1/1;
+    border-radius: 5px;
+    background-color: #333;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 2px;
+    color: #fff;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+  }
+  
+  .y8tv0titlebodylang ul a:hover {
+    background-color: #fff;
+    color: #333;
+  }
+  .y8tv0titlebodylang ul a:active {
+    background-color: #333;
+    color: #fff;
+  }
+  .y8tv0titlebodylang ul a:focus {
+    background-color: #333;
+    color: #fff;
+  }
+  .y8tv0titlebodylang ul a:visited {
+    background-color: #333;
+    color: #fff;
+  }
+  .y8tv0titlebodylang ul a:link {
+    background-color: #333;
+    color: #fff;
+  }
+
+  .y8tv0body {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .rk0wwmenulist {
+  .y8tv0menulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -69,7 +119,7 @@
     width: 100%;
   }
 
-  .rk0wwmenubody {
+  .y8tv0menubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -77,7 +127,7 @@
     justify-content: center;
   }
 
-  .rk0wwmenulist ul {
+  .y8tv0menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +137,7 @@
     overflow-x: auto;
   }
 
-  .rk0wwmenulist ul a {
+  .y8tv0menulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +149,14 @@
     white-space: nowrap;
   }
 
-  .rk0wwmenulist ul a:hover {
+  .y8tv0menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .rk0wwmenuitem {
+  .y8tv0menuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +168,30 @@
     white-space: nowrap;
   }
 
-  .rk0wwmenuactive {
+  .y8tv0menuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .rk0wwbodylogo {
+  .y8tv0bodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .rk0wwmenumobil {
+    .y8tv0menumobil {
       display: none !important;
     }
 
-    .rk0wwmenulist {
+    .y8tv0menulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .rk0wwmenumobil {
+    .y8tv0menumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +199,22 @@
       width: 100%;
     }
 
-    .rk0wwmenumobil div {
+    .y8tv0menumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .rk0wwmenulist {
+    .y8tv0menulist {
       display: none;
     }
 
-    .rk0wwbody {
+    .y8tv0body {
       flex-direction: column;
       gap: 20px;
     }
 
-    .rk0wwChildren {
+    .y8tv0Children {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +222,19 @@
       justify-content: center;
     }
 
-    .rk0wwmenulist ul a {
+    .y8tv0menulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .rk0wwmenu {
+    .y8tv0menu {
       overflow-x: auto;
     }
 
-    .rk0wwmenulist ul {
+    .y8tv0menulist ul {
       flex-direction: column;
     }
 
-    .rk0wwbodylogo {
+    .y8tv0bodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,25 +242,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .rk0wwmenulist ul a {
+    .y8tv0menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .ya38d {
+  .rl9oz {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ya38dbody {
+  .rl9ozbody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .ya38dbodyitem {
+  .rl9ozbodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -226,22 +276,22 @@
     align-items: center;
     justify-content: center;
   }
-  .ya38dbodyitem:hover {
+  .rl9ozbodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .ya38dbodyitemimg {
+  .rl9ozbodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .ya38dbodyitemimg img {
+  .rl9ozbodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .ya38dbodyitemtitle {
+  .rl9ozbodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -250,14 +300,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .ya38dbody {
+    .rl9ozbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .ya38dbody {
+    .rl9ozbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

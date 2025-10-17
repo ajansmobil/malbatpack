@@ -27,9 +27,9 @@
         "ar": "صفحة الشركة Malbat Pack: معلومات مفصلة عن شركتنا ورؤيتنا ورسالتنا وقيمنا. حلول تعبئة وتغليف موثوقة."
       },
       "spot": {
-        "tr": "Malbat Pack hakkında, misyon, vizyon ve değerlerimiz, kalite politikamız ve kurumsal bilgilerimiz.",
-        "en": "About Malbat Pack, our mission, vision and values, quality policy and corporate information.",
-        "ar": "حول Malbat Pack، مهمتنا ورؤيتنا وقيمنا، سياسة الجودة والمعلومات المؤسسية."
+        "tr": "Kaliteli ambalaj çözümleri, yılların deneyimi, profesyonel hizmet",
+        "en": "Quality packaging solutions, years of experience, professional service",
+        "ar": "حلول تعبئة وتغليف عالية الجودة، خبرة سنوات، خدمة مهنية"
       },
       "desc": {}
     },
@@ -60,9 +60,9 @@
         "ar": "خدمات Malbat Pack: حلول التعبئة والتغليف الشاملة، خدمات التصميم المخصص، الإنتاج عالي الجودة والخدمات المرتكزة على رضا العملاء."
       },
       "spot": {
-        "tr": "Oluklu mukavva kutular, özel tasarım ambalajlar, gıda kutuları, endüstriyel ambalaj çözümleri ve daha fazlası.",
-        "en": "Corrugated boxes, custom design packaging, food boxes, industrial packaging solutions and more.",
-        "ar": "صناديق مضلعة، تعبئة تصميم مخصص، صناديق الطعام، حلول التعبئة الصناعية والمزيد."
+        "tr": "Malbat Pack hizmetlerimiz: Kapsamlı ambalaj çözümleri, özel tasarım hizmetleri, kaliteli üretim ve müşteri memnuniyeti odaklı hizmetler",
+        "en": "Malbat Pack services: Comprehensive packaging solutions, custom design services, quality production and customer satisfaction focused services",
+        "ar": "خدمات Malbat Pack: حلول التعبئة والتغليف الشاملة، خدمات التصميم المخصص، الإنتاج عالي الجودة والخدمات المرتكزة على رضا العملاء"
       },
       "desc": {}
     },
@@ -93,9 +93,9 @@
         "ar": "أوراق Malbat Pack: منتجات ورقية عالية الجودة، خيارات وزن وأحجام متنوعة. حلول مثالية لتطبيقات الطباعة المهنية والتعبئة والتغليف."
       },
       "spot": {
-        "tr": "Testliner, kraftliner, oluklu kağıt, NSSC, beyaz üst kağıtlar ve özel kağıt çözümleri.",
-        "en": "Testliner, kraftliner, fluting paper, NSSC, white top papers and special paper solutions.",
-        "ar": "Testliner، Kraftliner، ورق الفلوتنج، NSSC، أوراق بيضاء علوية وحلول ورقية خاصة."
+        "tr": "Malbat Pack kağıtlarımız: Yüksek kaliteli kağıt ürünleri, çeşitli gramaj ve boyut seçenekleri",
+        "en": "Malbat Pack papers: High quality paper products, various grammage and size options",
+        "ar": "أوراق Malbat Pack: منتجات ورقية عالية الجودة، خيارات وزن وأحجام متنوعة"
       },
       "desc": {}
     },
@@ -126,9 +126,9 @@
         "ar": "مراجع Malbat Pack: محفظة عملائنا الموثوقة ومشاريعنا الناجحة. أعمالنا المرجعية التي تُظهر خبرتنا في الصناعة."
       },
       "spot": {
-        "tr": "Güvenilir müşteri portföyümüz, başarılı projelerimiz ve sektördeki deneyimimizi gösteren referanslarımız.",
-        "en": "Our reliable customer portfolio, successful projects and references showing our experience in the industry.",
-        "ar": "محفظة عملائنا الموثوقة ومشاريعنا الناجحة ومراجعنا التي تُظهر خبرتنا في الصناعة."
+        "tr": "Malbat Pack referanslarımız: Güvenilir müşteri portföyümüz ve başarılı projelerimiz",
+        "en": "Malbat Pack references: Our reliable customer portfolio and successful projects",
+        "ar": "مراجع Malbat Pack: محفظة عملائنا الموثوقة ومشاريعنا الناجحة"
       },
       "desc": {}
     },
@@ -160,9 +160,9 @@
         "ar": "اتصل بنا Malbat Pack: معلومات الاتصال الخاصة بنا والعنوان وأرقام الهواتف. اتصل بنا للحصول على خدمة العملاء والدعم."
       },
       "spot": {
-        "tr": "İletişim bilgilerimiz, adresimiz, telefon numaralarımız ve müşteri hizmetleri desteği için bize ulaşın.",
-        "en": "Our contact information, address, phone numbers and reach us for customer service support.",
-        "ar": "معلومات الاتصال الخاصة بنا والعنوان وأرقام الهواتف واتصل بنا للحصول على دعم خدمة العملاء."
+        "tr": "Malbat Pack iletişim: İletişim bilgilerimiz, adres ve telefon numaralarımız",
+        "en": "Malbat Pack contact: Our contact information, address and phone numbers",
+        "ar": "اتصل بنا Malbat Pack: معلومات الاتصال الخاصة بنا والعنوان وأرقام الهواتف"
       },
       "desc": {}
     }
