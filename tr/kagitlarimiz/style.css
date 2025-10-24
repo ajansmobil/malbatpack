@@ -1,17 +1,17 @@
 
-  .ovm77menumobil {
+  .wv1womenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .ovm77Children {
+  .wv1woChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .ovm77 {
+  .wv1wo {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .ovm77title {
+  .wv1wotitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .ovm77titlebody {
+  .wv1wotitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,24 +36,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ovm77titlebodytitle {
+  .wv1wotitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ovm77titlebodylang {
+  .wv1wotitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ovm77titlebodylang ul {
+  .wv1wotitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ovm77titlebodylang ul li {
+  .wv1wotitlebodylang ul li {
     list-style: none;
     margin: 0;
     width: 30px;
@@ -62,7 +62,7 @@
     align-items: center;
     justify-content: center;
   }
-  .ovm77titlebodylang ul a {
+  .wv1wotitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -81,35 +81,35 @@
     padding: 4px;
   }
   
-  .ovm77titlebodylang ul a:hover {
+  .wv1wotitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .ovm77titlebodylang ul a:active {
+  .wv1wotitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .ovm77titlebodylang ul a:focus {
+  .wv1wotitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .ovm77titlebodylang ul a:visited {
+  .wv1wotitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .ovm77titlebodylang ul a:link {
+  .wv1wotitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .ovm77body {
+  .wv1wobody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .ovm77menulist {
+  .wv1womenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -118,7 +118,7 @@
     width: 100%;
   }
 
-  .ovm77menubody {
+  .wv1womenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -126,7 +126,7 @@
     justify-content: center;
   }
 
-  .ovm77menulist ul {
+  .wv1womenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -136,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .ovm77menulist ul a {
+  .wv1womenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -148,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .ovm77menulist ul a:hover {
+  .wv1womenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ovm77menuitem {
+  .wv1womenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -167,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .ovm77menuactive {
+  .wv1womenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .ovm77bodylogo {
-    height: 100px;
+  .wv1wobodylogo {
+    height: 120px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .ovm77menumobil {
+    .wv1womenumobil {
       display: none !important;
     }
 
-    .ovm77menulist {
+    .wv1womenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ovm77menumobil {
+    .wv1womenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -198,22 +198,22 @@
       width: 100%;
     }
 
-    .ovm77menumobil div {
+    .wv1womenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .ovm77menulist {
+    .wv1womenulist {
       display: none;
     }
 
-    .ovm77body {
+    .wv1wobody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .ovm77Children {
+    .wv1woChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -221,19 +221,19 @@
       justify-content: center;
     }
 
-    .ovm77menulist ul a {
+    .wv1womenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .ovm77menu {
+    .wv1womenu {
       overflow-x: auto;
     }
 
-    .ovm77menulist ul {
+    .wv1womenulist ul {
       flex-direction: column;
     }
 
-    .ovm77bodylogo {
+    .wv1wobodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -241,27 +241,27 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ovm77menulist ul a {
+    .wv1womenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .lg2ev {
+  .uae8e {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .lg2ev-body {
+  .uae8e-body {
     width: var(--max);
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(4, 1fr);
   }
 
-  .lg2ev-body-item {
+  .uae8e-body-item {
     aspect-ratio: 7 / 4;
     background-color: #f2f2f2;
     border-radius: 5px;
@@ -272,7 +272,7 @@
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
 
-  .lg2ev-body-item-img {
+  .uae8e-body-item-img {
     aspect-ratio: 12 / 8;
     display: flex;
     justify-content: center;
@@ -283,7 +283,7 @@
     /* Taşma durumunda kesme */
   }
 
-  .lg2ev-body-item-img img {
+  .uae8e-body-item-img img {
     width: 100%;
     height: 100%;
     object-fit: contain;
@@ -291,7 +291,7 @@
     border-radius: 5px;
   }
 
-  .lg2ev-body-item-title {
+  .uae8e-body-item-title {
     border-radius: 3px;
     padding: 5px;
     background-color: #e9e9e9;
@@ -304,7 +304,7 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .lg2ev-body {
+    .uae8e-body {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(3, 1fr);
@@ -312,7 +312,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .lg2ev-body {
+    .uae8e-body {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(2, 1fr);

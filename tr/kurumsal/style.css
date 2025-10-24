@@ -1,17 +1,17 @@
 
-  .nn77xmenumobil {
+  .iqltqmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .nn77xChildren {
+  .iqltqChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .nn77x {
+  .iqltq {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .nn77xtitle {
+  .iqltqtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .nn77xtitlebody {
+  .iqltqtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,24 +36,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .nn77xtitlebodytitle {
+  .iqltqtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .nn77xtitlebodylang {
+  .iqltqtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .nn77xtitlebodylang ul {
+  .iqltqtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .nn77xtitlebodylang ul li {
+  .iqltqtitlebodylang ul li {
     list-style: none;
     margin: 0;
     width: 30px;
@@ -62,7 +62,7 @@
     align-items: center;
     justify-content: center;
   }
-  .nn77xtitlebodylang ul a {
+  .iqltqtitlebodylang ul a {
     color: #fff;
     text-decoration: none;
     font-size: 14px !important;
@@ -81,35 +81,35 @@
     padding: 4px;
   }
   
-  .nn77xtitlebodylang ul a:hover {
+  .iqltqtitlebodylang ul a:hover {
     background-color: #fff;
     color: #333;
   }
-  .nn77xtitlebodylang ul a:active {
+  .iqltqtitlebodylang ul a:active {
     background-color: #333;
     color: #fff;
   }
-  .nn77xtitlebodylang ul a:focus {
+  .iqltqtitlebodylang ul a:focus {
     background-color: #333;
     color: #fff;
   }
-  .nn77xtitlebodylang ul a:visited {
+  .iqltqtitlebodylang ul a:visited {
     background-color: #333;
     color: #fff;
   }
-  .nn77xtitlebodylang ul a:link {
+  .iqltqtitlebodylang ul a:link {
     background-color: #333;
     color: #fff;
   }
 
-  .nn77xbody {
+  .iqltqbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .nn77xmenulist {
+  .iqltqmenulist {
     display: block;
     background-color: #ce0e2d;
     padding: 10px;
@@ -118,7 +118,7 @@
     width: 100%;
   }
 
-  .nn77xmenubody {
+  .iqltqmenubody {
     width: 100%;
     background-color: #ce0e2d;
     display: flex;
@@ -126,7 +126,7 @@
     justify-content: center;
   }
 
-  .nn77xmenulist ul {
+  .iqltqmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -136,7 +136,7 @@
     overflow-x: auto;
   }
 
-  .nn77xmenulist ul a {
+  .iqltqmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -148,14 +148,14 @@
     white-space: nowrap;
   }
 
-  .nn77xmenulist ul a:hover {
+  .iqltqmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .nn77xmenuitem {
+  .iqltqmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -167,30 +167,30 @@
     white-space: nowrap;
   }
 
-  .nn77xmenuactive {
+  .iqltqmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .nn77xbodylogo {
-    height: 100px;
+  .iqltqbodylogo {
+    height: 120px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .nn77xmenumobil {
+    .iqltqmenumobil {
       display: none !important;
     }
 
-    .nn77xmenulist {
+    .iqltqmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .nn77xmenumobil {
+    .iqltqmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -198,22 +198,22 @@
       width: 100%;
     }
 
-    .nn77xmenumobil div {
+    .iqltqmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .nn77xmenulist {
+    .iqltqmenulist {
       display: none;
     }
 
-    .nn77xbody {
+    .iqltqbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .nn77xChildren {
+    .iqltqChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -221,19 +221,19 @@
       justify-content: center;
     }
 
-    .nn77xmenulist ul a {
+    .iqltqmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .nn77xmenu {
+    .iqltqmenu {
       overflow-x: auto;
     }
 
-    .nn77xmenulist ul {
+    .iqltqmenulist ul {
       flex-direction: column;
     }
 
-    .nn77xbodylogo {
+    .iqltqbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -241,7 +241,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .nn77xmenulist ul a {
+    .iqltqmenulist ul a {
       font-size: 14px;
     }
   }
