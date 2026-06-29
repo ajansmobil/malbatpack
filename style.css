@@ -274,7 +274,7 @@
     object-fit: cover;
   }
 
-  /* Safari özel düzeltme */
+  
   @media not all and (min-resolution:.001dpcm) {
     @supports (-webkit-appearance:none) {
       .swiper-slide>img {
@@ -357,11 +357,11 @@
     font-weight: bold;
     opacity: 0.4;
     position: absolute !important;
-    /* Change relative to absolute */
+    
     top: 50%;
-    /* Position it at the middle of the container */
+    
     transform: translateY(-50%);
-    /* Center it vertically */
+    
   }
   .swiper-button-prev-waa9y {
     left: -30px !important;
@@ -674,11 +674,11 @@
     font-weight: bold;
     opacity: 0.4;
     position: absolute !important;
-    /* Change relative to absolute */
+    
     top: 50%;
-    /* Position it at the middle of the container */
+    
     transform: translateY(-50%);
-    /* Center it vertically */
+    
   }
   .swiper-button-prev-sohog {
     left: -30px !important;

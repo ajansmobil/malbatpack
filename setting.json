@@ -29,5 +29,7 @@
     "pt": false
   },
   "logo": "logo.svg",
-  "multi": false
+  "multi": false,
+  "eticaret": false,
+  "defaultLang": "ar"
 }

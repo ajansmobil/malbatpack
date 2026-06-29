@@ -122,7 +122,7 @@
         },
         {
           "icon": "map",
-          "text": "العنوان : طريق زاخو دهوك قرية گرره ش",
+          "text": "العنوان : طريق زاخو دهوك قرية گرره ش(Irak - Zaho)",
           "url": ""
         }
       ],
@@ -139,7 +139,7 @@
       "desing": {
         "height": "200",
         "opacity": "0.5",
-        "backgroundcolor": "#000",
+        "backgroundcolor": "#fff",
         "color": "#1e3046",
         "img": "map.webp",
         "externalUrl": ""
@@ -170,7 +170,7 @@
       "name": "Ürünlerimiz",
       "path": "page-column",
       "local": "body",
-      "category": "page list",
+      "category": "page-list",
       "desing": {
         "page": "products",
         "bgcolor": "#e31524",
@@ -189,7 +189,7 @@
       "name": "Referaslarımız",
       "path": "module-list",
       "local": "body",
-      "category": "Module list",
+      "category": "Module-list",
       "desing": {
         "size": 4
       },
@@ -258,7 +258,7 @@
       "name": "Oluklu Mukavva Çeşitleri",
       "path": "page-slider-5",
       "local": "body",
-      "category": "page slider",
+      "category": "page-slider",
       "desing": {
         "page": "oluklu-mukavva-cesitleri",
         "name": {
@@ -281,7 +281,7 @@
       "name": "Kutu ve Ambalaj",
       "path": "page-slider-5",
       "local": "body",
-      "category": "page slider",
+      "category": "page-slider",
       "desing": {
         "page": "products",
         "name": {
@@ -304,7 +304,7 @@
       "name": "Kağıtlarımız",
       "path": "page-slider-6",
       "local": "body",
-      "category": "page slider",
+      "category": "page-slider",
       "desing": {
         "page": "kagitlarimiz",
         "name": {
@@ -327,7 +327,7 @@
       "name": "Sayfa Listesi Kare",
       "path": "page-list",
       "local": "body",
-      "category": "page list",
+      "category": "page-list",
       "desing": {
         "page": "kagitlarimiz",
         "size": 4,

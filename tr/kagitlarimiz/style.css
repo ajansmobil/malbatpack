@@ -280,14 +280,14 @@
     background-color: #ffffff;
     border-radius: 5px;
     overflow: hidden;
-    /* Taşma durumunda kesme */
+    
   }
 
   .uae8e-body-item-img img {
     width: 100%;
     height: 100%;
     object-fit: contain;
-    /* Resmi sığdır, taşma yapmasın */
+    
     border-radius: 5px;
   }
 
