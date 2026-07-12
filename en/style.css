@@ -458,6 +458,23 @@
     }
   }
 
+  
+  @media (max-width: 768px) {
+    [class*="h0000"] {
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+  }
+
+  
+  @media (prefers-reduced-motion: reduce) {
+    [class*="h0000"],
+    [class*="h0000"] * {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+
 
   .swiper-container {
     width: 100%;
@@ -728,6 +745,15 @@
   }
   .b0000 .swiper-wrapper {
     width: 100%;
+  }
+
+  
+  @media (prefers-reduced-motion: reduce) {
+    [class*="b0000"],
+    [class*="b0000"] * {
+      animation: none !important;
+      transition: none !important;
+    }
   }
 
 
@@ -1089,6 +1115,15 @@
     width: 100%;
   }
 
+  
+  @media (prefers-reduced-motion: reduce) {
+    [class*="b0002"],
+    [class*="b0002"] * {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+
 
   .b0003 {
     width: 100%;
@@ -1169,6 +1204,23 @@
     }
   }
 
+  
+  @media (max-width: 768px) {
+    [class*="b0003"] {
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+  }
+
+  
+  @media (prefers-reduced-motion: reduce) {
+    [class*="b0003"],
+    [class*="b0003"] * {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+
 
   .zoom-icon-container {
     display: flex;
@@ -1238,7 +1290,7 @@
     fill: #fff;
   }
   .b0004-bg {
-    background-image: url("/img/fd388u/map.webp?v=sn2f0") !important;
+    background-image: url("/img/fd388u/map.webp?v=bm3zn") !important;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -1252,6 +1304,23 @@
     z-index: -1;
   }
   @media screen and (max-width: 1024px) {
+  }
+
+  
+  @media (max-width: 768px) {
+    [class*="b0004"] {
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+  }
+
+  
+  @media (prefers-reduced-motion: reduce) {
+    [class*="b0004"],
+    [class*="b0004"] * {
+      animation: none !important;
+      transition: none !important;
+    }
   }
 
 
