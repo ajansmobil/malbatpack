@@ -458,23 +458,6 @@
     }
   }
 
-  
-  @media (max-width: 768px) {
-    [class*="h0000"] {
-      max-width: 100%;
-      box-sizing: border-box;
-    }
-  }
-
-  
-  @media (prefers-reduced-motion: reduce) {
-    [class*="h0000"],
-    [class*="h0000"] * {
-      animation: none !important;
-      transition: none !important;
-    }
-  }
-
 
   #content {
     justify-content: start;
@@ -513,7 +496,7 @@
     border: none;
     cursor: pointer;
     font-weight: bold;
-    color: #fff;
+    color: --textcolor--;
     justify-content: space-between;
     align-items: center;
     gap: 8px;
@@ -636,7 +619,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
-    color: #fff;
+    color: --textcolor--;
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.45);
   }
@@ -663,7 +646,7 @@
     margin: 0;
     padding: 0 20px;
     text-align: center;
-    color: #fff !important;
+    color: --textcolor-- !important;
     animation: b0000Pd5TitleIn 0.55s cubic-bezier(0.22, 1, 0.36, 1) both;
   }
 

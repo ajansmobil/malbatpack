@@ -458,23 +458,6 @@
     }
   }
 
-  
-  @media (max-width: 768px) {
-    [class*="h0000"] {
-      max-width: 100%;
-      box-sizing: border-box;
-    }
-  }
-
-  
-  @media (prefers-reduced-motion: reduce) {
-    [class*="h0000"],
-    [class*="h0000"] * {
-      animation: none !important;
-      transition: none !important;
-    }
-  }
-
 
   .b0000 {
     width: 100%;
@@ -555,23 +538,6 @@
     }
   }
 
-  
-  @media (max-width: 768px) {
-    [class*="b0000"] {
-      max-width: 100%;
-      box-sizing: border-box;
-    }
-  }
-
-  
-  @media (prefers-reduced-motion: reduce) {
-    [class*="b0000"],
-    [class*="b0000"] * {
-      animation: none !important;
-      transition: none !important;
-    }
-  }
-
 
   .zoom-icon-container {
     display: flex;
@@ -641,7 +607,7 @@
     fill: #fff;
   }
   .b0001-bg {
-    background-image: url("/img/fd388u/map.webp?v=yhq3o") !important;
+    background-image: url("/img/fd388u/map.webp?v=ipxtj") !important;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -655,23 +621,6 @@
     z-index: -1;
   }
   @media screen and (max-width: 1024px) {
-  }
-
-  
-  @media (max-width: 768px) {
-    [class*="b0001"] {
-      max-width: 100%;
-      box-sizing: border-box;
-    }
-  }
-
-  
-  @media (prefers-reduced-motion: reduce) {
-    [class*="b0001"],
-    [class*="b0001"] * {
-      animation: none !important;
-      transition: none !important;
-    }
   }
 
 
